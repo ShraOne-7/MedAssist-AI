@@ -1,0 +1,8433 @@
+[2025-10-23 00:08:07] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 00:08:07] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 00:08:07] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 00:09:39] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 00:09:39] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 00:09:39] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 00:12:31] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 00:12:31] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 00:12:31] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 00:14:59] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 00:14:59] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 00:14:59] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 00:15:58] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 00:15:58] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 00:15:58] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 00:16:52] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 00:16:52] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 00:16:52] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 00:18:36] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 00:18:36] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 00:18:36] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 00:20:58] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 00:20:58] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 00:20:58] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 00:21:30] [INFO] [PostDischargeAssistant] Generating 30 dummy patient records...
+[2025-10-23 00:21:30] [INFO] [PostDischargeAssistant] ✓ Successfully generated 30 patient records
+[2025-10-23 00:21:30] [INFO] [PostDischargeAssistant] ✓ Saved patient reports to: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patient_reports.json
+[2025-10-23 00:21:30] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 00:21:30] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 00:21:30] [INFO] [PostDischargeAssistant] Bulk adding 30 patients...
+[2025-10-23 00:21:30] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Margaret Hernandez
+[2025-10-23 00:21:30] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Daniel King
+[2025-10-23 00:21:30] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Joseph Lee
+[2025-10-23 00:21:30] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Richard Jackson
+[2025-10-23 00:21:31] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Mary Smith
+[2025-10-23 00:21:31] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Sarah Moore
+[2025-10-23 00:21:31] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Patricia Walker
+[2025-10-23 00:21:31] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Sarah Lopez
+[2025-10-23 00:21:31] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Matthew Lopez
+[2025-10-23 00:21:31] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Jennifer Thomas
+[2025-10-23 00:21:31] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Elizabeth Williams
+[2025-10-23 00:21:31] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Mary Miller
+[2025-10-23 00:21:31] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: John Brown
+[2025-10-23 00:21:31] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: William Johnson
+[2025-10-23 00:21:31] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Sandra Anderson
+[2025-10-23 00:21:32] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Matthew Martinez
+[2025-10-23 00:21:32] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Richard Anderson
+[2025-10-23 00:21:32] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Ashley Harris
+[2025-10-23 00:21:32] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Susan Thompson
+[2025-10-23 00:21:32] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Robert Lee
+[2025-10-23 00:21:32] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Patricia Martinez
+[2025-10-23 00:21:32] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Jennifer Garcia
+[2025-10-23 00:21:32] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Sandra White
+[2025-10-23 00:21:32] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Sarah Harris
+[2025-10-23 00:21:32] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Jennifer Allen
+[2025-10-23 00:21:33] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Christopher Thompson
+[2025-10-23 00:21:33] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Mary White
+[2025-10-23 00:21:33] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Sandra Smith
+[2025-10-23 00:21:33] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Betty Thompson
+[2025-10-23 00:21:33] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Patricia Taylor
+[2025-10-23 00:21:33] [INFO] [PostDischargeAssistant] ✓ Successfully added 30/30 patients
+[2025-10-23 00:21:33] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 00:21:33] [INFO] [PostDischargeAssistant] Starting Enhanced PDF Processing Pipeline
+[2025-10-23 00:21:33] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 00:21:33] [INFO] [PostDischargeAssistant] Opening PDF: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\nephrology_book.pdf
+[2025-10-23 00:21:33] [INFO] [PostDischargeAssistant] PDF has 1547 pages
+[2025-10-23 00:21:37] [INFO] [PostDischargeAssistant] Processed 100/1547 pages...
+[2025-10-23 00:21:38] [INFO] [PostDischargeAssistant] Processed 200/1547 pages...
+[2025-10-23 00:21:39] [INFO] [PostDischargeAssistant] Processed 300/1547 pages...
+[2025-10-23 00:21:40] [INFO] [PostDischargeAssistant] Processed 400/1547 pages...
+[2025-10-23 00:21:41] [INFO] [PostDischargeAssistant] Processed 500/1547 pages...
+[2025-10-23 00:21:42] [INFO] [PostDischargeAssistant] Processed 600/1547 pages...
+[2025-10-23 00:21:43] [INFO] [PostDischargeAssistant] Processed 700/1547 pages...
+[2025-10-23 00:21:44] [INFO] [PostDischargeAssistant] Processed 800/1547 pages...
+[2025-10-23 00:21:45] [INFO] [PostDischargeAssistant] Processed 900/1547 pages...
+[2025-10-23 00:21:46] [INFO] [PostDischargeAssistant] Processed 1000/1547 pages...
+[2025-10-23 00:21:46] [INFO] [PostDischargeAssistant] Processed 1100/1547 pages...
+[2025-10-23 00:21:47] [INFO] [PostDischargeAssistant] Processed 1200/1547 pages...
+[2025-10-23 00:21:48] [INFO] [PostDischargeAssistant] Processed 1300/1547 pages...
+[2025-10-23 00:21:49] [INFO] [PostDischargeAssistant] Processed 1400/1547 pages...
+[2025-10-23 00:21:50] [INFO] [PostDischargeAssistant] Processed 1500/1547 pages...
+[2025-10-23 00:21:51] [INFO] [PostDischargeAssistant] ✓ Successfully extracted text from 1547 pages
+[2025-10-23 00:21:51] [INFO] [PostDischargeAssistant] Starting intelligent chunking (target=1000, overlap=200)...
+[2025-10-23 00:21:52] [INFO] [PostDischargeAssistant] ✓ Created 12562 intelligent chunks from 1547 pages
+[2025-10-23 00:21:52] [INFO] [PostDischargeAssistant] Chunk statistics:
+[2025-10-23 00:21:52] [INFO] [PostDischargeAssistant]   Average size: 705 characters
+[2025-10-23 00:21:52] [INFO] [PostDischargeAssistant]   Min size: 3 characters
+[2025-10-23 00:21:52] [INFO] [PostDischargeAssistant]   Max size: 6692 characters
+[2025-10-23 00:21:52] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 00:21:52] [INFO] [PostDischargeAssistant] PDF Processing Complete
+[2025-10-23 00:21:52] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 00:21:52] [INFO] [PostDischargeAssistant] Total Pages: 1547
+[2025-10-23 00:21:52] [INFO] [PostDischargeAssistant] Total Chunks: 12562
+[2025-10-23 00:21:52] [INFO] [PostDischargeAssistant] Average Chunk Size: 705 characters
+[2025-10-23 00:21:52] [INFO] [PostDischargeAssistant] Total Characters: 8,857,652
+[2025-10-23 00:21:52] [INFO] [PostDischargeAssistant] ✓ Saved chunks preview to: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\chunks_preview.txt
+[2025-10-23 00:21:52] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 00:21:52] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 00:22:13] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 00:22:13] [INFO] [PostDischargeAssistant] Creating Pinecone index: nephrology-knowledge
+[2025-10-23 00:22:15] [INFO] [PostDischargeAssistant] Creating serverless index...
+[2025-10-23 00:22:15] [INFO] [PostDischargeAssistant]   Dimension: 384
+[2025-10-23 00:22:15] [INFO] [PostDischargeAssistant]   Metric: cosine
+[2025-10-23 00:22:15] [INFO] [PostDischargeAssistant]   Cloud: aws
+[2025-10-23 00:22:15] [INFO] [PostDischargeAssistant]   Region: us-east-1
+[2025-10-23 00:22:19] [INFO] [PostDischargeAssistant] Waiting for index to be ready...
+[2025-10-23 00:22:19] [INFO] [PostDischargeAssistant] ✓ Index 'nephrology-knowledge' created successfully
+[2025-10-23 00:22:20] [INFO] [PostDischargeAssistant] Upserting 12562 documents to Pinecone...
+[2025-10-23 00:22:20] [INFO] [PostDischargeAssistant] Batch size: 100
+[2025-10-23 00:31:02] [INFO] [PostDischargeAssistant] ✓ Successfully upserted documents
+[2025-10-23 00:31:02] [INFO] [PostDischargeAssistant]   Total vectors in index: 12562
+[2025-10-23 00:31:02] [INFO] [PostDischargeAssistant] Searching Pinecone for: 'chronic kidney disease treatment'
+[2025-10-23 00:31:02] [INFO] [PostDischargeAssistant]   Top K: 3
+[2025-10-23 00:31:02] [INFO] [PostDischargeAssistant] ✓ Found 3 results
+[2025-10-23 00:31:02] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 00:31:02] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 00:31:02] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 00:31:02] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 00:31:06] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 00:31:06] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 00:31:08] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 00:31:08] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 00:36:52] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 00:36:52] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 00:36:52] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 00:36:52] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 00:36:52] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 00:37:24] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 00:37:24] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 00:37:24] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 00:37:24] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 00:37:24] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 00:38:58] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 00:38:58] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 00:38:58] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 00:38:58] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 00:38:58] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 00:42:14] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 00:42:14] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 00:42:14] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 00:42:14] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 00:42:14] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 00:44:12] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 00:44:12] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 00:44:12] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 00:44:12] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 00:44:12] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 00:45:34] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 00:45:34] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 00:45:34] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 00:45:34] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 00:45:34] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 00:48:39] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 00:48:39] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 00:48:39] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 00:48:39] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 00:48:39] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 00:49:38] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 00:49:38] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 00:49:38] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 00:49:38] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 00:49:38] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 00:50:39] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 00:50:39] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 00:50:39] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 00:53:04] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 00:53:04] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 00:53:04] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 00:53:53] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 00:53:53] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 00:53:59] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 00:53:59] [INFO] [PostDischargeAssistant] Starting Enhanced PDF Processing Pipeline
+[2025-10-23 00:53:59] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 00:53:59] [INFO] [PostDischargeAssistant] Opening PDF: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\nephrology_book.pdf
+[2025-10-23 00:53:59] [INFO] [PostDischargeAssistant] PDF has 1547 pages
+[2025-10-23 00:54:00] [INFO] [PostDischargeAssistant] Processed 100/1547 pages...
+[2025-10-23 00:54:01] [INFO] [PostDischargeAssistant] Processed 200/1547 pages...
+[2025-10-23 00:54:02] [INFO] [PostDischargeAssistant] Processed 300/1547 pages...
+[2025-10-23 00:54:02] [INFO] [PostDischargeAssistant] Processed 400/1547 pages...
+[2025-10-23 00:54:03] [INFO] [PostDischargeAssistant] Processed 500/1547 pages...
+[2025-10-23 00:54:04] [INFO] [PostDischargeAssistant] Processed 600/1547 pages...
+[2025-10-23 00:54:05] [INFO] [PostDischargeAssistant] Processed 700/1547 pages...
+[2025-10-23 00:54:06] [INFO] [PostDischargeAssistant] Processed 800/1547 pages...
+[2025-10-23 00:54:07] [INFO] [PostDischargeAssistant] Processed 900/1547 pages...
+[2025-10-23 00:54:08] [INFO] [PostDischargeAssistant] Processed 1000/1547 pages...
+[2025-10-23 00:54:08] [INFO] [PostDischargeAssistant] Processed 1100/1547 pages...
+[2025-10-23 00:54:09] [INFO] [PostDischargeAssistant] Processed 1200/1547 pages...
+[2025-10-23 00:54:10] [INFO] [PostDischargeAssistant] Processed 1300/1547 pages...
+[2025-10-23 00:54:11] [INFO] [PostDischargeAssistant] Processed 1400/1547 pages...
+[2025-10-23 00:54:12] [INFO] [PostDischargeAssistant] Processed 1500/1547 pages...
+[2025-10-23 00:54:13] [INFO] [PostDischargeAssistant] ✓ Successfully extracted text from 1547 pages
+[2025-10-23 00:54:13] [INFO] [PostDischargeAssistant] Starting intelligent chunking (target=1000, overlap=200)...
+[2025-10-23 00:54:14] [INFO] [PostDischargeAssistant] ✓ Created 12562 intelligent chunks from 1547 pages
+[2025-10-23 00:54:14] [INFO] [PostDischargeAssistant] Chunk statistics:
+[2025-10-23 00:54:14] [INFO] [PostDischargeAssistant]   Average size: 705 characters
+[2025-10-23 00:54:14] [INFO] [PostDischargeAssistant]   Min size: 3 characters
+[2025-10-23 00:54:14] [INFO] [PostDischargeAssistant]   Max size: 6692 characters
+[2025-10-23 00:54:14] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 00:54:14] [INFO] [PostDischargeAssistant] PDF Processing Complete
+[2025-10-23 00:54:14] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 00:54:14] [INFO] [PostDischargeAssistant] Total Pages: 1547
+[2025-10-23 00:54:14] [INFO] [PostDischargeAssistant] Total Chunks: 12562
+[2025-10-23 00:54:14] [INFO] [PostDischargeAssistant] Average Chunk Size: 705 characters
+[2025-10-23 00:54:14] [INFO] [PostDischargeAssistant] Total Characters: 8,857,652
+[2025-10-23 00:54:14] [INFO] [PostDischargeAssistant] ✓ Saved chunks preview to: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\chunks_preview.txt
+[2025-10-23 00:54:14] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 00:54:14] [ERROR] [PostDischargeAssistant] [ERROR] Pinecone Setup: module 'pinecone' has no attribute 'init'
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\setup_phase1.py", line 167, in step_5_setup_pinecone
+    manager = PineconeManager()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\pinecone_manager.py", line 39, in __init__
+    pinecone.init(api_key=self.api_key, environment=self.environment)
+AttributeError: module 'pinecone' has no attribute 'init'
+[2025-10-23 00:57:09] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 00:57:09] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 00:57:09] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 01:00:27] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 01:00:27] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 01:00:27] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 01:00:56] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 01:00:56] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 01:00:56] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 01:01:11] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 01:01:11] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 01:01:14] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 01:01:14] [INFO] [PostDischargeAssistant] Starting Enhanced PDF Processing Pipeline
+[2025-10-23 01:01:14] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 01:01:14] [INFO] [PostDischargeAssistant] Opening PDF: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\nephrology_book.pdf
+[2025-10-23 01:01:14] [INFO] [PostDischargeAssistant] PDF has 1547 pages
+[2025-10-23 01:01:14] [INFO] [PostDischargeAssistant] Processed 100/1547 pages...
+[2025-10-23 01:01:15] [INFO] [PostDischargeAssistant] Processed 200/1547 pages...
+[2025-10-23 01:01:16] [INFO] [PostDischargeAssistant] Processed 300/1547 pages...
+[2025-10-23 01:01:17] [INFO] [PostDischargeAssistant] Processed 400/1547 pages...
+[2025-10-23 01:01:18] [INFO] [PostDischargeAssistant] Processed 500/1547 pages...
+[2025-10-23 01:01:19] [INFO] [PostDischargeAssistant] Processed 600/1547 pages...
+[2025-10-23 01:01:20] [INFO] [PostDischargeAssistant] Processed 700/1547 pages...
+[2025-10-23 01:01:21] [INFO] [PostDischargeAssistant] Processed 800/1547 pages...
+[2025-10-23 01:01:21] [INFO] [PostDischargeAssistant] Processed 900/1547 pages...
+[2025-10-23 01:01:22] [INFO] [PostDischargeAssistant] Processed 1000/1547 pages...
+[2025-10-23 01:01:23] [INFO] [PostDischargeAssistant] Processed 1100/1547 pages...
+[2025-10-23 01:01:24] [INFO] [PostDischargeAssistant] Processed 1200/1547 pages...
+[2025-10-23 01:01:25] [INFO] [PostDischargeAssistant] Processed 1300/1547 pages...
+[2025-10-23 01:01:26] [INFO] [PostDischargeAssistant] Processed 1400/1547 pages...
+[2025-10-23 01:01:27] [INFO] [PostDischargeAssistant] Processed 1500/1547 pages...
+[2025-10-23 01:01:28] [INFO] [PostDischargeAssistant] ✓ Successfully extracted text from 1547 pages
+[2025-10-23 01:01:28] [INFO] [PostDischargeAssistant] Starting intelligent chunking (target=1000, overlap=200)...
+[2025-10-23 01:01:29] [INFO] [PostDischargeAssistant] ✓ Created 12562 intelligent chunks from 1547 pages
+[2025-10-23 01:01:29] [INFO] [PostDischargeAssistant] Chunk statistics:
+[2025-10-23 01:01:29] [INFO] [PostDischargeAssistant]   Average size: 705 characters
+[2025-10-23 01:01:29] [INFO] [PostDischargeAssistant]   Min size: 3 characters
+[2025-10-23 01:01:29] [INFO] [PostDischargeAssistant]   Max size: 6692 characters
+[2025-10-23 01:01:29] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 01:01:29] [INFO] [PostDischargeAssistant] PDF Processing Complete
+[2025-10-23 01:01:29] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 01:01:29] [INFO] [PostDischargeAssistant] Total Pages: 1547
+[2025-10-23 01:01:29] [INFO] [PostDischargeAssistant] Total Chunks: 12562
+[2025-10-23 01:01:29] [INFO] [PostDischargeAssistant] Average Chunk Size: 705 characters
+[2025-10-23 01:01:29] [INFO] [PostDischargeAssistant] Total Characters: 8,857,652
+[2025-10-23 01:01:29] [INFO] [PostDischargeAssistant] ✓ Saved chunks preview to: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\chunks_preview.txt
+[2025-10-23 01:01:29] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 01:01:29] [ERROR] [PostDischargeAssistant] [ERROR] Pinecone Setup: init is no longer a top-level attribute of the pinecone package.
+
+Please create an instance of the Pinecone class instead.
+
+Example:
+
+    import os
+    from pinecone import Pinecone, ServerlessSpec
+
+    pc = Pinecone(
+        api_key=os.environ.get("PINECONE_API_KEY")
+    )
+
+    # Now do stuff
+    if 'my_index' not in pc.list_indexes().names():
+        pc.create_index(
+            name='my_index', 
+            dimension=1536, 
+            metric='euclidean',
+            spec=ServerlessSpec(
+                cloud='aws',
+                region='us-west-2'
+            )
+        )
+
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\setup_phase1.py", line 167, in step_5_setup_pinecone
+    manager = PineconeManager()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\pinecone_manager.py", line 38, in __init__
+    pinecone.init(api_key=self.api_key, environment=self.environment)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\pinecone\deprecation_warnings.py", line 39, in init
+    raise AttributeError(msg)
+AttributeError: init is no longer a top-level attribute of the pinecone package.
+
+Please create an instance of the Pinecone class instead.
+
+Example:
+
+    import os
+    from pinecone import Pinecone, ServerlessSpec
+
+    pc = Pinecone(
+        api_key=os.environ.get("PINECONE_API_KEY")
+    )
+
+    # Now do stuff
+    if 'my_index' not in pc.list_indexes().names():
+        pc.create_index(
+            name='my_index', 
+            dimension=1536, 
+            metric='euclidean',
+            spec=ServerlessSpec(
+                cloud='aws',
+                region='us-west-2'
+            )
+        )
+
+
+[2025-10-23 01:03:41] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 01:03:41] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 01:03:41] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 01:03:52] [INFO] [PostDischargeAssistant] Generating 30 dummy patient records...
+[2025-10-23 01:03:52] [INFO] [PostDischargeAssistant] ✓ Successfully generated 30 patient records
+[2025-10-23 01:03:52] [INFO] [PostDischargeAssistant] ✓ Saved patient reports to: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patient_reports.json
+[2025-10-23 01:03:52] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 01:03:52] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 01:03:53] [WARNING] [PostDischargeAssistant] Resetting database - all data will be lost!
+[2025-10-23 01:03:53] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 01:03:53] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 01:03:53] [INFO] [PostDischargeAssistant] ✓ Database reset complete
+[2025-10-23 01:03:53] [INFO] [PostDischargeAssistant] Bulk adding 30 patients...
+[2025-10-23 01:03:53] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Karen King
+[2025-10-23 01:03:53] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Donald Williams
+[2025-10-23 01:03:53] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: John Taylor
+[2025-10-23 01:03:53] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Linda Allen
+[2025-10-23 01:03:53] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Michael Young
+[2025-10-23 01:03:53] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Susan Lee
+[2025-10-23 01:03:53] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Joseph Rodriguez
+[2025-10-23 01:03:53] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Robert Rodriguez
+[2025-10-23 01:03:53] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: John Young
+[2025-10-23 01:03:53] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: William Robinson
+[2025-10-23 01:03:53] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Elizabeth Anderson
+[2025-10-23 01:03:54] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Mark Allen
+[2025-10-23 01:03:54] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Jessica Clark
+[2025-10-23 01:03:54] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Jennifer Brown
+[2025-10-23 01:03:54] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Robert Garcia
+[2025-10-23 01:03:54] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Sandra Jackson
+[2025-10-23 01:03:54] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Margaret Brown
+[2025-10-23 01:03:54] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: James Lee
+[2025-10-23 01:03:54] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: James Anderson
+[2025-10-23 01:03:54] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Sarah Clark
+[2025-10-23 01:03:54] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Donald Thomas
+[2025-10-23 01:03:54] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: James Thomas
+[2025-10-23 01:03:54] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Karen Jackson
+[2025-10-23 01:03:54] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Sarah Harris
+[2025-10-23 01:03:54] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: John Hernandez
+[2025-10-23 01:03:54] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Nancy Davis
+[2025-10-23 01:03:54] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Thomas Lewis
+[2025-10-23 01:03:54] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Thomas Martinez
+[2025-10-23 01:03:54] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Sarah Martin
+[2025-10-23 01:03:54] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Lisa Allen
+[2025-10-23 01:03:54] [INFO] [PostDischargeAssistant] ✓ Successfully added 30/30 patients
+[2025-10-23 01:03:54] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 01:03:54] [INFO] [PostDischargeAssistant] Starting Enhanced PDF Processing Pipeline
+[2025-10-23 01:03:54] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 01:03:54] [INFO] [PostDischargeAssistant] Opening PDF: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\nephrology_book.pdf
+[2025-10-23 01:03:54] [INFO] [PostDischargeAssistant] PDF has 1547 pages
+[2025-10-23 01:03:54] [INFO] [PostDischargeAssistant] Processed 100/1547 pages...
+[2025-10-23 01:03:55] [INFO] [PostDischargeAssistant] Processed 200/1547 pages...
+[2025-10-23 01:03:56] [INFO] [PostDischargeAssistant] Processed 300/1547 pages...
+[2025-10-23 01:03:57] [INFO] [PostDischargeAssistant] Processed 400/1547 pages...
+[2025-10-23 01:03:57] [INFO] [PostDischargeAssistant] Processed 500/1547 pages...
+[2025-10-23 01:03:58] [INFO] [PostDischargeAssistant] Processed 600/1547 pages...
+[2025-10-23 01:03:59] [INFO] [PostDischargeAssistant] Processed 700/1547 pages...
+[2025-10-23 01:04:00] [INFO] [PostDischargeAssistant] Processed 800/1547 pages...
+[2025-10-23 01:04:01] [INFO] [PostDischargeAssistant] Processed 900/1547 pages...
+[2025-10-23 01:04:02] [INFO] [PostDischargeAssistant] Processed 1000/1547 pages...
+[2025-10-23 01:04:03] [INFO] [PostDischargeAssistant] Processed 1100/1547 pages...
+[2025-10-23 01:04:03] [INFO] [PostDischargeAssistant] Processed 1200/1547 pages...
+[2025-10-23 01:04:04] [INFO] [PostDischargeAssistant] Processed 1300/1547 pages...
+[2025-10-23 01:04:05] [INFO] [PostDischargeAssistant] Processed 1400/1547 pages...
+[2025-10-23 01:04:06] [INFO] [PostDischargeAssistant] Processed 1500/1547 pages...
+[2025-10-23 01:04:07] [INFO] [PostDischargeAssistant] ✓ Successfully extracted text from 1547 pages
+[2025-10-23 01:04:07] [INFO] [PostDischargeAssistant] Starting intelligent chunking (target=1000, overlap=200)...
+[2025-10-23 01:04:08] [INFO] [PostDischargeAssistant] ✓ Created 12562 intelligent chunks from 1547 pages
+[2025-10-23 01:04:08] [INFO] [PostDischargeAssistant] Chunk statistics:
+[2025-10-23 01:04:08] [INFO] [PostDischargeAssistant]   Average size: 705 characters
+[2025-10-23 01:04:08] [INFO] [PostDischargeAssistant]   Min size: 3 characters
+[2025-10-23 01:04:08] [INFO] [PostDischargeAssistant]   Max size: 6692 characters
+[2025-10-23 01:04:08] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 01:04:08] [INFO] [PostDischargeAssistant] PDF Processing Complete
+[2025-10-23 01:04:08] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 01:04:08] [INFO] [PostDischargeAssistant] Total Pages: 1547
+[2025-10-23 01:04:08] [INFO] [PostDischargeAssistant] Total Chunks: 12562
+[2025-10-23 01:04:08] [INFO] [PostDischargeAssistant] Average Chunk Size: 705 characters
+[2025-10-23 01:04:08] [INFO] [PostDischargeAssistant] Total Characters: 8,857,652
+[2025-10-23 01:04:08] [INFO] [PostDischargeAssistant] ✓ Saved chunks preview to: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\chunks_preview.txt
+[2025-10-23 01:04:08] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 01:04:08] [ERROR] [PostDischargeAssistant] [ERROR] Pinecone Setup: init is no longer a top-level attribute of the pinecone package.
+
+Please create an instance of the Pinecone class instead.
+
+Example:
+
+    import os
+    from pinecone import Pinecone, ServerlessSpec
+
+    pc = Pinecone(
+        api_key=os.environ.get("PINECONE_API_KEY")
+    )
+
+    # Now do stuff
+    if 'my_index' not in pc.list_indexes().names():
+        pc.create_index(
+            name='my_index', 
+            dimension=1536, 
+            metric='euclidean',
+            spec=ServerlessSpec(
+                cloud='aws',
+                region='us-west-2'
+            )
+        )
+
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\setup_phase1.py", line 167, in step_5_setup_pinecone
+    manager = PineconeManager()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\pinecone_manager.py", line 38, in __init__
+    pinecone.init(api_key=self.api_key, environment=self.environment)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\pinecone\deprecation_warnings.py", line 39, in init
+    raise AttributeError(msg)
+AttributeError: init is no longer a top-level attribute of the pinecone package.
+
+Please create an instance of the Pinecone class instead.
+
+Example:
+
+    import os
+    from pinecone import Pinecone, ServerlessSpec
+
+    pc = Pinecone(
+        api_key=os.environ.get("PINECONE_API_KEY")
+    )
+
+    # Now do stuff
+    if 'my_index' not in pc.list_indexes().names():
+        pc.create_index(
+            name='my_index', 
+            dimension=1536, 
+            metric='euclidean',
+            spec=ServerlessSpec(
+                cloud='aws',
+                region='us-west-2'
+            )
+        )
+
+
+[2025-10-23 01:04:48] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 01:04:48] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 01:04:48] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 01:04:48] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 01:04:48] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 01:04:59] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 10:20:23] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 10:20:23] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 10:20:23] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 10:21:48] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 10:21:48] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 10:21:51] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 10:21:51] [INFO] [PostDischargeAssistant] Starting Enhanced PDF Processing Pipeline
+[2025-10-23 10:21:51] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 10:21:51] [INFO] [PostDischargeAssistant] Opening PDF: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\nephrology_book.pdf
+[2025-10-23 10:21:51] [INFO] [PostDischargeAssistant] PDF has 1547 pages
+[2025-10-23 10:21:52] [INFO] [PostDischargeAssistant] Processed 100/1547 pages...
+[2025-10-23 10:21:53] [INFO] [PostDischargeAssistant] Processed 200/1547 pages...
+[2025-10-23 10:21:54] [INFO] [PostDischargeAssistant] Processed 300/1547 pages...
+[2025-10-23 10:21:55] [INFO] [PostDischargeAssistant] Processed 400/1547 pages...
+[2025-10-23 10:21:56] [INFO] [PostDischargeAssistant] Processed 500/1547 pages...
+[2025-10-23 10:21:57] [INFO] [PostDischargeAssistant] Processed 600/1547 pages...
+[2025-10-23 10:21:58] [INFO] [PostDischargeAssistant] Processed 700/1547 pages...
+[2025-10-23 10:21:59] [INFO] [PostDischargeAssistant] Processed 800/1547 pages...
+[2025-10-23 10:22:00] [INFO] [PostDischargeAssistant] Processed 900/1547 pages...
+[2025-10-23 10:22:01] [INFO] [PostDischargeAssistant] Processed 1000/1547 pages...
+[2025-10-23 10:22:02] [INFO] [PostDischargeAssistant] Processed 1100/1547 pages...
+[2025-10-23 10:22:03] [INFO] [PostDischargeAssistant] Processed 1200/1547 pages...
+[2025-10-23 10:22:04] [INFO] [PostDischargeAssistant] Processed 1300/1547 pages...
+[2025-10-23 10:22:05] [INFO] [PostDischargeAssistant] Processed 1400/1547 pages...
+[2025-10-23 10:22:05] [INFO] [PostDischargeAssistant] Processed 1500/1547 pages...
+[2025-10-23 10:22:07] [INFO] [PostDischargeAssistant] ✓ Successfully extracted text from 1547 pages
+[2025-10-23 10:22:07] [INFO] [PostDischargeAssistant] Starting intelligent chunking (target=1000, overlap=200)...
+[2025-10-23 10:22:07] [INFO] [PostDischargeAssistant] ✓ Created 12562 intelligent chunks from 1547 pages
+[2025-10-23 10:22:07] [INFO] [PostDischargeAssistant] Chunk statistics:
+[2025-10-23 10:22:07] [INFO] [PostDischargeAssistant]   Average size: 705 characters
+[2025-10-23 10:22:07] [INFO] [PostDischargeAssistant]   Min size: 3 characters
+[2025-10-23 10:22:07] [INFO] [PostDischargeAssistant]   Max size: 6692 characters
+[2025-10-23 10:22:07] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 10:22:07] [INFO] [PostDischargeAssistant] PDF Processing Complete
+[2025-10-23 10:22:07] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 10:22:07] [INFO] [PostDischargeAssistant] Total Pages: 1547
+[2025-10-23 10:22:07] [INFO] [PostDischargeAssistant] Total Chunks: 12562
+[2025-10-23 10:22:07] [INFO] [PostDischargeAssistant] Average Chunk Size: 705 characters
+[2025-10-23 10:22:07] [INFO] [PostDischargeAssistant] Total Characters: 8,857,652
+[2025-10-23 10:22:07] [INFO] [PostDischargeAssistant] ✓ Saved chunks preview to: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\chunks_preview.txt
+[2025-10-23 10:22:07] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 10:22:07] [ERROR] [PostDischargeAssistant] [ERROR] Pinecone Setup: init is no longer a top-level attribute of the pinecone package.
+
+Please create an instance of the Pinecone class instead.
+
+Example:
+
+    import os
+    from pinecone import Pinecone, ServerlessSpec
+
+    pc = Pinecone(
+        api_key=os.environ.get("PINECONE_API_KEY")
+    )
+
+    # Now do stuff
+    if 'my_index' not in pc.list_indexes().names():
+        pc.create_index(
+            name='my_index', 
+            dimension=1536, 
+            metric='euclidean',
+            spec=ServerlessSpec(
+                cloud='aws',
+                region='us-west-2'
+            )
+        )
+
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\setup_phase1.py", line 167, in step_5_setup_pinecone
+    manager = PineconeManager()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\pinecone_manager.py", line 38, in __init__
+    pinecone.init(api_key=self.api_key, environment=self.environment)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\pinecone\deprecation_warnings.py", line 39, in init
+    raise AttributeError(msg)
+AttributeError: init is no longer a top-level attribute of the pinecone package.
+
+Please create an instance of the Pinecone class instead.
+
+Example:
+
+    import os
+    from pinecone import Pinecone, ServerlessSpec
+
+    pc = Pinecone(
+        api_key=os.environ.get("PINECONE_API_KEY")
+    )
+
+    # Now do stuff
+    if 'my_index' not in pc.list_indexes().names():
+        pc.create_index(
+            name='my_index', 
+            dimension=1536, 
+            metric='euclidean',
+            spec=ServerlessSpec(
+                cloud='aws',
+                region='us-west-2'
+            )
+        )
+
+
+[2025-10-23 10:23:28] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 10:23:28] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 10:23:28] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 10:23:46] [INFO] [PostDischargeAssistant] Generating 30 dummy patient records...
+[2025-10-23 10:23:46] [INFO] [PostDischargeAssistant] ✓ Successfully generated 30 patient records
+[2025-10-23 10:23:46] [INFO] [PostDischargeAssistant] ✓ Saved patient reports to: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patient_reports.json
+[2025-10-23 10:23:46] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 10:23:46] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 10:23:48] [WARNING] [PostDischargeAssistant] Resetting database - all data will be lost!
+[2025-10-23 10:23:48] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 10:23:48] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 10:23:48] [INFO] [PostDischargeAssistant] ✓ Database reset complete
+[2025-10-23 10:23:48] [INFO] [PostDischargeAssistant] Bulk adding 30 patients...
+[2025-10-23 10:23:48] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Barbara Lee
+[2025-10-23 10:23:48] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: William Lee
+[2025-10-23 10:23:48] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Margaret Lee
+[2025-10-23 10:23:48] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Patricia Anderson
+[2025-10-23 10:23:48] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Barbara Moore
+[2025-10-23 10:23:48] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: James Davis
+[2025-10-23 10:23:48] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Lisa Johnson
+[2025-10-23 10:23:48] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Daniel Williams
+[2025-10-23 10:23:48] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Matthew Wilson
+[2025-10-23 10:23:48] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Elizabeth Lewis
+[2025-10-23 10:23:48] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Susan Jackson
+[2025-10-23 10:23:48] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Barbara Anderson
+[2025-10-23 10:23:48] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: William Miller
+[2025-10-23 10:23:48] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Elizabeth Garcia
+[2025-10-23 10:23:48] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Christopher Thomas
+[2025-10-23 10:23:48] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Susan Robinson
+[2025-10-23 10:23:48] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Jessica Brown
+[2025-10-23 10:23:48] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Jessica Davis
+[2025-10-23 10:23:48] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Richard Williams
+[2025-10-23 10:23:48] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Patricia Lewis
+[2025-10-23 10:23:48] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Jessica Lopez
+[2025-10-23 10:23:48] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: William Thompson
+[2025-10-23 10:23:48] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Donald Martin
+[2025-10-23 10:23:48] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Mary Clark
+[2025-10-23 10:23:48] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Ashley Johnson
+[2025-10-23 10:23:48] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Charles Robinson
+[2025-10-23 10:23:48] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Sarah Lee
+[2025-10-23 10:23:48] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Patricia Brown
+[2025-10-23 10:23:48] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Jessica Robinson
+[2025-10-23 10:23:48] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: John Lopez
+[2025-10-23 10:23:48] [INFO] [PostDischargeAssistant] ✓ Successfully added 30/30 patients
+[2025-10-23 10:23:48] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 10:23:48] [INFO] [PostDischargeAssistant] Starting Enhanced PDF Processing Pipeline
+[2025-10-23 10:23:48] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 10:23:48] [INFO] [PostDischargeAssistant] Opening PDF: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\nephrology_book.pdf
+[2025-10-23 10:23:48] [INFO] [PostDischargeAssistant] PDF has 1547 pages
+[2025-10-23 10:23:49] [INFO] [PostDischargeAssistant] Processed 100/1547 pages...
+[2025-10-23 10:23:50] [INFO] [PostDischargeAssistant] Processed 200/1547 pages...
+[2025-10-23 10:23:51] [INFO] [PostDischargeAssistant] Processed 300/1547 pages...
+[2025-10-23 10:23:52] [INFO] [PostDischargeAssistant] Processed 400/1547 pages...
+[2025-10-23 10:23:53] [INFO] [PostDischargeAssistant] Processed 500/1547 pages...
+[2025-10-23 10:23:53] [INFO] [PostDischargeAssistant] Processed 600/1547 pages...
+[2025-10-23 10:23:54] [INFO] [PostDischargeAssistant] Processed 700/1547 pages...
+[2025-10-23 10:23:55] [INFO] [PostDischargeAssistant] Processed 800/1547 pages...
+[2025-10-23 10:23:56] [INFO] [PostDischargeAssistant] Processed 900/1547 pages...
+[2025-10-23 10:23:57] [INFO] [PostDischargeAssistant] Processed 1000/1547 pages...
+[2025-10-23 10:23:58] [INFO] [PostDischargeAssistant] Processed 1100/1547 pages...
+[2025-10-23 10:23:59] [INFO] [PostDischargeAssistant] Processed 1200/1547 pages...
+[2025-10-23 10:24:00] [INFO] [PostDischargeAssistant] Processed 1300/1547 pages...
+[2025-10-23 10:24:00] [INFO] [PostDischargeAssistant] Processed 1400/1547 pages...
+[2025-10-23 10:24:02] [INFO] [PostDischargeAssistant] Processed 1500/1547 pages...
+[2025-10-23 10:24:03] [INFO] [PostDischargeAssistant] ✓ Successfully extracted text from 1547 pages
+[2025-10-23 10:24:03] [INFO] [PostDischargeAssistant] Starting intelligent chunking (target=1000, overlap=200)...
+[2025-10-23 10:24:04] [INFO] [PostDischargeAssistant] ✓ Created 12562 intelligent chunks from 1547 pages
+[2025-10-23 10:24:04] [INFO] [PostDischargeAssistant] Chunk statistics:
+[2025-10-23 10:24:04] [INFO] [PostDischargeAssistant]   Average size: 705 characters
+[2025-10-23 10:24:04] [INFO] [PostDischargeAssistant]   Min size: 3 characters
+[2025-10-23 10:24:04] [INFO] [PostDischargeAssistant]   Max size: 6692 characters
+[2025-10-23 10:24:04] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 10:24:04] [INFO] [PostDischargeAssistant] PDF Processing Complete
+[2025-10-23 10:24:04] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 10:24:04] [INFO] [PostDischargeAssistant] Total Pages: 1547
+[2025-10-23 10:24:04] [INFO] [PostDischargeAssistant] Total Chunks: 12562
+[2025-10-23 10:24:04] [INFO] [PostDischargeAssistant] Average Chunk Size: 705 characters
+[2025-10-23 10:24:04] [INFO] [PostDischargeAssistant] Total Characters: 8,857,652
+[2025-10-23 10:24:04] [INFO] [PostDischargeAssistant] ✓ Saved chunks preview to: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\chunks_preview.txt
+[2025-10-23 10:24:04] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 10:24:04] [ERROR] [PostDischargeAssistant] [ERROR] Pinecone Setup: init is no longer a top-level attribute of the pinecone package.
+
+Please create an instance of the Pinecone class instead.
+
+Example:
+
+    import os
+    from pinecone import Pinecone, ServerlessSpec
+
+    pc = Pinecone(
+        api_key=os.environ.get("PINECONE_API_KEY")
+    )
+
+    # Now do stuff
+    if 'my_index' not in pc.list_indexes().names():
+        pc.create_index(
+            name='my_index', 
+            dimension=1536, 
+            metric='euclidean',
+            spec=ServerlessSpec(
+                cloud='aws',
+                region='us-west-2'
+            )
+        )
+
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\setup_phase1.py", line 167, in step_5_setup_pinecone
+    manager = PineconeManager()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\pinecone_manager.py", line 38, in __init__
+    pinecone.init(api_key=self.api_key, environment=self.environment)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\pinecone\deprecation_warnings.py", line 39, in init
+    raise AttributeError(msg)
+AttributeError: init is no longer a top-level attribute of the pinecone package.
+
+Please create an instance of the Pinecone class instead.
+
+Example:
+
+    import os
+    from pinecone import Pinecone, ServerlessSpec
+
+    pc = Pinecone(
+        api_key=os.environ.get("PINECONE_API_KEY")
+    )
+
+    # Now do stuff
+    if 'my_index' not in pc.list_indexes().names():
+        pc.create_index(
+            name='my_index', 
+            dimension=1536, 
+            metric='euclidean',
+            spec=ServerlessSpec(
+                cloud='aws',
+                region='us-west-2'
+            )
+        )
+
+
+[2025-10-23 10:25:35] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 10:25:35] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 10:25:35] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 10:25:49] [INFO] [PostDischargeAssistant] Generating 30 dummy patient records...
+[2025-10-23 10:25:49] [INFO] [PostDischargeAssistant] ✓ Successfully generated 30 patient records
+[2025-10-23 10:25:49] [INFO] [PostDischargeAssistant] ✓ Saved patient reports to: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patient_reports.json
+[2025-10-23 10:25:49] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 10:25:49] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 10:25:50] [WARNING] [PostDischargeAssistant] Resetting database - all data will be lost!
+[2025-10-23 10:25:50] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 10:25:50] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 10:25:50] [INFO] [PostDischargeAssistant] ✓ Database reset complete
+[2025-10-23 10:25:50] [INFO] [PostDischargeAssistant] Bulk adding 30 patients...
+[2025-10-23 10:25:50] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Karen Moore
+[2025-10-23 10:25:50] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Margaret Brown
+[2025-10-23 10:25:50] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Matthew Harris
+[2025-10-23 10:25:50] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Donald Hernandez
+[2025-10-23 10:25:50] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: James Taylor
+[2025-10-23 10:25:50] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Christopher Williams
+[2025-10-23 10:25:50] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Lisa Thomas
+[2025-10-23 10:25:50] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Jessica Thompson
+[2025-10-23 10:25:50] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: James Wilson
+[2025-10-23 10:25:50] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Richard Harris
+[2025-10-23 10:25:50] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Susan Jones
+[2025-10-23 10:25:50] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: William Thompson
+[2025-10-23 10:25:50] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Margaret Lewis
+[2025-10-23 10:25:50] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Mary Anderson
+[2025-10-23 10:25:50] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Elizabeth Smith
+[2025-10-23 10:25:50] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Charles Lee
+[2025-10-23 10:25:50] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Christopher Jackson
+[2025-10-23 10:25:50] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Sarah Garcia
+[2025-10-23 10:25:50] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Linda Garcia
+[2025-10-23 10:25:50] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: David Lee
+[2025-10-23 10:25:50] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Daniel Lee
+[2025-10-23 10:25:50] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Anthony Thompson
+[2025-10-23 10:25:50] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Susan Martinez
+[2025-10-23 10:25:50] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Michael Lewis
+[2025-10-23 10:25:50] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Matthew Rodriguez
+[2025-10-23 10:25:50] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Daniel Martin
+[2025-10-23 10:25:50] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Barbara Davis
+[2025-10-23 10:25:50] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Anthony Garcia
+[2025-10-23 10:25:50] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Thomas Clark
+[2025-10-23 10:25:50] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Matthew Lee
+[2025-10-23 10:25:50] [INFO] [PostDischargeAssistant] ✓ Successfully added 30/30 patients
+[2025-10-23 10:25:50] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 10:25:50] [INFO] [PostDischargeAssistant] Starting Enhanced PDF Processing Pipeline
+[2025-10-23 10:25:50] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 10:25:50] [INFO] [PostDischargeAssistant] Opening PDF: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\nephrology_book.pdf
+[2025-10-23 10:25:50] [INFO] [PostDischargeAssistant] PDF has 1547 pages
+[2025-10-23 10:25:51] [INFO] [PostDischargeAssistant] Processed 100/1547 pages...
+[2025-10-23 10:25:52] [INFO] [PostDischargeAssistant] Processed 200/1547 pages...
+[2025-10-23 10:25:52] [INFO] [PostDischargeAssistant] Processed 300/1547 pages...
+[2025-10-23 10:25:53] [INFO] [PostDischargeAssistant] Processed 400/1547 pages...
+[2025-10-23 10:25:54] [INFO] [PostDischargeAssistant] Processed 500/1547 pages...
+[2025-10-23 10:25:54] [INFO] [PostDischargeAssistant] Processed 600/1547 pages...
+[2025-10-23 10:25:55] [INFO] [PostDischargeAssistant] Processed 700/1547 pages...
+[2025-10-23 10:25:56] [INFO] [PostDischargeAssistant] Processed 800/1547 pages...
+[2025-10-23 10:25:57] [INFO] [PostDischargeAssistant] Processed 900/1547 pages...
+[2025-10-23 10:25:58] [INFO] [PostDischargeAssistant] Processed 1000/1547 pages...
+[2025-10-23 10:25:59] [INFO] [PostDischargeAssistant] Processed 1100/1547 pages...
+[2025-10-23 10:25:59] [INFO] [PostDischargeAssistant] Processed 1200/1547 pages...
+[2025-10-23 10:26:00] [INFO] [PostDischargeAssistant] Processed 1300/1547 pages...
+[2025-10-23 10:26:01] [INFO] [PostDischargeAssistant] Processed 1400/1547 pages...
+[2025-10-23 10:26:02] [INFO] [PostDischargeAssistant] Processed 1500/1547 pages...
+[2025-10-23 10:26:03] [INFO] [PostDischargeAssistant] ✓ Successfully extracted text from 1547 pages
+[2025-10-23 10:26:03] [INFO] [PostDischargeAssistant] Starting intelligent chunking (target=1000, overlap=200)...
+[2025-10-23 10:26:04] [INFO] [PostDischargeAssistant] ✓ Created 12562 intelligent chunks from 1547 pages
+[2025-10-23 10:26:04] [INFO] [PostDischargeAssistant] Chunk statistics:
+[2025-10-23 10:26:04] [INFO] [PostDischargeAssistant]   Average size: 705 characters
+[2025-10-23 10:26:04] [INFO] [PostDischargeAssistant]   Min size: 3 characters
+[2025-10-23 10:26:04] [INFO] [PostDischargeAssistant]   Max size: 6692 characters
+[2025-10-23 10:26:04] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 10:26:04] [INFO] [PostDischargeAssistant] PDF Processing Complete
+[2025-10-23 10:26:04] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 10:26:04] [INFO] [PostDischargeAssistant] Total Pages: 1547
+[2025-10-23 10:26:04] [INFO] [PostDischargeAssistant] Total Chunks: 12562
+[2025-10-23 10:26:04] [INFO] [PostDischargeAssistant] Average Chunk Size: 705 characters
+[2025-10-23 10:26:04] [INFO] [PostDischargeAssistant] Total Characters: 8,857,652
+[2025-10-23 10:26:04] [INFO] [PostDischargeAssistant] ✓ Saved chunks preview to: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\chunks_preview.txt
+[2025-10-23 10:26:04] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 10:26:04] [ERROR] [PostDischargeAssistant] [ERROR] Pinecone Setup: init is no longer a top-level attribute of the pinecone package.
+
+Please create an instance of the Pinecone class instead.
+
+Example:
+
+    import os
+    from pinecone import Pinecone, ServerlessSpec
+
+    pc = Pinecone(
+        api_key=os.environ.get("PINECONE_API_KEY")
+    )
+
+    # Now do stuff
+    if 'my_index' not in pc.list_indexes().names():
+        pc.create_index(
+            name='my_index', 
+            dimension=1536, 
+            metric='euclidean',
+            spec=ServerlessSpec(
+                cloud='aws',
+                region='us-west-2'
+            )
+        )
+
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\setup_phase1.py", line 167, in step_5_setup_pinecone
+    manager = PineconeManager()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\pinecone_manager.py", line 38, in __init__
+    pinecone.init(api_key=self.api_key, environment=self.environment)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\pinecone\deprecation_warnings.py", line 39, in init
+    raise AttributeError(msg)
+AttributeError: init is no longer a top-level attribute of the pinecone package.
+
+Please create an instance of the Pinecone class instead.
+
+Example:
+
+    import os
+    from pinecone import Pinecone, ServerlessSpec
+
+    pc = Pinecone(
+        api_key=os.environ.get("PINECONE_API_KEY")
+    )
+
+    # Now do stuff
+    if 'my_index' not in pc.list_indexes().names():
+        pc.create_index(
+            name='my_index', 
+            dimension=1536, 
+            metric='euclidean',
+            spec=ServerlessSpec(
+                cloud='aws',
+                region='us-west-2'
+            )
+        )
+
+
+[2025-10-23 10:37:22] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 10:37:22] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 10:37:22] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 10:37:22] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 10:37:22] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 10:37:26] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 10:37:26] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 10:37:28] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 10:37:28] [INFO] [PostDischargeAssistant]   Total vectors: 0
+[2025-10-23 10:37:29] [INFO] [PostDischargeAssistant] Searching Pinecone for: 'chronic kidney disease'
+[2025-10-23 10:37:29] [INFO] [PostDischargeAssistant]   Top K: 1
+[2025-10-23 10:37:29] [INFO] [PostDischargeAssistant] ✓ Found 0 results
+[2025-10-23 10:39:03] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 10:39:03] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 10:39:03] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 10:39:03] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 10:39:03] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 10:39:07] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 10:39:07] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 10:39:09] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 10:39:09] [INFO] [PostDischargeAssistant]   Total vectors: 0
+[2025-10-23 10:39:10] [INFO] [PostDischargeAssistant] Searching Pinecone for: 'chronic kidney disease'
+[2025-10-23 10:39:10] [INFO] [PostDischargeAssistant]   Top K: 1
+[2025-10-23 10:39:10] [INFO] [PostDischargeAssistant] ✓ Found 0 results
+[2025-10-23 10:40:25] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 10:40:25] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 10:40:25] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 10:40:35] [INFO] [PostDischargeAssistant] Generating 30 dummy patient records...
+[2025-10-23 10:40:35] [INFO] [PostDischargeAssistant] ✓ Successfully generated 30 patient records
+[2025-10-23 10:40:35] [INFO] [PostDischargeAssistant] ✓ Saved patient reports to: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patient_reports.json
+[2025-10-23 10:40:35] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 10:40:35] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 10:40:36] [WARNING] [PostDischargeAssistant] Resetting database - all data will be lost!
+[2025-10-23 10:40:36] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 10:40:36] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 10:40:36] [INFO] [PostDischargeAssistant] ✓ Database reset complete
+[2025-10-23 10:40:36] [INFO] [PostDischargeAssistant] Bulk adding 30 patients...
+[2025-10-23 10:40:36] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Linda Johnson
+[2025-10-23 10:40:36] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Karen Clark
+[2025-10-23 10:40:36] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Thomas Hernandez
+[2025-10-23 10:40:36] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Jessica Clark
+[2025-10-23 10:40:36] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: James Thomas
+[2025-10-23 10:40:36] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: John Martin
+[2025-10-23 10:40:36] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Thomas King
+[2025-10-23 10:40:36] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Matthew Johnson
+[2025-10-23 10:40:36] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: James Wilson
+[2025-10-23 10:40:36] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: James King
+[2025-10-23 10:40:36] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Donald Walker
+[2025-10-23 10:40:36] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Barbara Smith
+[2025-10-23 10:40:36] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Sarah Thompson
+[2025-10-23 10:40:36] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Charles Rodriguez
+[2025-10-23 10:40:36] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Joseph Taylor
+[2025-10-23 10:40:36] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Lisa Rodriguez
+[2025-10-23 10:40:36] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Christopher Taylor
+[2025-10-23 10:40:36] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Daniel Miller
+[2025-10-23 10:40:36] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Christopher Harris
+[2025-10-23 10:40:36] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Charles Martin
+[2025-10-23 10:40:36] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Lisa Hernandez
+[2025-10-23 10:40:36] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Anthony Harris
+[2025-10-23 10:40:36] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Barbara King
+[2025-10-23 10:40:36] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Matthew Garcia
+[2025-10-23 10:40:36] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Charles Anderson
+[2025-10-23 10:40:36] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Christopher Young
+[2025-10-23 10:40:36] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: William Jackson
+[2025-10-23 10:40:36] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Patricia Moore
+[2025-10-23 10:40:36] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Ashley Hernandez
+[2025-10-23 10:40:36] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Nancy Moore
+[2025-10-23 10:40:36] [INFO] [PostDischargeAssistant] ✓ Successfully added 30/30 patients
+[2025-10-23 10:40:36] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 10:40:36] [INFO] [PostDischargeAssistant] Starting Enhanced PDF Processing Pipeline
+[2025-10-23 10:40:36] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 10:40:36] [INFO] [PostDischargeAssistant] Opening PDF: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\nephrology_book.pdf
+[2025-10-23 10:40:36] [INFO] [PostDischargeAssistant] PDF has 1547 pages
+[2025-10-23 10:40:37] [INFO] [PostDischargeAssistant] Processed 100/1547 pages...
+[2025-10-23 10:40:38] [INFO] [PostDischargeAssistant] Processed 200/1547 pages...
+[2025-10-23 10:40:39] [INFO] [PostDischargeAssistant] Processed 300/1547 pages...
+[2025-10-23 10:40:40] [INFO] [PostDischargeAssistant] Processed 400/1547 pages...
+[2025-10-23 10:40:40] [INFO] [PostDischargeAssistant] Processed 500/1547 pages...
+[2025-10-23 10:40:41] [INFO] [PostDischargeAssistant] Processed 600/1547 pages...
+[2025-10-23 10:40:42] [INFO] [PostDischargeAssistant] Processed 700/1547 pages...
+[2025-10-23 10:40:43] [INFO] [PostDischargeAssistant] Processed 800/1547 pages...
+[2025-10-23 10:40:44] [INFO] [PostDischargeAssistant] Processed 900/1547 pages...
+[2025-10-23 10:40:45] [INFO] [PostDischargeAssistant] Processed 1000/1547 pages...
+[2025-10-23 10:40:46] [INFO] [PostDischargeAssistant] Processed 1100/1547 pages...
+[2025-10-23 10:40:47] [INFO] [PostDischargeAssistant] Processed 1200/1547 pages...
+[2025-10-23 10:40:48] [INFO] [PostDischargeAssistant] Processed 1300/1547 pages...
+[2025-10-23 10:40:49] [INFO] [PostDischargeAssistant] Processed 1400/1547 pages...
+[2025-10-23 10:40:50] [INFO] [PostDischargeAssistant] Processed 1500/1547 pages...
+[2025-10-23 10:40:51] [INFO] [PostDischargeAssistant] ✓ Successfully extracted text from 1547 pages
+[2025-10-23 10:40:51] [INFO] [PostDischargeAssistant] Starting intelligent chunking (target=1000, overlap=200)...
+[2025-10-23 10:40:52] [INFO] [PostDischargeAssistant] ✓ Created 12562 intelligent chunks from 1547 pages
+[2025-10-23 10:40:52] [INFO] [PostDischargeAssistant] Chunk statistics:
+[2025-10-23 10:40:52] [INFO] [PostDischargeAssistant]   Average size: 705 characters
+[2025-10-23 10:40:52] [INFO] [PostDischargeAssistant]   Min size: 3 characters
+[2025-10-23 10:40:52] [INFO] [PostDischargeAssistant]   Max size: 6692 characters
+[2025-10-23 10:40:52] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 10:40:52] [INFO] [PostDischargeAssistant] PDF Processing Complete
+[2025-10-23 10:40:52] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 10:40:52] [INFO] [PostDischargeAssistant] Total Pages: 1547
+[2025-10-23 10:40:52] [INFO] [PostDischargeAssistant] Total Chunks: 12562
+[2025-10-23 10:40:52] [INFO] [PostDischargeAssistant] Average Chunk Size: 705 characters
+[2025-10-23 10:40:52] [INFO] [PostDischargeAssistant] Total Characters: 8,857,652
+[2025-10-23 10:40:52] [INFO] [PostDischargeAssistant] ✓ Saved chunks preview to: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\chunks_preview.txt
+[2025-10-23 10:40:52] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 10:40:52] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 10:40:55] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 10:40:55] [INFO] [PostDischargeAssistant] Creating Pinecone index: nephrology-knowledge
+[2025-10-23 10:40:57] [WARNING] [PostDischargeAssistant] Index 'nephrology-knowledge' already exists
+[2025-10-23 10:41:04] [WARNING] [PostDischargeAssistant] Deleting index: nephrology-knowledge
+[2025-10-23 10:41:15] [INFO] [PostDischargeAssistant] ✓ Index 'nephrology-knowledge' deleted
+[2025-10-23 10:41:15] [INFO] [PostDischargeAssistant] Creating serverless index...
+[2025-10-23 10:41:15] [INFO] [PostDischargeAssistant]   Dimension: 384
+[2025-10-23 10:41:15] [INFO] [PostDischargeAssistant]   Metric: cosine
+[2025-10-23 10:41:15] [INFO] [PostDischargeAssistant]   Cloud: aws
+[2025-10-23 10:41:15] [INFO] [PostDischargeAssistant]   Region: us-east-1
+[2025-10-23 10:41:20] [INFO] [PostDischargeAssistant] Waiting for index to be ready...
+[2025-10-23 10:41:20] [INFO] [PostDischargeAssistant] ✓ Index 'nephrology-knowledge' created successfully
+[2025-10-23 10:41:20] [INFO] [PostDischargeAssistant] Upserting 12562 documents to Pinecone...
+[2025-10-23 10:41:20] [INFO] [PostDischargeAssistant] Batch size: 100
+[2025-10-23 10:50:14] [INFO] [PostDischargeAssistant] ✓ Successfully upserted documents
+[2025-10-23 10:50:14] [INFO] [PostDischargeAssistant]   Total vectors in index: 12562
+[2025-10-23 10:50:15] [INFO] [PostDischargeAssistant] Searching Pinecone for: 'chronic kidney disease treatment'
+[2025-10-23 10:50:15] [INFO] [PostDischargeAssistant]   Top K: 3
+[2025-10-23 10:50:15] [INFO] [PostDischargeAssistant] ✓ Found 3 results
+[2025-10-23 10:50:15] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 10:50:15] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 10:50:15] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 10:50:15] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 10:50:18] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 10:50:18] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 10:50:20] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 10:50:20] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 10:50:48] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 10:50:48] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 10:50:48] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 10:50:48] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 10:50:48] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 10:51:01] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 10:51:01] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 10:51:04] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 10:51:04] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 10:51:06] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 10:51:06] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 10:51:07] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 10:51:07] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 10:51:10] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 10:51:10] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 10:51:11] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 10:51:11] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 10:51:11] [INFO] [PostDischargeAssistant] Searching Pinecone for: 'chronic kidney disease treatment'
+[2025-10-23 10:51:11] [INFO] [PostDischargeAssistant]   Top K: 3
+[2025-10-23 10:51:12] [INFO] [PostDischargeAssistant] ✓ Found 3 results
+[2025-10-23 11:15:11] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 11:15:11] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 11:15:11] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 11:17:10] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 11:17:10] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 11:17:10] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 11:17:10] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 11:17:14] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 11:17:14] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 11:17:16] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 11:17:16] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 11:17:17] [ERROR] [PostDischargeAssistant] [ERROR] Phase2Setup: No module named 'src.agents.prompts'
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\setup_phase2.py", line 130, in step_4_test_agents
+    from src.agents.receptionist_agent import ReceptionistAgent
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\agents\receptionist_agent.py", line 14, in <module>
+    from src.agents.prompts import RECEPTIONIST_SYSTEM_PROMPT
+ModuleNotFoundError: No module named 'src.agents.prompts'
+[2025-10-23 11:18:07] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 11:18:07] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 11:18:07] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 11:18:56] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 11:18:56] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 11:18:56] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 11:18:56] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 11:18:59] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 11:18:59] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 11:19:02] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 11:19:02] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 11:19:03] [ERROR] [PostDischargeAssistant] [ERROR] Phase2Setup: No module named 'src.agents.prompts'
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\setup_phase2.py", line 130, in step_4_test_agents
+    from src.agents.receptionist_agent import ReceptionistAgent
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\agents\receptionist_agent.py", line 14, in <module>
+    from src.agents.prompts import RECEPTIONIST_SYSTEM_PROMPT
+ModuleNotFoundError: No module named 'src.agents.prompts'
+[2025-10-23 11:21:22] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 11:21:22] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 11:21:22] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 11:22:06] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 11:22:06] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 11:22:06] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 11:22:06] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 11:22:09] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 11:22:09] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 11:22:12] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 11:22:12] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 11:22:12] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 11:22:12] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 11:22:12] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 11:22:12] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 11:22:15] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 11:22:15] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 11:22:17] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 11:22:17] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 11:22:17] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-23 11:22:17] [INFO] [PostDischargeAssistant] ✓ Receptionist Agent initialized
+[2025-10-23 11:22:17] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 11:22:17] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 11:22:17] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 11:22:17] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 11:22:20] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 11:22:20] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 11:22:21] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 11:22:21] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 11:22:21] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-23 11:22:21] [INFO] [PostDischargeAssistant] ✓ Clinical Agent initialized
+[2025-10-23 11:22:21] [ERROR] [PostDischargeAssistant] [ERROR] Phase2Setup: name 'List' is not defined
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\setup_phase2.py", line 140, in step_4_test_agents
+    from src.workflow.graph import MultiAgentWorkflow
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\workflow\graph.py", line 18, in <module>
+    class MultiAgentWorkflow:
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\workflow\graph.py", line 166, in MultiAgentWorkflow
+    def get_conversation_history(self, conversation_id: str = "default") -> List[Dict]:
+NameError: name 'List' is not defined
+[2025-10-23 11:29:31] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 11:29:31] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 11:29:31] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 11:29:43] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 11:29:43] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 11:29:43] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 11:29:43] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 11:29:47] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 11:29:47] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 11:29:49] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 11:29:49] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 11:29:50] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 11:29:50] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 11:29:50] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 11:29:50] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 11:29:53] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 11:29:53] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 11:29:54] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 11:29:54] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 11:29:54] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-23 11:29:54] [INFO] [PostDischargeAssistant] ✓ Receptionist Agent initialized
+[2025-10-23 11:29:54] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 11:29:54] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 11:29:54] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 11:29:54] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 11:29:57] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 11:29:57] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 11:29:59] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 11:29:59] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 11:29:59] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-23 11:29:59] [INFO] [PostDischargeAssistant] ✓ Clinical Agent initialized
+[2025-10-23 11:29:59] [INFO] [PostDischargeAssistant] Initializing Multi-Agent Workflow...
+[2025-10-23 11:29:59] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 11:29:59] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 11:29:59] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 11:29:59] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 11:30:02] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 11:30:02] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 11:30:03] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 11:30:03] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 11:30:03] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-23 11:30:03] [INFO] [PostDischargeAssistant] ✓ Receptionist Agent initialized
+[2025-10-23 11:30:03] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 11:30:03] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 11:30:03] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 11:30:03] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 11:30:06] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 11:30:06] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 11:30:07] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 11:30:07] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 11:30:07] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-23 11:30:07] [INFO] [PostDischargeAssistant] ✓ Clinical Agent initialized
+[2025-10-23 11:30:07] [INFO] [PostDischargeAssistant] ✓ Multi-Agent Workflow ready
+[2025-10-23 11:37:26] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 11:37:26] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 11:37:26] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 11:37:59] [INFO] [PostDischargeAssistant] Initializing Multi-Agent Workflow...
+[2025-10-23 11:37:59] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 11:37:59] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 11:37:59] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 11:37:59] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 11:38:03] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 11:38:03] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 11:38:06] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 11:38:06] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 11:38:06] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-23 11:38:06] [INFO] [PostDischargeAssistant] ✓ Receptionist Agent initialized
+[2025-10-23 11:38:06] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 11:38:06] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 11:38:06] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 11:38:06] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 11:38:09] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 11:38:09] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 11:38:10] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 11:38:10] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 11:38:10] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-23 11:38:10] [INFO] [PostDischargeAssistant] ✓ Clinical Agent initialized
+[2025-10-23 11:38:10] [INFO] [PostDischargeAssistant] ✓ Multi-Agent Workflow ready
+[2025-10-23 11:38:10] [INFO] [PostDischargeAssistant] [APP] New session: 46c2aa26-dc93-4791-b339-aefe50bfb63e
+[2025-10-23 11:39:17] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 11:39:17] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 11:39:17] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 11:39:28] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 11:39:28] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 11:39:28] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 11:39:28] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 11:39:32] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 11:39:32] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 11:39:34] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 11:39:34] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 11:39:35] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 11:39:35] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 11:39:35] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 11:39:35] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 11:39:38] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 11:39:38] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 11:39:39] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 11:39:39] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 11:39:39] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-23 11:39:40] [INFO] [PostDischargeAssistant] ✓ Receptionist Agent initialized
+[2025-10-23 11:39:40] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 11:39:40] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 11:39:40] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 11:39:40] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 11:39:43] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 11:39:43] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 11:39:44] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 11:39:44] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 11:39:44] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-23 11:39:44] [INFO] [PostDischargeAssistant] ✓ Clinical Agent initialized
+[2025-10-23 11:39:44] [INFO] [PostDischargeAssistant] Initializing Multi-Agent Workflow...
+[2025-10-23 11:39:44] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 11:39:44] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 11:39:44] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 11:39:44] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 11:39:48] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 11:39:48] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 11:39:49] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 11:39:49] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 11:39:49] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-23 11:39:49] [INFO] [PostDischargeAssistant] ✓ Receptionist Agent initialized
+[2025-10-23 11:39:49] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 11:39:49] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 11:39:49] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 11:39:49] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 11:39:52] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 11:39:52] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 11:39:53] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 11:39:53] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 11:39:53] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-23 11:39:53] [INFO] [PostDischargeAssistant] ✓ Clinical Agent initialized
+[2025-10-23 11:39:53] [INFO] [PostDischargeAssistant] ✓ Multi-Agent Workflow ready
+[2025-10-23 11:40:48] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 11:40:48] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 11:40:48] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 11:40:56] [INFO] [PostDischargeAssistant] Initializing Multi-Agent Workflow...
+[2025-10-23 11:40:56] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 11:40:56] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 11:40:56] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 11:40:56] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 11:41:10] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 11:41:10] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 11:41:12] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 11:41:12] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 11:41:12] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-23 11:41:13] [INFO] [PostDischargeAssistant] ✓ Receptionist Agent initialized
+[2025-10-23 11:41:13] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 11:41:13] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 11:41:13] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 11:41:13] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 11:41:16] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 11:41:16] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 11:41:17] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 11:41:17] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 11:41:17] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-23 11:41:17] [INFO] [PostDischargeAssistant] ✓ Clinical Agent initialized
+[2025-10-23 11:41:17] [INFO] [PostDischargeAssistant] ✓ Multi-Agent Workflow ready
+[2025-10-23 11:41:17] [INFO] [PostDischargeAssistant] [APP] New session: 34002a20-515c-4b5c-8db3-46abaf4681e0
+[2025-10-23 11:45:10] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 11:45:10] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 11:45:10] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 11:45:19] [INFO] [PostDischargeAssistant] Initializing Multi-Agent Workflow...
+[2025-10-23 11:45:19] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 11:45:19] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 11:45:19] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 11:45:19] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 11:45:23] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 11:45:23] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 11:45:25] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 11:45:25] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 11:45:25] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-23 11:45:25] [INFO] [PostDischargeAssistant] ✓ Receptionist Agent initialized
+[2025-10-23 11:45:25] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 11:45:25] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 11:45:25] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 11:45:25] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 11:45:28] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 11:45:28] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 11:45:30] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 11:45:30] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 11:45:30] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-23 11:45:30] [INFO] [PostDischargeAssistant] ✓ Clinical Agent initialized
+[2025-10-23 11:45:30] [INFO] [PostDischargeAssistant] ✓ Multi-Agent Workflow ready
+[2025-10-23 11:45:30] [INFO] [PostDischargeAssistant] [APP] New session: ad74bd2f-f693-4559-886a-5339f75aeee2
+[2025-10-23 11:45:58] [INFO] [PostDischargeAssistant] [APP] New conversation: b9f74f5a-a3c4-4284-966f-b39a6c3ed772
+[2025-10-23 11:46:07] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: hi 
+
+...
+[2025-10-23 11:46:07] [ERROR] [PostDischargeAssistant] [ERROR] MultiAgentWorkflow.process_message: 'messages'
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\workflow\graph.py", line 144, in process_message
+    state["messages"].append({"role": "user", "content": message})
+KeyError: 'messages'
+[2025-10-23 11:47:20] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: My name is John Brown
+...
+[2025-10-23 11:47:20] [ERROR] [PostDischargeAssistant] [ERROR] MultiAgentWorkflow.process_message: 'messages'
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\workflow\graph.py", line 144, in process_message
+    state["messages"].append({"role": "user", "content": message})
+KeyError: 'messages'
+[2025-10-23 11:50:23] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 11:50:23] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 11:50:23] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 11:50:33] [INFO] [PostDischargeAssistant] Initializing Multi-Agent Workflow...
+[2025-10-23 11:50:33] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 11:50:33] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 11:50:33] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 11:50:33] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 11:50:36] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 11:50:36] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 11:50:39] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 11:50:39] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 11:50:39] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-23 11:50:39] [INFO] [PostDischargeAssistant] ✓ Receptionist Agent initialized
+[2025-10-23 11:50:39] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 11:50:39] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 11:50:39] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 11:50:39] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 11:50:42] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 11:50:42] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 11:50:43] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 11:50:43] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 11:50:43] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-23 11:50:43] [INFO] [PostDischargeAssistant] ✓ Clinical Agent initialized
+[2025-10-23 11:50:43] [INFO] [PostDischargeAssistant] ✓ Multi-Agent Workflow ready
+[2025-10-23 11:50:43] [INFO] [PostDischargeAssistant] [APP] New session: 45271239-8a07-4b11-a310-ff8c8629c798
+[2025-10-23 11:51:20] [ERROR] [PostDischargeAssistant] [ERROR] StreamlitApp: 'MultiAgentWorkflow' object has no attribute 'process_message'
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\app.py", line 121, in _render_chat
+    response = st.session_state.workflow.process_message(
+AttributeError: 'MultiAgentWorkflow' object has no attribute 'process_message'
+[2025-10-23 11:51:48] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 11:51:48] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 11:51:48] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 11:51:56] [INFO] [PostDischargeAssistant] Initializing Multi-Agent Workflow...
+[2025-10-23 11:51:56] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 11:51:56] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 11:51:56] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 11:51:57] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 11:52:00] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 11:52:00] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 11:52:03] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 11:52:03] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 11:52:03] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-23 11:52:03] [INFO] [PostDischargeAssistant] ✓ Receptionist Agent initialized
+[2025-10-23 11:52:03] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 11:52:03] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 11:52:03] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 11:52:03] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 11:52:06] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 11:52:06] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 11:52:07] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 11:52:07] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 11:52:07] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-23 11:52:07] [INFO] [PostDischargeAssistant] ✓ Clinical Agent initialized
+[2025-10-23 11:52:07] [INFO] [PostDischargeAssistant] ✓ Multi-Agent Workflow ready
+[2025-10-23 11:52:07] [INFO] [PostDischargeAssistant] [APP] New session: 4081bb46-6c47-496f-9092-55125c3e781c
+[2025-10-23 11:52:16] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: My name is John Brown...
+[2025-10-23 11:52:16] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 11:52:16] [ERROR] [PostDischargeAssistant] [ERROR] MultiAgentWorkflow.process_message: 'HumanMessage' object is not subscriptable
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\workflow\graph.py", line 173, in process_message
+    result = self.app.invoke(state, config)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langgraph\pregel\__init__.py", line 1940, in invoke
+    for chunk in self.stream(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langgraph\pregel\__init__.py", line 1660, in stream
+    for _ in runner.tick(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langgraph\pregel\runner.py", line 167, in tick
+    run_with_retry(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langgraph\pregel\retry.py", line 40, in run_with_retry
+    return task.proc.invoke(task.input, config)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langgraph\utils\runnable.py", line 408, in invoke
+    input = step.invoke(input, config, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langgraph\utils\runnable.py", line 184, in invoke
+    ret = context.run(self.func, input, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\workflow\graph.py", line 67, in _receptionist_node
+    last_message = state["messages"][-1]["content"] if state["messages"] else ""
+TypeError: 'HumanMessage' object is not subscriptable
+[2025-10-23 11:52:25] [INFO] [PostDischargeAssistant] [APP] New conversation: f8374f33-9278-48e4-8ae8-9a812b8779a7
+[2025-10-23 11:52:33] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: My name is John Brown
+...
+[2025-10-23 11:52:33] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 11:52:33] [ERROR] [PostDischargeAssistant] [ERROR] MultiAgentWorkflow.process_message: 'HumanMessage' object is not subscriptable
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\workflow\graph.py", line 173, in process_message
+    result = self.app.invoke(state, config)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langgraph\pregel\__init__.py", line 1940, in invoke
+    for chunk in self.stream(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langgraph\pregel\__init__.py", line 1660, in stream
+    for _ in runner.tick(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langgraph\pregel\runner.py", line 167, in tick
+    run_with_retry(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langgraph\pregel\retry.py", line 40, in run_with_retry
+    return task.proc.invoke(task.input, config)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langgraph\utils\runnable.py", line 408, in invoke
+    input = step.invoke(input, config, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langgraph\utils\runnable.py", line 184, in invoke
+    ret = context.run(self.func, input, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\workflow\graph.py", line 67, in _receptionist_node
+    last_message = state["messages"][-1]["content"] if state["messages"] else ""
+TypeError: 'HumanMessage' object is not subscriptable
+[2025-10-23 11:54:32] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 11:54:32] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 11:54:32] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 11:54:40] [INFO] [PostDischargeAssistant] Initializing Multi-Agent Workflow...
+[2025-10-23 11:54:40] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 11:54:40] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 11:54:40] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 11:54:40] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 11:54:44] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 11:54:44] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 11:54:46] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 11:54:46] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 11:54:46] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-23 11:54:46] [INFO] [PostDischargeAssistant] ✓ Receptionist Agent initialized
+[2025-10-23 11:54:46] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 11:54:46] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 11:54:46] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 11:54:46] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 11:54:49] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 11:54:49] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 11:54:50] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 11:54:50] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 11:54:50] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-23 11:54:50] [INFO] [PostDischargeAssistant] ✓ Clinical Agent initialized
+[2025-10-23 11:54:50] [INFO] [PostDischargeAssistant] ✓ Multi-Agent Workflow ready
+[2025-10-23 11:54:50] [INFO] [PostDischargeAssistant] [APP] New session: 47aa46b2-430a-4652-b2a1-ec59c40c7ddd
+[2025-10-23 11:55:00] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: My name is John Brown...
+[2025-10-23 11:55:00] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 11:55:00] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: My name is John Brown...
+[2025-10-23 11:55:03] [ERROR] [PostDischargeAssistant] [ERROR] ReceptionistAgent.process: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\agents\receptionist_agent.py", line 79, in process
+    response = self.executor.invoke({
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\chains\base.py", line 170, in invoke
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\chains\base.py", line 160, in invoke
+    self._call(inputs, run_manager=run_manager)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1624, in _call
+    next_step_output = self._take_next_step(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1330, in _take_next_step
+    [
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1330, in <listcomp>
+    [
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1358, in _iter_next_step
+    output = self._action_agent.plan(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 581, in plan
+    for chunk in self.runnable.stream(inputs, config={"callbacks": callbacks}):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3405, in stream
+    yield from self.transform(iter([input]), config, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3392, in transform
+    yield from self._transform_stream_with_config(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 2195, in _transform_stream_with_config
+    chunk: Output = context.run(next, iterator)  # type: ignore
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3355, in _transform
+    yield from final_pipeline
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 1411, in transform
+    for ichunk in input:
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 5559, in transform
+    yield from self.bound.transform(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 1429, in transform
+    yield from self.stream(final, config, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 420, in stream
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 400, in stream
+    for chunk in self._stream(messages, stop=stop, **kwargs):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 1032, in _stream
+    response: GenerateContentResponse = _chat_with_retry(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 196, in _chat_with_retry
+    return _chat_with_retry(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 338, in wrapped_f
+    return copy(f, *args, **kw)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 378, in iter
+    result = action(retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 420, in exc_check
+    raise retry_exc.reraise()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 187, in reraise
+    raise self.last_attempt.result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 439, in result
+    return self.__get_result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 391, in __get_result
+    raise self._exception
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 194, in _chat_with_retry
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 178, in _chat_with_retry
+    return generation_method(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\client.py", line 1143, in stream_generate_content
+    response = rpc(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\gapic_v1\method.py", line 131, in __call__
+    return wrapped_func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 294, in retry_wrapped_func
+    return retry_target(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 156, in retry_target
+    next_sleep = _retry_error_helper(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_base.py", line 214, in _retry_error_helper
+    raise final_exc from source_exc
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 147, in retry_target
+    result = target()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\timeout.py", line 130, in func_with_timeout
+    return func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\grpc_helpers.py", line 173, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.NotFound: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-10-23 11:55:04] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-10-23 11:55:04] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (92 chars)
+[2025-10-23 12:02:13] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 12:02:13] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 12:02:13] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 12:02:23] [INFO] [PostDischargeAssistant] Initializing Multi-Agent Workflow...
+[2025-10-23 12:02:23] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 12:02:23] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 12:02:23] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 12:02:24] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 12:02:27] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 12:02:27] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 12:02:30] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 12:02:30] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 12:02:30] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-23 12:02:30] [INFO] [PostDischargeAssistant] ✓ Receptionist Agent initialized
+[2025-10-23 12:02:30] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 12:02:30] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 12:02:30] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 12:02:30] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 12:02:33] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 12:02:33] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 12:02:34] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 12:02:34] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 12:02:34] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-23 12:02:34] [INFO] [PostDischargeAssistant] ✓ Clinical Agent initialized
+[2025-10-23 12:02:34] [INFO] [PostDischargeAssistant] ✓ Multi-Agent Workflow ready
+[2025-10-23 12:02:34] [INFO] [PostDischargeAssistant] [APP] New session: 5b3bd8eb-09fc-4750-9e92-e99f91014912
+[2025-10-23 12:02:50] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: My name is John Brown...
+[2025-10-23 12:02:50] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 12:02:50] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: My name is John Brown...
+[2025-10-23 12:02:54] [ERROR] [PostDischargeAssistant] [ERROR] ReceptionistAgent.process: 404 models/gemini-1.5-flash-latest is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\agents\receptionist_agent.py", line 79, in process
+    response = self.executor.invoke({
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\chains\base.py", line 170, in invoke
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\chains\base.py", line 160, in invoke
+    self._call(inputs, run_manager=run_manager)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1624, in _call
+    next_step_output = self._take_next_step(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1330, in _take_next_step
+    [
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1330, in <listcomp>
+    [
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1358, in _iter_next_step
+    output = self._action_agent.plan(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 581, in plan
+    for chunk in self.runnable.stream(inputs, config={"callbacks": callbacks}):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3405, in stream
+    yield from self.transform(iter([input]), config, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3392, in transform
+    yield from self._transform_stream_with_config(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 2195, in _transform_stream_with_config
+    chunk: Output = context.run(next, iterator)  # type: ignore
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3355, in _transform
+    yield from final_pipeline
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 1411, in transform
+    for ichunk in input:
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 5559, in transform
+    yield from self.bound.transform(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 1429, in transform
+    yield from self.stream(final, config, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 420, in stream
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 400, in stream
+    for chunk in self._stream(messages, stop=stop, **kwargs):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 1032, in _stream
+    response: GenerateContentResponse = _chat_with_retry(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 196, in _chat_with_retry
+    return _chat_with_retry(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 338, in wrapped_f
+    return copy(f, *args, **kw)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 378, in iter
+    result = action(retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 420, in exc_check
+    raise retry_exc.reraise()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 187, in reraise
+    raise self.last_attempt.result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 439, in result
+    return self.__get_result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 391, in __get_result
+    raise self._exception
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 194, in _chat_with_retry
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 178, in _chat_with_retry
+    return generation_method(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\client.py", line 1143, in stream_generate_content
+    response = rpc(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\gapic_v1\method.py", line 131, in __call__
+    return wrapped_func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 294, in retry_wrapped_func
+    return retry_target(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 156, in retry_target
+    next_sleep = _retry_error_helper(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_base.py", line 214, in _retry_error_helper
+    raise final_exc from source_exc
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 147, in retry_target
+    result = target()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\timeout.py", line 130, in func_with_timeout
+    return func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\grpc_helpers.py", line 173, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.NotFound: 404 models/gemini-1.5-flash-latest is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-10-23 12:02:54] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-10-23 12:02:54] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (92 chars)
+[2025-10-23 12:09:17] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 12:09:17] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 12:09:17] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 12:09:26] [INFO] [PostDischargeAssistant] Initializing Multi-Agent Workflow...
+[2025-10-23 12:09:26] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 12:09:26] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 12:09:26] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 12:09:26] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 12:09:30] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 12:09:30] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 12:09:32] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 12:09:32] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 12:09:32] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-23 12:09:32] [INFO] [PostDischargeAssistant] ✓ Receptionist Agent initialized
+[2025-10-23 12:09:32] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 12:09:32] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 12:09:32] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 12:09:32] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 12:09:35] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 12:09:35] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 12:09:36] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 12:09:36] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 12:09:36] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-23 12:09:36] [INFO] [PostDischargeAssistant] ✓ Clinical Agent initialized
+[2025-10-23 12:09:36] [INFO] [PostDischargeAssistant] ✓ Multi-Agent Workflow ready
+[2025-10-23 12:09:36] [INFO] [PostDischargeAssistant] [APP] New session: f6d4a6df-354d-4ddd-b5a0-a23c4efda7a1
+[2025-10-23 12:09:49] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: My name is John Brown...
+[2025-10-23 12:09:49] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 12:09:49] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: My name is John Brown...
+[2025-10-23 12:09:52] [ERROR] [PostDischargeAssistant] [ERROR] ReceptionistAgent.process: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\agents\receptionist_agent.py", line 79, in process
+    response = self.executor.invoke({
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\chains\base.py", line 170, in invoke
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\chains\base.py", line 160, in invoke
+    self._call(inputs, run_manager=run_manager)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1624, in _call
+    next_step_output = self._take_next_step(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1330, in _take_next_step
+    [
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1330, in <listcomp>
+    [
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1358, in _iter_next_step
+    output = self._action_agent.plan(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 581, in plan
+    for chunk in self.runnable.stream(inputs, config={"callbacks": callbacks}):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3405, in stream
+    yield from self.transform(iter([input]), config, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3392, in transform
+    yield from self._transform_stream_with_config(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 2195, in _transform_stream_with_config
+    chunk: Output = context.run(next, iterator)  # type: ignore
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3355, in _transform
+    yield from final_pipeline
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 1411, in transform
+    for ichunk in input:
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 5559, in transform
+    yield from self.bound.transform(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 1429, in transform
+    yield from self.stream(final, config, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 420, in stream
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 400, in stream
+    for chunk in self._stream(messages, stop=stop, **kwargs):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 1032, in _stream
+    response: GenerateContentResponse = _chat_with_retry(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 196, in _chat_with_retry
+    return _chat_with_retry(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 338, in wrapped_f
+    return copy(f, *args, **kw)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 378, in iter
+    result = action(retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 420, in exc_check
+    raise retry_exc.reraise()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 187, in reraise
+    raise self.last_attempt.result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 439, in result
+    return self.__get_result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 391, in __get_result
+    raise self._exception
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 194, in _chat_with_retry
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 178, in _chat_with_retry
+    return generation_method(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\client.py", line 1143, in stream_generate_content
+    response = rpc(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\gapic_v1\method.py", line 131, in __call__
+    return wrapped_func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 294, in retry_wrapped_func
+    return retry_target(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 156, in retry_target
+    next_sleep = _retry_error_helper(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_base.py", line 214, in _retry_error_helper
+    raise final_exc from source_exc
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 147, in retry_target
+    result = target()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\timeout.py", line 130, in func_with_timeout
+    return func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\grpc_helpers.py", line 173, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.NotFound: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-10-23 12:09:52] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-10-23 12:09:52] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (92 chars)
+[2025-10-23 12:11:26] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 12:11:26] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 12:11:26] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 12:11:37] [INFO] [PostDischargeAssistant] Initializing Multi-Agent Workflow...
+[2025-10-23 12:11:37] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 12:11:37] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 12:11:37] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 12:11:37] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 12:11:41] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 12:11:41] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 12:11:44] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 12:11:44] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 12:11:44] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-23 12:11:45] [INFO] [PostDischargeAssistant] ✓ Receptionist Agent initialized
+[2025-10-23 12:11:45] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 12:11:45] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 12:11:45] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 12:11:45] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 12:11:48] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 12:11:48] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 12:11:50] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 12:11:50] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 12:11:50] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-23 12:11:50] [INFO] [PostDischargeAssistant] ✓ Clinical Agent initialized
+[2025-10-23 12:11:50] [INFO] [PostDischargeAssistant] ✓ Multi-Agent Workflow ready
+[2025-10-23 12:11:50] [INFO] [PostDischargeAssistant] [APP] New session: acca473e-d723-4c08-8d7b-c6f2bf77ec35
+[2025-10-23 12:12:01] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: My name is John Brown...
+[2025-10-23 12:12:01] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 12:12:01] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: My name is John Brown...
+[2025-10-23 12:12:03] [ERROR] [PostDischargeAssistant] [ERROR] ReceptionistAgent.process: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\agents\receptionist_agent.py", line 79, in process
+    response = self.executor.invoke({
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\chains\base.py", line 170, in invoke
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\chains\base.py", line 160, in invoke
+    self._call(inputs, run_manager=run_manager)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1624, in _call
+    next_step_output = self._take_next_step(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1330, in _take_next_step
+    [
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1330, in <listcomp>
+    [
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1358, in _iter_next_step
+    output = self._action_agent.plan(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 581, in plan
+    for chunk in self.runnable.stream(inputs, config={"callbacks": callbacks}):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3405, in stream
+    yield from self.transform(iter([input]), config, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3392, in transform
+    yield from self._transform_stream_with_config(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 2195, in _transform_stream_with_config
+    chunk: Output = context.run(next, iterator)  # type: ignore
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3355, in _transform
+    yield from final_pipeline
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 1411, in transform
+    for ichunk in input:
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 5559, in transform
+    yield from self.bound.transform(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 1429, in transform
+    yield from self.stream(final, config, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 420, in stream
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 400, in stream
+    for chunk in self._stream(messages, stop=stop, **kwargs):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 1032, in _stream
+    response: GenerateContentResponse = _chat_with_retry(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 196, in _chat_with_retry
+    return _chat_with_retry(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 338, in wrapped_f
+    return copy(f, *args, **kw)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 378, in iter
+    result = action(retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 420, in exc_check
+    raise retry_exc.reraise()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 187, in reraise
+    raise self.last_attempt.result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 439, in result
+    return self.__get_result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 391, in __get_result
+    raise self._exception
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 194, in _chat_with_retry
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 178, in _chat_with_retry
+    return generation_method(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\client.py", line 1143, in stream_generate_content
+    response = rpc(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\gapic_v1\method.py", line 131, in __call__
+    return wrapped_func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 294, in retry_wrapped_func
+    return retry_target(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 156, in retry_target
+    next_sleep = _retry_error_helper(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_base.py", line 214, in _retry_error_helper
+    raise final_exc from source_exc
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 147, in retry_target
+    result = target()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\timeout.py", line 130, in func_with_timeout
+    return func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\grpc_helpers.py", line 173, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.NotFound: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-10-23 12:12:03] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-10-23 12:12:03] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (92 chars)
+[2025-10-23 12:23:25] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 12:23:25] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 12:23:25] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 12:24:12] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 12:24:12] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 12:24:12] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 12:24:20] [INFO] [PostDischargeAssistant] Initializing Multi-Agent Workflow...
+[2025-10-23 12:24:20] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 12:24:20] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 12:24:20] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 12:24:20] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 12:24:23] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 12:24:23] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 12:24:26] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 12:24:26] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 12:24:26] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-23 12:24:26] [INFO] [PostDischargeAssistant] ✓ Receptionist Agent initialized
+[2025-10-23 12:24:26] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 12:24:26] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 12:24:26] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 12:24:26] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 12:24:29] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 12:24:29] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 12:24:30] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 12:24:30] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 12:24:30] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-23 12:24:30] [INFO] [PostDischargeAssistant] ✓ Clinical Agent initialized
+[2025-10-23 12:24:30] [INFO] [PostDischargeAssistant] ✓ Multi-Agent Workflow ready
+[2025-10-23 12:24:30] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: Hello...
+[2025-10-23 12:24:30] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 12:24:30] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: Hello...
+[2025-10-23 12:24:33] [ERROR] [PostDischargeAssistant] [ERROR] ReceptionistAgent.process: 404 models/gemini-1.5-flash-latest is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\agents\receptionist_agent.py", line 79, in process
+    response = self.executor.invoke({
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\chains\base.py", line 170, in invoke
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\chains\base.py", line 160, in invoke
+    self._call(inputs, run_manager=run_manager)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1624, in _call
+    next_step_output = self._take_next_step(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1330, in _take_next_step
+    [
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1330, in <listcomp>
+    [
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1358, in _iter_next_step
+    output = self._action_agent.plan(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 581, in plan
+    for chunk in self.runnable.stream(inputs, config={"callbacks": callbacks}):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3405, in stream
+    yield from self.transform(iter([input]), config, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3392, in transform
+    yield from self._transform_stream_with_config(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 2195, in _transform_stream_with_config
+    chunk: Output = context.run(next, iterator)  # type: ignore
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3355, in _transform
+    yield from final_pipeline
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 1411, in transform
+    for ichunk in input:
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 5559, in transform
+    yield from self.bound.transform(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 1429, in transform
+    yield from self.stream(final, config, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 420, in stream
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 400, in stream
+    for chunk in self._stream(messages, stop=stop, **kwargs):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 1032, in _stream
+    response: GenerateContentResponse = _chat_with_retry(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 196, in _chat_with_retry
+    return _chat_with_retry(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 338, in wrapped_f
+    return copy(f, *args, **kw)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 378, in iter
+    result = action(retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 420, in exc_check
+    raise retry_exc.reraise()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 187, in reraise
+    raise self.last_attempt.result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 439, in result
+    return self.__get_result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 391, in __get_result
+    raise self._exception
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 194, in _chat_with_retry
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 178, in _chat_with_retry
+    return generation_method(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\client.py", line 1143, in stream_generate_content
+    response = rpc(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\gapic_v1\method.py", line 131, in __call__
+    return wrapped_func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 294, in retry_wrapped_func
+    return retry_target(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 156, in retry_target
+    next_sleep = _retry_error_helper(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_base.py", line 214, in _retry_error_helper
+    raise final_exc from source_exc
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 147, in retry_target
+    result = target()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\timeout.py", line 130, in func_with_timeout
+    return func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\grpc_helpers.py", line 173, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.NotFound: 404 models/gemini-1.5-flash-latest is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-10-23 12:24:33] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-10-23 12:24:33] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (92 chars)
+[2025-10-23 12:26:26] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 12:26:26] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 12:26:26] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 12:26:36] [INFO] [PostDischargeAssistant] Initializing Multi-Agent Workflow...
+[2025-10-23 12:26:36] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 12:26:36] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 12:26:36] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 12:26:36] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 12:26:40] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 12:26:40] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 12:27:40] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 12:27:40] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 12:27:40] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-23 12:27:40] [INFO] [PostDischargeAssistant] ✓ Receptionist Agent initialized
+[2025-10-23 12:27:40] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 12:27:40] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 12:27:40] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 12:27:40] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 12:27:43] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 12:27:43] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 12:27:44] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 12:27:44] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 12:27:44] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-23 12:27:44] [INFO] [PostDischargeAssistant] ✓ Clinical Agent initialized
+[2025-10-23 12:27:44] [INFO] [PostDischargeAssistant] ✓ Multi-Agent Workflow ready
+[2025-10-23 12:27:44] [INFO] [PostDischargeAssistant] [APP] New session: 7db592a9-56d3-4995-b6a5-fe56fae068e5
+[2025-10-23 12:28:08] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: My name is John Brown...
+[2025-10-23 12:28:08] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 12:28:08] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: My name is John Brown...
+[2025-10-23 12:28:12] [ERROR] [PostDischargeAssistant] [ERROR] ReceptionistAgent.process: 404 models/gemini-1.5-flash-latest is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\agents\receptionist_agent.py", line 79, in process
+    response = self.executor.invoke({
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\chains\base.py", line 170, in invoke
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\chains\base.py", line 160, in invoke
+    self._call(inputs, run_manager=run_manager)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1624, in _call
+    next_step_output = self._take_next_step(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1330, in _take_next_step
+    [
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1330, in <listcomp>
+    [
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1358, in _iter_next_step
+    output = self._action_agent.plan(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 581, in plan
+    for chunk in self.runnable.stream(inputs, config={"callbacks": callbacks}):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3405, in stream
+    yield from self.transform(iter([input]), config, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3392, in transform
+    yield from self._transform_stream_with_config(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 2195, in _transform_stream_with_config
+    chunk: Output = context.run(next, iterator)  # type: ignore
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3355, in _transform
+    yield from final_pipeline
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 1411, in transform
+    for ichunk in input:
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 5559, in transform
+    yield from self.bound.transform(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 1429, in transform
+    yield from self.stream(final, config, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 420, in stream
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 400, in stream
+    for chunk in self._stream(messages, stop=stop, **kwargs):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 1032, in _stream
+    response: GenerateContentResponse = _chat_with_retry(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 196, in _chat_with_retry
+    return _chat_with_retry(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 338, in wrapped_f
+    return copy(f, *args, **kw)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 378, in iter
+    result = action(retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 420, in exc_check
+    raise retry_exc.reraise()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 187, in reraise
+    raise self.last_attempt.result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 439, in result
+    return self.__get_result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 391, in __get_result
+    raise self._exception
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 194, in _chat_with_retry
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 178, in _chat_with_retry
+    return generation_method(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\client.py", line 1143, in stream_generate_content
+    response = rpc(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\gapic_v1\method.py", line 131, in __call__
+    return wrapped_func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 294, in retry_wrapped_func
+    return retry_target(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 156, in retry_target
+    next_sleep = _retry_error_helper(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_base.py", line 214, in _retry_error_helper
+    raise final_exc from source_exc
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 147, in retry_target
+    result = target()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\timeout.py", line 130, in func_with_timeout
+    return func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\grpc_helpers.py", line 173, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.NotFound: 404 models/gemini-1.5-flash-latest is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-10-23 12:28:12] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-10-23 12:28:12] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (92 chars)
+[2025-10-23 13:09:22] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 13:09:22] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 13:09:22] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 13:09:45] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 13:09:45] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 13:09:45] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 13:09:46] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 13:09:49] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 13:09:49] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 13:09:52] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 13:09:52] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 13:09:52] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-23 13:09:52] [INFO] [PostDischargeAssistant] ✓ Receptionist Agent initialized
+[2025-10-23 13:10:07] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 13:10:07] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 13:10:07] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 13:10:15] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 13:10:15] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 13:10:15] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 13:10:15] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 13:10:18] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 13:10:18] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 13:10:21] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 13:10:21] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 13:10:21] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-23 13:10:21] [INFO] [PostDischargeAssistant] ✓ Clinical Agent initialized
+[2025-10-23 13:10:34] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 13:10:34] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 13:10:34] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 13:10:43] [INFO] [PostDischargeAssistant] Initializing Multi-Agent Workflow...
+[2025-10-23 13:10:43] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 13:10:43] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 13:10:43] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 13:10:43] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 13:10:47] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 13:10:47] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 13:10:49] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 13:10:49] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 13:10:49] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-23 13:10:49] [INFO] [PostDischargeAssistant] ✓ Receptionist Agent initialized
+[2025-10-23 13:10:49] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 13:10:49] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 13:10:49] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 13:10:49] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 13:10:53] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 13:10:53] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 13:10:54] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 13:10:54] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 13:10:54] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-23 13:10:54] [INFO] [PostDischargeAssistant] ✓ Clinical Agent initialized
+[2025-10-23 13:10:54] [INFO] [PostDischargeAssistant] ✓ Multi-Agent Workflow ready
+[2025-10-23 13:10:54] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: Hello...
+[2025-10-23 13:10:54] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 13:10:54] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: Hello...
+[2025-10-23 13:10:56] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: False)
+[2025-10-23 13:10:56] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-10-23 13:10:56] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (203 chars)
+[2025-10-23 13:11:31] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 13:11:31] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 13:11:31] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 13:11:52] [INFO] [PostDischargeAssistant] Initializing Multi-Agent Workflow...
+[2025-10-23 13:11:52] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 13:11:52] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 13:11:52] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 13:11:52] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 13:11:56] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 13:11:56] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 13:11:58] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 13:11:58] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 13:11:58] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-23 13:11:58] [INFO] [PostDischargeAssistant] ✓ Receptionist Agent initialized
+[2025-10-23 13:11:58] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 13:11:58] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 13:11:58] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 13:11:58] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 13:12:01] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 13:12:01] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 13:12:03] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 13:12:03] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 13:12:03] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-23 13:12:03] [INFO] [PostDischargeAssistant] ✓ Clinical Agent initialized
+[2025-10-23 13:12:03] [INFO] [PostDischargeAssistant] ✓ Multi-Agent Workflow ready
+[2025-10-23 13:12:03] [INFO] [PostDischargeAssistant] [APP] New session: b46f07bb-e9d6-48cd-b97c-40bb62fa963b
+[2025-10-23 13:12:21] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: i am John Brown
+...
+[2025-10-23 13:12:21] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 13:12:21] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: i am John Brown
+...
+[2025-10-23 13:12:23] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data called with params: {'patient_name': 'John Brown'}
+[2025-10-23 13:12:23] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data result: Retrieving patient data
+[2025-10-23 13:12:23] [INFO] [PostDischargeAssistant] [DATABASE] SELECT: Looking up patient: John Brown
+[2025-10-23 13:12:23] [WARNING] [PostDischargeAssistant] Patient not found: John Brown
+[2025-10-23 13:12:23] [WARNING] [PostDischargeAssistant] Patient not found: John Brown
+[2025-10-23 13:12:25] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: False)
+[2025-10-23 13:12:25] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-10-23 13:12:25] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (257 chars)
+[2025-10-23 13:13:21] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: i am James Thomas
+...
+[2025-10-23 13:13:21] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 13:13:21] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: i am James Thomas
+...
+[2025-10-23 13:13:23] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data called with params: {'patient_name': 'James Thomas'}
+[2025-10-23 13:13:23] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data result: Retrieving patient data
+[2025-10-23 13:13:23] [INFO] [PostDischargeAssistant] [DATABASE] SELECT: Looking up patient: James Thomas
+[2025-10-23 13:13:23] [INFO] [PostDischargeAssistant] ✓ Found patient: James Thomas
+[2025-10-23 13:13:23] [INFO] [PostDischargeAssistant] ✓ Retrieved patient data for: James Thomas
+[2025-10-23 13:13:27] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: False)
+[2025-10-23 13:13:27] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-10-23 13:13:27] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (1223 chars)
+[2025-10-23 14:33:39] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 14:33:39] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 14:33:39] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 14:33:58] [INFO] [PostDischargeAssistant] Initializing Multi-Agent Workflow...
+[2025-10-23 14:33:58] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 14:33:58] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 14:33:58] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 14:33:58] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 14:34:03] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 14:34:03] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 14:34:05] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 14:34:05] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 14:34:05] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-23 14:34:05] [INFO] [PostDischargeAssistant] ✓ Receptionist Agent initialized
+[2025-10-23 14:34:05] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 14:34:05] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 14:34:05] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 14:34:05] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 14:34:09] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 14:34:09] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 14:34:10] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 14:34:10] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 14:34:10] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-23 14:34:10] [INFO] [PostDischargeAssistant] ✓ Clinical Agent initialized
+[2025-10-23 14:34:10] [INFO] [PostDischargeAssistant] ✓ Multi-Agent Workflow ready
+[2025-10-23 14:34:10] [INFO] [PostDischargeAssistant] [APP] New session: 566f483b-90a4-487a-93da-d4c5acc9bf1a
+[2025-10-23 14:34:38] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: HI...
+[2025-10-23 14:34:38] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 14:34:38] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: HI...
+[2025-10-23 14:34:40] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: False)
+[2025-10-23 14:34:40] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-10-23 14:34:40] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (203 chars)
+[2025-10-23 14:34:54] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: i am james king
+...
+[2025-10-23 14:34:54] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 14:34:54] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: i am james king
+...
+[2025-10-23 14:34:56] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data called with params: {'patient_name': 'james king'}
+[2025-10-23 14:34:56] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data result: Retrieving patient data
+[2025-10-23 14:34:56] [INFO] [PostDischargeAssistant] [DATABASE] SELECT: Looking up patient: james king
+[2025-10-23 14:34:56] [INFO] [PostDischargeAssistant] ✓ Found patient: james king
+[2025-10-23 14:34:56] [INFO] [PostDischargeAssistant] ✓ Retrieved patient data for: james king
+[2025-10-23 14:34:58] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: False)
+[2025-10-23 14:34:58] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-10-23 14:34:58] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (1056 chars)
+[2025-10-23 14:35:25] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: what precaution i should take ?
+...
+[2025-10-23 14:35:25] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 14:35:25] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: what precaution i should take ?
+...
+[2025-10-23 14:35:29] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: False)
+[2025-10-23 14:35:29] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-10-23 14:35:29] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (1201 chars)
+[2025-10-23 14:35:48] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: what food i should avoid ?
+...
+[2025-10-23 14:35:48] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 14:35:48] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: what food i should avoid ?
+...
+[2025-10-23 14:35:52] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: True)
+[2025-10-23 14:35:52] [INFO] [PostDischargeAssistant] [WORKFLOW] Routing to clinical agent
+[2025-10-23 14:35:52] [INFO] [PostDischargeAssistant] [WORKFLOW] Clinical node
+[2025-10-23 14:35:52] [INFO] [PostDischargeAssistant] [CLINICAL] Processing: That's a very important question, James. Your disc...
+[2025-10-23 14:36:04] [INFO] [PostDischargeAssistant] [RAG] Query: foods to avoid for diabetic nephropathy with protein restriction
+[2025-10-23 14:36:04] [INFO] [PostDischargeAssistant] [RAG] Retrieved 5 chunks from sources: ['Nephrology Textbook']
+[2025-10-23 14:36:04] [INFO] [PostDischargeAssistant] Searching Pinecone for: 'foods to avoid for diabetic nephropathy with protein restriction'
+[2025-10-23 14:36:04] [INFO] [PostDischargeAssistant]   Top K: 5
+[2025-10-23 14:36:05] [INFO] [PostDischargeAssistant] ✓ Found 5 results
+[2025-10-23 14:36:05] [INFO] [PostDischargeAssistant] ✓ Found 5 relevant chunks for: foods to avoid for diabetic nephropathy with protein restriction
+[2025-10-23 14:36:29] [INFO] [PostDischargeAssistant] [RAG] Query: dietary restrictions for diabetic nephropathy
+[2025-10-23 14:36:29] [INFO] [PostDischargeAssistant] [RAG] Retrieved 5 chunks from sources: ['Nephrology Textbook']
+[2025-10-23 14:36:29] [INFO] [PostDischargeAssistant] Searching Pinecone for: 'dietary restrictions for diabetic nephropathy'
+[2025-10-23 14:36:29] [INFO] [PostDischargeAssistant]   Top K: 5
+[2025-10-23 14:36:29] [INFO] [PostDischargeAssistant] ✓ Found 5 results
+[2025-10-23 14:36:29] [INFO] [PostDischargeAssistant] ✓ Found 5 relevant chunks for: dietary restrictions for diabetic nephropathy
+[2025-10-23 14:36:29] [INFO] [PostDischargeAssistant] [WEB_SEARCH] Query: foods to avoid for diabetic kidney disease National Kidney Foundation
+[2025-10-23 14:36:29] [INFO] [PostDischargeAssistant] [WEB_SEARCH] Found 3 results
+[2025-10-23 14:36:35] [ERROR] [PostDischargeAssistant] [ERROR] web_search: https://links.duckduckgo.com/d.js?q=foods+to+avoid+for+diabetic+kidney+disease+National+Kidney+Foundation&kl=wt-wt&l=wt-wt&p=&s=0&df=&vqd=4-193855248685098126089545740992427073455&bing_market=wt-WT&ex=-1 202 Ratelimit
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\mcp\tools.py", line 143, in web_search
+    results = list(ddgs.text(query, max_results=max_results))
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\duckduckgo_search\duckduckgo_search.py", line 258, in text
+    raise DuckDuckGoSearchException(err)
+duckduckgo_search.exceptions.DuckDuckGoSearchException: https://links.duckduckgo.com/d.js?q=foods+to+avoid+for+diabetic+kidney+disease+National+Kidney+Foundation&kl=wt-wt&l=wt-wt&p=&s=0&df=&vqd=4-193855248685098126089545740992427073455&bing_market=wt-WT&ex=-1 202 Ratelimit
+[2025-10-23 14:36:35] [ERROR] [PostDischargeAssistant] [ERROR] ClinicalAgent.process: Invalid argument provided to Gemini: 400 * GenerateContentRequest.contents[12].parts[0].function_response.name: Name cannot be empty.
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 178, in _chat_with_retry
+    return generation_method(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\client.py", line 1143, in stream_generate_content
+    response = rpc(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\gapic_v1\method.py", line 131, in __call__
+    return wrapped_func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 294, in retry_wrapped_func
+    return retry_target(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 156, in retry_target
+    next_sleep = _retry_error_helper(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_base.py", line 214, in _retry_error_helper
+    raise final_exc from source_exc
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 147, in retry_target
+    result = target()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\timeout.py", line 130, in func_with_timeout
+    return func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\grpc_helpers.py", line 173, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.InvalidArgument: 400 * GenerateContentRequest.contents[12].parts[0].function_response.name: Name cannot be empty.
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\agents\clinical_agent.py", line 101, in process
+    response = self.executor.invoke({
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\chains\base.py", line 170, in invoke
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\chains\base.py", line 160, in invoke
+    self._call(inputs, run_manager=run_manager)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1624, in _call
+    next_step_output = self._take_next_step(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1330, in _take_next_step
+    [
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1330, in <listcomp>
+    [
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1358, in _iter_next_step
+    output = self._action_agent.plan(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 581, in plan
+    for chunk in self.runnable.stream(inputs, config={"callbacks": callbacks}):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3405, in stream
+    yield from self.transform(iter([input]), config, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3392, in transform
+    yield from self._transform_stream_with_config(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 2195, in _transform_stream_with_config
+    chunk: Output = context.run(next, iterator)  # type: ignore
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3355, in _transform
+    yield from final_pipeline
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 1411, in transform
+    for ichunk in input:
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 5559, in transform
+    yield from self.bound.transform(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 1429, in transform
+    yield from self.stream(final, config, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 420, in stream
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 400, in stream
+    for chunk in self._stream(messages, stop=stop, **kwargs):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 1032, in _stream
+    response: GenerateContentResponse = _chat_with_retry(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 196, in _chat_with_retry
+    return _chat_with_retry(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 338, in wrapped_f
+    return copy(f, *args, **kw)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 378, in iter
+    result = action(retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 400, in <lambda>
+    self._add_action_func(lambda rs: rs.outcome.result())
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 439, in result
+    return self.__get_result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 391, in __get_result
+    raise self._exception
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 190, in _chat_with_retry
+    raise ChatGoogleGenerativeAIError(
+langchain_google_genai.chat_models.ChatGoogleGenerativeAIError: Invalid argument provided to Gemini: 400 * GenerateContentRequest.contents[12].parts[0].function_response.name: Name cannot be empty.
+
+[2025-10-23 14:36:35] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 14:36:35] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: I apologize, but I'm having trouble accessing medi...
+[2025-10-23 14:36:47] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: True)
+[2025-10-23 14:36:47] [INFO] [PostDischargeAssistant] [WORKFLOW] Routing to clinical agent
+[2025-10-23 14:36:47] [INFO] [PostDischargeAssistant] [WORKFLOW] Clinical node
+[2025-10-23 14:36:47] [INFO] [PostDischargeAssistant] [CLINICAL] Processing: I understand, James. As a post-discharge assistant...
+[2025-10-23 14:37:02] [INFO] [PostDischargeAssistant] [CLINICAL] Response generated with 0 sources
+[2025-10-23 14:37:02] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 14:37:02] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: Of course, James. That is an excellent and very im...
+[2025-10-23 14:37:10] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: True)
+[2025-10-23 14:37:10] [INFO] [PostDischargeAssistant] [WORKFLOW] Routing to clinical agent
+[2025-10-23 14:37:10] [INFO] [PostDischargeAssistant] [WORKFLOW] Clinical node
+[2025-10-23 14:37:10] [INFO] [PostDischargeAssistant] [CLINICAL] Processing: I apologize if my previous response caused any con...
+[2025-10-23 14:37:24] [INFO] [PostDischargeAssistant] [CLINICAL] Response generated with 0 sources
+[2025-10-23 14:37:24] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 14:37:24] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: `search_medical_knowledge` with the query `foods t...
+[2025-10-23 14:37:28] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: True)
+[2025-10-23 14:37:28] [INFO] [PostDischargeAssistant] [WORKFLOW] Routing to clinical agent
+[2025-10-23 14:37:28] [INFO] [PostDischargeAssistant] [WORKFLOW] Clinical node
+[2025-10-23 14:37:28] [INFO] [PostDischargeAssistant] [CLINICAL] Processing: I understand you're looking for specific guidance ...
+[2025-10-23 14:37:46] [INFO] [PostDischargeAssistant] [RAG] Query: foods to avoid for diabetic nephropathy with protein restriction
+[2025-10-23 14:37:46] [INFO] [PostDischargeAssistant] [RAG] Retrieved 5 chunks from sources: ['Nephrology Textbook']
+[2025-10-23 14:37:46] [INFO] [PostDischargeAssistant] Searching Pinecone for: 'foods to avoid for diabetic nephropathy with protein restriction'
+[2025-10-23 14:37:46] [INFO] [PostDischargeAssistant]   Top K: 5
+[2025-10-23 14:37:47] [INFO] [PostDischargeAssistant] ✓ Found 5 results
+[2025-10-23 14:37:47] [INFO] [PostDischargeAssistant] ✓ Found 5 relevant chunks for: foods to avoid for diabetic nephropathy with protein restriction
+[2025-10-23 14:38:14] [INFO] [PostDischargeAssistant] [CLINICAL] Response generated with 0 sources
+[2025-10-23 14:38:14] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 14:38:14] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: That is an excellent and very important question, ...
+[2025-10-23 14:38:17] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: False)
+[2025-10-23 14:38:17] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-10-23 14:38:17] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (913 chars)
+[2025-10-23 14:39:06] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: can you name that food ?...
+[2025-10-23 14:39:06] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 14:39:06] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: can you name that food ?...
+[2025-10-23 14:39:15] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: False)
+[2025-10-23 14:39:15] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-10-23 14:39:15] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (2749 chars)
+[2025-10-23 14:54:01] [INFO] [PostDischargeAssistant] [APP] New conversation: d30676c5-010c-4ae2-8146-0b5a480c38ac
+[2025-10-23 14:54:23] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: hi my name is Barbara Smith
+...
+[2025-10-23 14:54:23] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 14:54:23] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: hi my name is Barbara Smith
+...
+[2025-10-23 14:54:25] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data called with params: {'patient_name': 'Barbara Smith'}
+[2025-10-23 14:54:25] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data result: Retrieving patient data
+[2025-10-23 14:54:25] [INFO] [PostDischargeAssistant] [DATABASE] SELECT: Looking up patient: Barbara Smith
+[2025-10-23 14:54:25] [INFO] [PostDischargeAssistant] ✓ Found patient: Barbara Smith
+[2025-10-23 14:54:25] [INFO] [PostDischargeAssistant] ✓ Retrieved patient data for: Barbara Smith
+[2025-10-23 14:54:30] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: False)
+[2025-10-23 14:54:30] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-10-23 14:54:30] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (1727 chars)
+[2025-10-23 14:56:34] [INFO] [PostDischargeAssistant] [APP] New conversation: 0ed956db-46dd-40c1-8f3e-846c73c261f4
+[2025-10-23 14:56:43] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: hi my name is "John Smith"
+...
+[2025-10-23 14:56:43] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 14:56:43] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: hi my name is "John Smith"
+...
+[2025-10-23 14:56:44] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data called with params: {'patient_name': 'John Smith'}
+[2025-10-23 14:56:44] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data result: Retrieving patient data
+[2025-10-23 14:56:44] [INFO] [PostDischargeAssistant] [DATABASE] SELECT: Looking up patient: John Smith
+[2025-10-23 14:56:44] [WARNING] [PostDischargeAssistant] Patient not found: John Smith
+[2025-10-23 14:56:44] [WARNING] [PostDischargeAssistant] Patient not found: John Smith
+[2025-10-23 14:56:47] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: False)
+[2025-10-23 14:56:47] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-10-23 14:56:47] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (178 chars)
+[2025-10-23 14:57:10] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: Sarah Thompson...
+[2025-10-23 14:57:10] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 14:57:10] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: Sarah Thompson...
+[2025-10-23 14:57:12] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data called with params: {'patient_name': 'Sarah Thompson'}
+[2025-10-23 14:57:12] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data result: Retrieving patient data
+[2025-10-23 14:57:12] [INFO] [PostDischargeAssistant] [DATABASE] SELECT: Looking up patient: Sarah Thompson
+[2025-10-23 14:57:12] [INFO] [PostDischargeAssistant] ✓ Found patient: Sarah Thompson
+[2025-10-23 14:57:12] [INFO] [PostDischargeAssistant] ✓ Retrieved patient data for: Sarah Thompson
+[2025-10-23 14:57:14] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: False)
+[2025-10-23 14:57:14] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-10-23 14:57:14] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (1146 chars)
+[2025-10-23 14:57:36] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: "I'm having swelling in my legs. Should I be worri...
+[2025-10-23 14:57:36] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 14:57:36] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: "I'm having swelling in my legs. Should I be worri...
+[2025-10-23 14:57:38] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: False)
+[2025-10-23 14:57:38] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-10-23 14:57:38] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (500 chars)
+[2025-10-23 14:58:58] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: "What's the latest research on SGLT2 inhibitors fo...
+[2025-10-23 14:58:58] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 14:58:58] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: "What's the latest research on SGLT2 inhibitors fo...
+[2025-10-23 14:59:01] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: True)
+[2025-10-23 14:59:01] [INFO] [PostDischargeAssistant] [WORKFLOW] Routing to clinical agent
+[2025-10-23 14:59:01] [INFO] [PostDischargeAssistant] [WORKFLOW] Clinical node
+[2025-10-23 14:59:01] [INFO] [PostDischargeAssistant] [CLINICAL] Processing: That's a very important and detailed question abou...
+[2025-10-23 14:59:10] [INFO] [PostDischargeAssistant] [CLINICAL] Response generated with 0 sources
+[2025-10-23 14:59:10] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 14:59:10] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: ...
+[2025-10-23 14:59:13] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: True)
+[2025-10-23 14:59:13] [INFO] [PostDischargeAssistant] [WORKFLOW] Routing to clinical agent
+[2025-10-23 14:59:13] [INFO] [PostDischargeAssistant] [WORKFLOW] Clinical node
+[2025-10-23 14:59:13] [INFO] [PostDischargeAssistant] [CLINICAL] Processing: That's a very insightful question about the latest...
+[2025-10-23 14:59:20] [INFO] [PostDischargeAssistant] [RAG] Query: SGLT2 inhibitors for kidney disease
+[2025-10-23 14:59:20] [INFO] [PostDischargeAssistant] [RAG] Retrieved 5 chunks from sources: ['Nephrology Textbook']
+[2025-10-23 14:59:20] [INFO] [PostDischargeAssistant] Searching Pinecone for: 'SGLT2 inhibitors for kidney disease'
+[2025-10-23 14:59:20] [INFO] [PostDischargeAssistant]   Top K: 5
+[2025-10-23 14:59:22] [INFO] [PostDischargeAssistant] ✓ Found 5 results
+[2025-10-23 14:59:22] [INFO] [PostDischargeAssistant] ✓ Found 5 relevant chunks for: SGLT2 inhibitors for kidney disease
+[2025-10-23 14:59:46] [INFO] [PostDischargeAssistant] [WEB_SEARCH] Query: latest clinical trials and guideline updates for SGLT2 inhibitors in chronic kidney disease
+[2025-10-23 14:59:46] [INFO] [PostDischargeAssistant] [WEB_SEARCH] Found 3 results
+[2025-10-23 14:59:51] [ERROR] [PostDischargeAssistant] [ERROR] web_search: https://lite.duckduckgo.com/lite/ 202 Ratelimit
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\mcp\tools.py", line 143, in web_search
+    results = list(ddgs.text(query, max_results=max_results))
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\duckduckgo_search\duckduckgo_search.py", line 258, in text
+    raise DuckDuckGoSearchException(err)
+duckduckgo_search.exceptions.DuckDuckGoSearchException: https://lite.duckduckgo.com/lite/ 202 Ratelimit
+[2025-10-23 14:59:53] [ERROR] [PostDischargeAssistant] [ERROR] ClinicalAgent.process: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit.
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 2
+Please retry in 6.488022067s. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 2
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 6
+}
+]
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\agents\clinical_agent.py", line 101, in process
+    response = self.executor.invoke({
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\chains\base.py", line 170, in invoke
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\chains\base.py", line 160, in invoke
+    self._call(inputs, run_manager=run_manager)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1624, in _call
+    next_step_output = self._take_next_step(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1330, in _take_next_step
+    [
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1330, in <listcomp>
+    [
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1358, in _iter_next_step
+    output = self._action_agent.plan(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 581, in plan
+    for chunk in self.runnable.stream(inputs, config={"callbacks": callbacks}):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3405, in stream
+    yield from self.transform(iter([input]), config, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3392, in transform
+    yield from self._transform_stream_with_config(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 2195, in _transform_stream_with_config
+    chunk: Output = context.run(next, iterator)  # type: ignore
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3355, in _transform
+    yield from final_pipeline
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 1411, in transform
+    for ichunk in input:
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 5559, in transform
+    yield from self.bound.transform(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 1429, in transform
+    yield from self.stream(final, config, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 420, in stream
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 400, in stream
+    for chunk in self._stream(messages, stop=stop, **kwargs):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 1032, in _stream
+    response: GenerateContentResponse = _chat_with_retry(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 196, in _chat_with_retry
+    return _chat_with_retry(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 338, in wrapped_f
+    return copy(f, *args, **kw)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 378, in iter
+    result = action(retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 420, in exc_check
+    raise retry_exc.reraise()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 187, in reraise
+    raise self.last_attempt.result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 439, in result
+    return self.__get_result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 391, in __get_result
+    raise self._exception
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 194, in _chat_with_retry
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 178, in _chat_with_retry
+    return generation_method(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\client.py", line 1143, in stream_generate_content
+    response = rpc(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\gapic_v1\method.py", line 131, in __call__
+    return wrapped_func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 294, in retry_wrapped_func
+    return retry_target(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 156, in retry_target
+    next_sleep = _retry_error_helper(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_base.py", line 214, in _retry_error_helper
+    raise final_exc from source_exc
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 147, in retry_target
+    result = target()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\timeout.py", line 130, in func_with_timeout
+    return func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\grpc_helpers.py", line 173, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit.
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 2
+Please retry in 6.488022067s. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 2
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 6
+}
+]
+[2025-10-23 14:59:53] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 14:59:53] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: I apologize, but I'm having trouble accessing medi...
+[2025-10-23 14:59:59] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: True)
+[2025-10-23 14:59:59] [INFO] [PostDischargeAssistant] [WORKFLOW] Routing to clinical agent
+[2025-10-23 14:59:59] [INFO] [PostDischargeAssistant] [WORKFLOW] Clinical node
+[2025-10-23 14:59:59] [INFO] [PostDischargeAssistant] [CLINICAL] Processing: I understand you're having trouble accessing medic...
+[2025-10-23 15:00:12] [INFO] [PostDischargeAssistant] [CLINICAL] Response generated with 0 sources
+[2025-10-23 15:00:12] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 15:00:12] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: ...
+[2025-10-23 15:00:15] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: True)
+[2025-10-23 15:00:15] [INFO] [PostDischargeAssistant] [WORKFLOW] Routing to clinical agent
+[2025-10-23 15:00:15] [INFO] [PostDischargeAssistant] [WORKFLOW] Clinical node
+[2025-10-23 15:00:15] [INFO] [PostDischargeAssistant] [CLINICAL] Processing: That's a very important question about the latest ...
+[2025-10-23 15:00:21] [INFO] [PostDischargeAssistant] [CLINICAL] Response generated with 0 sources
+[2025-10-23 15:00:21] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 15:00:21] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: ...
+[2025-10-23 15:00:24] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: True)
+[2025-10-23 15:00:24] [INFO] [PostDischargeAssistant] [WORKFLOW] Routing to clinical agent
+[2025-10-23 15:00:24] [INFO] [PostDischargeAssistant] [WORKFLOW] Clinical node
+[2025-10-23 15:00:24] [INFO] [PostDischargeAssistant] [CLINICAL] Processing: That's a very important question about the latest ...
+[2025-10-23 15:00:35] [INFO] [PostDischargeAssistant] [RAG] Query: SGLT2 inhibitors for chronic kidney disease
+[2025-10-23 15:00:35] [INFO] [PostDischargeAssistant] [RAG] Retrieved 5 chunks from sources: ['Nephrology Textbook']
+[2025-10-23 15:00:35] [INFO] [PostDischargeAssistant] Searching Pinecone for: 'SGLT2 inhibitors for chronic kidney disease'
+[2025-10-23 15:00:35] [INFO] [PostDischargeAssistant]   Top K: 5
+[2025-10-23 15:00:36] [INFO] [PostDischargeAssistant] ✓ Found 5 results
+[2025-10-23 15:00:36] [INFO] [PostDischargeAssistant] ✓ Found 5 relevant chunks for: SGLT2 inhibitors for chronic kidney disease
+[2025-10-23 15:01:02] [INFO] [PostDischargeAssistant] [WEB_SEARCH] Query: latest KDIGO guidelines SGLT2 inhibitors chronic kidney disease
+[2025-10-23 15:01:02] [INFO] [PostDischargeAssistant] [WEB_SEARCH] Found 3 results
+[2025-10-23 15:01:07] [ERROR] [PostDischargeAssistant] [ERROR] web_search: https://www.ecosia.org/search?q=latest+KDIGO+guidelines+SGLT2+inhibitors+chronic+kidney+disease 403 Ratelimit
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\mcp\tools.py", line 143, in web_search
+    results = list(ddgs.text(query, max_results=max_results))
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\duckduckgo_search\duckduckgo_search.py", line 258, in text
+    raise DuckDuckGoSearchException(err)
+duckduckgo_search.exceptions.DuckDuckGoSearchException: https://www.ecosia.org/search?q=latest+KDIGO+guidelines+SGLT2+inhibitors+chronic+kidney+disease 403 Ratelimit
+[2025-10-23 15:01:24] [INFO] [PostDischargeAssistant] [CLINICAL] Response generated with 0 sources
+[2025-10-23 15:01:24] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 15:01:24] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: That is an excellent and very relevant question. T...
+[2025-10-23 15:01:28] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: False)
+[2025-10-23 15:01:28] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-10-23 15:01:28] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (728 chars)
+[2025-10-23 16:14:09] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 16:14:09] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 16:14:09] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 16:14:09] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 16:14:09] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 16:14:09] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 16:14:09] [INFO] [PostDischargeAssistant] Initializing Multi-Agent Workflow...
+[2025-10-23 16:14:09] [INFO] [PostDischargeAssistant] Initializing Multi-Agent Workflow...
+[2025-10-23 16:14:09] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 16:14:09] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 16:14:09] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 16:14:09] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 16:14:09] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 16:14:09] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 16:14:09] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 16:14:09] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 16:14:13] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 16:14:13] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 16:14:13] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 16:14:13] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 16:14:14] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 16:14:14] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 16:14:14] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 16:14:14] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 16:14:14] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-23 16:14:14] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-23 16:14:14] [INFO] [PostDischargeAssistant] ✓ Receptionist Agent initialized
+[2025-10-23 16:14:14] [INFO] [PostDischargeAssistant] ✓ Receptionist Agent initialized
+[2025-10-23 16:14:14] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 16:14:14] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 16:14:14] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 16:14:14] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 16:14:14] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 16:14:14] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 16:14:14] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 16:14:14] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 16:14:18] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 16:14:18] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 16:14:18] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 16:14:18] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 16:14:19] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 16:14:19] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 16:14:19] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 16:14:19] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 16:14:19] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-23 16:14:19] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-23 16:14:19] [INFO] [PostDischargeAssistant] ✓ Clinical Agent initialized
+[2025-10-23 16:14:19] [INFO] [PostDischargeAssistant] ✓ Clinical Agent initialized
+[2025-10-23 16:14:19] [INFO] [PostDischargeAssistant] ✓ Multi-Agent Workflow ready
+[2025-10-23 16:14:19] [INFO] [PostDischargeAssistant] ✓ Multi-Agent Workflow ready
+[2025-10-23 16:14:19] [INFO] [PostDischargeAssistant] [APP] New session: 68b9e3ab-9601-4752-8df5-170ae9d2104b
+[2025-10-23 16:14:19] [INFO] [PostDischargeAssistant] [APP] New session: 68b9e3ab-9601-4752-8df5-170ae9d2104b
+[2025-10-23 16:15:07] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: John
+...
+[2025-10-23 16:15:07] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: John
+...
+[2025-10-23 16:15:07] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 16:15:07] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 16:15:07] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: John
+...
+[2025-10-23 16:15:07] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: John
+...
+[2025-10-23 16:15:10] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data called with params: {'patient_name': 'John'}
+[2025-10-23 16:15:10] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data called with params: {'patient_name': 'John'}
+[2025-10-23 16:15:10] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data result: Retrieving patient data
+[2025-10-23 16:15:10] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data result: Retrieving patient data
+[2025-10-23 16:15:10] [INFO] [PostDischargeAssistant] [DATABASE] SELECT: Looking up patient: John
+[2025-10-23 16:15:10] [INFO] [PostDischargeAssistant] [DATABASE] SELECT: Looking up patient: John
+[2025-10-23 16:15:10] [WARNING] [PostDischargeAssistant] Patient not found: John
+[2025-10-23 16:15:10] [WARNING] [PostDischargeAssistant] Patient not found: John
+[2025-10-23 16:15:10] [WARNING] [PostDischargeAssistant] Patient not found: John
+[2025-10-23 16:15:10] [WARNING] [PostDischargeAssistant] Patient not found: John
+[2025-10-23 16:15:12] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: False)
+[2025-10-23 16:15:12] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: False)
+[2025-10-23 16:15:12] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-10-23 16:15:12] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-10-23 16:15:12] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (115 chars)
+[2025-10-23 16:15:12] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (115 chars)
+[2025-10-23 16:15:43] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: Barbara Smith
+
+
+
+...
+[2025-10-23 16:15:43] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: Barbara Smith
+
+
+
+...
+[2025-10-23 16:15:43] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 16:15:43] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 16:15:43] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: Barbara Smith
+
+
+
+...
+[2025-10-23 16:15:43] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: Barbara Smith
+
+
+
+...
+[2025-10-23 16:15:44] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data called with params: {'patient_name': 'Barbara Smith'}
+[2025-10-23 16:15:44] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data called with params: {'patient_name': 'Barbara Smith'}
+[2025-10-23 16:15:44] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data result: Retrieving patient data
+[2025-10-23 16:15:44] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data result: Retrieving patient data
+[2025-10-23 16:15:44] [INFO] [PostDischargeAssistant] [DATABASE] SELECT: Looking up patient: Barbara Smith
+[2025-10-23 16:15:44] [INFO] [PostDischargeAssistant] [DATABASE] SELECT: Looking up patient: Barbara Smith
+[2025-10-23 16:15:44] [INFO] [PostDischargeAssistant] ✓ Found patient: Barbara Smith
+[2025-10-23 16:15:44] [INFO] [PostDischargeAssistant] ✓ Found patient: Barbara Smith
+[2025-10-23 16:15:44] [INFO] [PostDischargeAssistant] ✓ Retrieved patient data for: Barbara Smith
+[2025-10-23 16:15:44] [INFO] [PostDischargeAssistant] ✓ Retrieved patient data for: Barbara Smith
+[2025-10-23 16:15:46] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: False)
+[2025-10-23 16:15:46] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: False)
+[2025-10-23 16:15:46] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-10-23 16:15:46] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-10-23 16:15:46] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (186 chars)
+[2025-10-23 16:15:46] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (186 chars)
+[2025-10-23 16:15:56] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: yes
+...
+[2025-10-23 16:15:56] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: yes
+...
+[2025-10-23 16:15:56] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 16:15:56] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 16:15:56] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: yes
+...
+[2025-10-23 16:15:56] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: yes
+...
+[2025-10-23 16:15:58] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: False)
+[2025-10-23 16:15:58] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: False)
+[2025-10-23 16:15:58] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-10-23 16:15:58] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-10-23 16:15:58] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (130 chars)
+[2025-10-23 16:15:58] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (130 chars)
+[2025-10-23 16:16:24] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: Who is president of india...
+[2025-10-23 16:16:24] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: Who is president of india...
+[2025-10-23 16:16:24] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 16:16:24] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 16:16:24] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: Who is president of india...
+[2025-10-23 16:16:24] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: Who is president of india...
+[2025-10-23 16:16:26] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: False)
+[2025-10-23 16:16:26] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: False)
+[2025-10-23 16:16:26] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-10-23 16:16:26] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-10-23 16:16:26] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (321 chars)
+[2025-10-23 16:16:26] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (321 chars)
+[2025-10-23 16:17:04] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: What's the latest research on SGLT2 inhibitors for...
+[2025-10-23 16:17:04] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: What's the latest research on SGLT2 inhibitors for...
+[2025-10-23 16:17:04] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 16:17:04] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 16:17:04] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: What's the latest research on SGLT2 inhibitors for...
+[2025-10-23 16:17:04] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: What's the latest research on SGLT2 inhibitors for...
+[2025-10-23 16:17:06] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: True)
+[2025-10-23 16:17:06] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: True)
+[2025-10-23 16:17:06] [INFO] [PostDischargeAssistant] [WORKFLOW] Routing to clinical agent
+[2025-10-23 16:17:06] [INFO] [PostDischargeAssistant] [WORKFLOW] Routing to clinical agent
+[2025-10-23 16:17:06] [INFO] [PostDischargeAssistant] [WORKFLOW] Clinical node
+[2025-10-23 16:17:06] [INFO] [PostDischargeAssistant] [WORKFLOW] Clinical node
+[2025-10-23 16:17:06] [INFO] [PostDischargeAssistant] [CLINICAL] Processing: This sounds like a medical concern. Let me connect...
+[2025-10-23 16:17:06] [INFO] [PostDischargeAssistant] [CLINICAL] Processing: This sounds like a medical concern. Let me connect...
+[2025-10-23 16:17:12] [ERROR] [PostDischargeAssistant] [ERROR] ClinicalAgent.process: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit.
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 2
+Please retry in 48.033582881s. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 2
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 48
+}
+]
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\agents\clinical_agent.py", line 101, in process
+    response = self.executor.invoke({
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\chains\base.py", line 170, in invoke
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\chains\base.py", line 160, in invoke
+    self._call(inputs, run_manager=run_manager)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1624, in _call
+    next_step_output = self._take_next_step(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1330, in _take_next_step
+    [
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1330, in <listcomp>
+    [
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1358, in _iter_next_step
+    output = self._action_agent.plan(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 581, in plan
+    for chunk in self.runnable.stream(inputs, config={"callbacks": callbacks}):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3405, in stream
+    yield from self.transform(iter([input]), config, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3392, in transform
+    yield from self._transform_stream_with_config(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 2195, in _transform_stream_with_config
+    chunk: Output = context.run(next, iterator)  # type: ignore
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3355, in _transform
+    yield from final_pipeline
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 1411, in transform
+    for ichunk in input:
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 5559, in transform
+    yield from self.bound.transform(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 1429, in transform
+    yield from self.stream(final, config, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 420, in stream
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 400, in stream
+    for chunk in self._stream(messages, stop=stop, **kwargs):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 1032, in _stream
+    response: GenerateContentResponse = _chat_with_retry(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 196, in _chat_with_retry
+    return _chat_with_retry(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 338, in wrapped_f
+    return copy(f, *args, **kw)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 378, in iter
+    result = action(retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 420, in exc_check
+    raise retry_exc.reraise()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 187, in reraise
+    raise self.last_attempt.result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 439, in result
+    return self.__get_result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 391, in __get_result
+    raise self._exception
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 194, in _chat_with_retry
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 178, in _chat_with_retry
+    return generation_method(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\client.py", line 1143, in stream_generate_content
+    response = rpc(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\gapic_v1\method.py", line 131, in __call__
+    return wrapped_func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 294, in retry_wrapped_func
+    return retry_target(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 156, in retry_target
+    next_sleep = _retry_error_helper(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_base.py", line 214, in _retry_error_helper
+    raise final_exc from source_exc
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 147, in retry_target
+    result = target()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\timeout.py", line 130, in func_with_timeout
+    return func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\grpc_helpers.py", line 173, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit.
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 2
+Please retry in 48.033582881s. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 2
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 48
+}
+]
+[2025-10-23 16:17:12] [ERROR] [PostDischargeAssistant] [ERROR] ClinicalAgent.process: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit.
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 2
+Please retry in 48.033582881s. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 2
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 48
+}
+]
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\agents\clinical_agent.py", line 101, in process
+    response = self.executor.invoke({
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\chains\base.py", line 170, in invoke
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\chains\base.py", line 160, in invoke
+    self._call(inputs, run_manager=run_manager)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1624, in _call
+    next_step_output = self._take_next_step(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1330, in _take_next_step
+    [
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1330, in <listcomp>
+    [
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1358, in _iter_next_step
+    output = self._action_agent.plan(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 581, in plan
+    for chunk in self.runnable.stream(inputs, config={"callbacks": callbacks}):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3405, in stream
+    yield from self.transform(iter([input]), config, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3392, in transform
+    yield from self._transform_stream_with_config(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 2195, in _transform_stream_with_config
+    chunk: Output = context.run(next, iterator)  # type: ignore
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3355, in _transform
+    yield from final_pipeline
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 1411, in transform
+    for ichunk in input:
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 5559, in transform
+    yield from self.bound.transform(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 1429, in transform
+    yield from self.stream(final, config, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 420, in stream
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 400, in stream
+    for chunk in self._stream(messages, stop=stop, **kwargs):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 1032, in _stream
+    response: GenerateContentResponse = _chat_with_retry(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 196, in _chat_with_retry
+    return _chat_with_retry(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 338, in wrapped_f
+    return copy(f, *args, **kw)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 378, in iter
+    result = action(retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 420, in exc_check
+    raise retry_exc.reraise()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 187, in reraise
+    raise self.last_attempt.result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 439, in result
+    return self.__get_result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 391, in __get_result
+    raise self._exception
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 194, in _chat_with_retry
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 178, in _chat_with_retry
+    return generation_method(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\client.py", line 1143, in stream_generate_content
+    response = rpc(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\gapic_v1\method.py", line 131, in __call__
+    return wrapped_func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 294, in retry_wrapped_func
+    return retry_target(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 156, in retry_target
+    next_sleep = _retry_error_helper(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_base.py", line 214, in _retry_error_helper
+    raise final_exc from source_exc
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 147, in retry_target
+    result = target()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\timeout.py", line 130, in func_with_timeout
+    return func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\grpc_helpers.py", line 173, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit.
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 2
+Please retry in 48.033582881s. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 2
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 48
+}
+]
+[2025-10-23 16:17:12] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 16:17:12] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 16:17:12] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: I apologize, but I'm having trouble accessing medi...
+[2025-10-23 16:17:12] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: I apologize, but I'm having trouble accessing medi...
+[2025-10-23 16:17:16] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: False)
+[2025-10-23 16:17:16] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: False)
+[2025-10-23 16:17:16] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-10-23 16:17:16] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-10-23 16:17:16] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (456 chars)
+[2025-10-23 16:17:16] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (456 chars)
+[2025-10-23 16:21:59] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 16:21:59] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 16:21:59] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 16:22:10] [INFO] [PostDischargeAssistant] Initializing Multi-Agent Workflow...
+[2025-10-23 16:22:10] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 16:22:10] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 16:22:10] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 16:22:10] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 16:22:14] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 16:22:14] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 16:22:17] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 16:22:17] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 16:22:17] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-23 16:22:17] [INFO] [PostDischargeAssistant] ✓ Receptionist Agent initialized
+[2025-10-23 16:22:17] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 16:22:17] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 16:22:17] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 16:22:17] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 16:22:20] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 16:22:20] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 16:22:21] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 16:22:21] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 16:22:21] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-23 16:22:21] [INFO] [PostDischargeAssistant] ✓ Clinical Agent initialized
+[2025-10-23 16:22:21] [INFO] [PostDischargeAssistant] ✓ Multi-Agent Workflow ready
+[2025-10-23 16:22:21] [INFO] [PostDischargeAssistant] [APP] New session: 590f1dc3-515b-4e12-aad3-5be3c45fd179
+[2025-10-23 16:22:32] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: Barbara Smith
+...
+[2025-10-23 16:22:32] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 16:22:32] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: Barbara Smith
+...
+[2025-10-23 16:22:35] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data called with params: {'patient_name': 'Barbara Smith'}
+[2025-10-23 16:22:35] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data result: Retrieving patient data
+[2025-10-23 16:22:35] [INFO] [PostDischargeAssistant] [DATABASE] SELECT: Looking up patient: Barbara Smith
+[2025-10-23 16:22:35] [INFO] [PostDischargeAssistant] ✓ Found patient: Barbara Smith
+[2025-10-23 16:22:35] [INFO] [PostDischargeAssistant] ✓ Retrieved patient data for: Barbara Smith
+[2025-10-23 16:22:37] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: False)
+[2025-10-23 16:22:37] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-10-23 16:22:37] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (187 chars)
+[2025-10-23 16:23:04] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: What's the latest research on SGLT2 inhibitors for...
+[2025-10-23 16:23:04] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 16:23:04] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: What's the latest research on SGLT2 inhibitors for...
+[2025-10-23 16:23:06] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: True)
+[2025-10-23 16:23:06] [INFO] [PostDischargeAssistant] [WORKFLOW] Routing to clinical agent
+[2025-10-23 16:23:06] [INFO] [PostDischargeAssistant] [WORKFLOW] Clinical node
+[2025-10-23 16:23:06] [INFO] [PostDischargeAssistant] [CLINICAL] Processing: This sounds like a medical concern. Let me connect...
+[2025-10-23 16:23:16] [INFO] [PostDischargeAssistant] [WEB_SEARCH] Query: SGLT2 inhibitors for kidney disease latest research
+[2025-10-23 16:23:16] [INFO] [PostDischargeAssistant] [WEB_SEARCH] Found 3 results
+[2025-10-23 16:23:21] [ERROR] [PostDischargeAssistant] [ERROR] web_search: https://lite.duckduckgo.com/lite/ 202 Ratelimit
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\mcp\tools.py", line 143, in web_search
+    results = list(ddgs.text(query, max_results=max_results))
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\duckduckgo_search\duckduckgo_search.py", line 258, in text
+    raise DuckDuckGoSearchException(err)
+duckduckgo_search.exceptions.DuckDuckGoSearchException: https://lite.duckduckgo.com/lite/ 202 Ratelimit
+[2025-10-23 16:23:34] [ERROR] [PostDischargeAssistant] [ERROR] ClinicalAgent.process: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit.
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 2
+Please retry in 26.010708824s. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 2
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 26
+}
+]
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\agents\clinical_agent.py", line 101, in process
+    response = self.executor.invoke({
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\chains\base.py", line 170, in invoke
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\chains\base.py", line 160, in invoke
+    self._call(inputs, run_manager=run_manager)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1624, in _call
+    next_step_output = self._take_next_step(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1330, in _take_next_step
+    [
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1330, in <listcomp>
+    [
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1358, in _iter_next_step
+    output = self._action_agent.plan(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 581, in plan
+    for chunk in self.runnable.stream(inputs, config={"callbacks": callbacks}):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3405, in stream
+    yield from self.transform(iter([input]), config, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3392, in transform
+    yield from self._transform_stream_with_config(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 2195, in _transform_stream_with_config
+    chunk: Output = context.run(next, iterator)  # type: ignore
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3355, in _transform
+    yield from final_pipeline
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 1411, in transform
+    for ichunk in input:
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 5559, in transform
+    yield from self.bound.transform(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 1429, in transform
+    yield from self.stream(final, config, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 420, in stream
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 400, in stream
+    for chunk in self._stream(messages, stop=stop, **kwargs):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 1032, in _stream
+    response: GenerateContentResponse = _chat_with_retry(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 196, in _chat_with_retry
+    return _chat_with_retry(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 338, in wrapped_f
+    return copy(f, *args, **kw)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 378, in iter
+    result = action(retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 420, in exc_check
+    raise retry_exc.reraise()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 187, in reraise
+    raise self.last_attempt.result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 439, in result
+    return self.__get_result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 391, in __get_result
+    raise self._exception
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 194, in _chat_with_retry
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 178, in _chat_with_retry
+    return generation_method(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\client.py", line 1143, in stream_generate_content
+    response = rpc(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\gapic_v1\method.py", line 131, in __call__
+    return wrapped_func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 294, in retry_wrapped_func
+    return retry_target(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 156, in retry_target
+    next_sleep = _retry_error_helper(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_base.py", line 214, in _retry_error_helper
+    raise final_exc from source_exc
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 147, in retry_target
+    result = target()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\timeout.py", line 130, in func_with_timeout
+    return func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\grpc_helpers.py", line 173, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit.
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 2
+Please retry in 26.010708824s. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 2
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 26
+}
+]
+[2025-10-23 16:23:34] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 16:23:34] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: I apologize, but I'm having trouble accessing medi...
+[2025-10-23 16:23:41] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: False)
+[2025-10-23 16:23:41] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-10-23 16:23:41] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (337 chars)
+[2025-10-23 16:27:57] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: switch to clinical agent 
+...
+[2025-10-23 16:27:57] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 16:27:57] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: switch to clinical agent 
+...
+[2025-10-23 16:28:00] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: True)
+[2025-10-23 16:28:00] [INFO] [PostDischargeAssistant] [WORKFLOW] Routing to clinical agent
+[2025-10-23 16:28:00] [INFO] [PostDischargeAssistant] [WORKFLOW] Clinical node
+[2025-10-23 16:28:00] [INFO] [PostDischargeAssistant] [CLINICAL] Processing: This sounds like a medical concern. Let me connect...
+[2025-10-23 16:28:12] [INFO] [PostDischargeAssistant] [WEB_SEARCH] Query: SGLT2 inhibitors for kidney disease latest research
+[2025-10-23 16:28:12] [INFO] [PostDischargeAssistant] [WEB_SEARCH] Found 3 results
+[2025-10-23 16:28:16] [ERROR] [PostDischargeAssistant] [ERROR] web_search: https://lite.duckduckgo.com/lite/ 202 Ratelimit
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\mcp\tools.py", line 143, in web_search
+    results = list(ddgs.text(query, max_results=max_results))
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\duckduckgo_search\duckduckgo_search.py", line 258, in text
+    raise DuckDuckGoSearchException(err)
+duckduckgo_search.exceptions.DuckDuckGoSearchException: https://lite.duckduckgo.com/lite/ 202 Ratelimit
+[2025-10-23 16:28:35] [INFO] [PostDischargeAssistant] [WEB_SEARCH] Query: latest research SGLT2 inhibitors for chronic kidney disease 2024
+[2025-10-23 16:28:35] [INFO] [PostDischargeAssistant] [WEB_SEARCH] Found 3 results
+[2025-10-23 16:28:39] [ERROR] [PostDischargeAssistant] [ERROR] web_search: https://lite.duckduckgo.com/lite/ 202 Ratelimit
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\mcp\tools.py", line 143, in web_search
+    results = list(ddgs.text(query, max_results=max_results))
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\duckduckgo_search\duckduckgo_search.py", line 258, in text
+    raise DuckDuckGoSearchException(err)
+duckduckgo_search.exceptions.DuckDuckGoSearchException: https://lite.duckduckgo.com/lite/ 202 Ratelimit
+[2025-10-23 16:28:55] [INFO] [PostDischargeAssistant] [CLINICAL] Response generated with 0 sources
+[2025-10-23 16:28:55] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 16:28:55] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: That is an excellent and very relevant question. S...
+[2025-10-23 16:28:58] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: True)
+[2025-10-23 16:28:58] [INFO] [PostDischargeAssistant] [WORKFLOW] Routing to clinical agent
+[2025-10-23 16:28:58] [INFO] [PostDischargeAssistant] [WORKFLOW] Clinical node
+[2025-10-23 16:28:58] [INFO] [PostDischargeAssistant] [CLINICAL] Processing: This sounds like a medical concern. Let me connect...
+[2025-10-23 16:29:09] [INFO] [PostDischargeAssistant] [WEB_SEARCH] Query: latest research SGLT2 inhibitors for kidney disease
+[2025-10-23 16:29:09] [INFO] [PostDischargeAssistant] [WEB_SEARCH] Found 3 results
+[2025-10-23 16:29:14] [ERROR] [PostDischargeAssistant] [ERROR] web_search: https://links.duckduckgo.com/d.js?q=latest+research+SGLT2+inhibitors+for+kidney+disease&kl=wt-wt&l=wt-wt&p=&s=0&df=&vqd=4-282995525282138730271632789353439911788&bing_market=wt-WT&ex=-1 202 Ratelimit
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\mcp\tools.py", line 143, in web_search
+    results = list(ddgs.text(query, max_results=max_results))
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\duckduckgo_search\duckduckgo_search.py", line 258, in text
+    raise DuckDuckGoSearchException(err)
+duckduckgo_search.exceptions.DuckDuckGoSearchException: https://links.duckduckgo.com/d.js?q=latest+research+SGLT2+inhibitors+for+kidney+disease&kl=wt-wt&l=wt-wt&p=&s=0&df=&vqd=4-282995525282138730271632789353439911788&bing_market=wt-WT&ex=-1 202 Ratelimit
+[2025-10-23 16:29:25] [INFO] [PostDischargeAssistant] [WEB_SEARCH] Query: latest research SGLT2 inhibitors kidney disease 2024 2025
+[2025-10-23 16:29:25] [INFO] [PostDischargeAssistant] [WEB_SEARCH] Found 3 results
+[2025-10-23 16:29:29] [ERROR] [PostDischargeAssistant] [ERROR] web_search: https://www.ecosia.org/search?q=latest+research+SGLT2+inhibitors+kidney+disease+2024+2025 403 Ratelimit
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\mcp\tools.py", line 143, in web_search
+    results = list(ddgs.text(query, max_results=max_results))
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\duckduckgo_search\duckduckgo_search.py", line 258, in text
+    raise DuckDuckGoSearchException(err)
+duckduckgo_search.exceptions.DuckDuckGoSearchException: https://www.ecosia.org/search?q=latest+research+SGLT2+inhibitors+kidney+disease+2024+2025 403 Ratelimit
+[2025-10-23 16:29:50] [INFO] [PostDischargeAssistant] [CLINICAL] Response generated with 0 sources
+[2025-10-23 16:29:50] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 16:29:50] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: That is an excellent and very relevant question. S...
+[2025-10-23 16:29:55] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: True)
+[2025-10-23 16:29:55] [INFO] [PostDischargeAssistant] [WORKFLOW] Routing to clinical agent
+[2025-10-23 16:29:55] [INFO] [PostDischargeAssistant] [WORKFLOW] Clinical node
+[2025-10-23 16:29:55] [INFO] [PostDischargeAssistant] [CLINICAL] Processing: This sounds like a medical concern. Let me connect...
+[2025-10-23 16:30:10] [INFO] [PostDischargeAssistant] [WEB_SEARCH] Query: latest research on SGLT2 inhibitors for kidney disease
+[2025-10-23 16:30:10] [INFO] [PostDischargeAssistant] [WEB_SEARCH] Found 3 results
+[2025-10-23 16:30:16] [ERROR] [PostDischargeAssistant] [ERROR] web_search: https://www.ecosia.org/search?q=latest+research+on+SGLT2+inhibitors+for+kidney+disease 403 Ratelimit
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\mcp\tools.py", line 143, in web_search
+    results = list(ddgs.text(query, max_results=max_results))
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\duckduckgo_search\duckduckgo_search.py", line 258, in text
+    raise DuckDuckGoSearchException(err)
+duckduckgo_search.exceptions.DuckDuckGoSearchException: https://www.ecosia.org/search?q=latest+research+on+SGLT2+inhibitors+for+kidney+disease 403 Ratelimit
+[2025-10-23 16:30:47] [INFO] [PostDischargeAssistant] [CLINICAL] Response generated with 0 sources
+[2025-10-23 16:30:47] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 16:30:47] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: That is an excellent and very relevant question. S...
+[2025-10-23 16:31:01] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: False)
+[2025-10-23 16:31:01] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-10-23 16:31:01] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (266 chars)
+[2025-10-23 16:34:23] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 16:34:23] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 16:34:23] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 16:34:33] [INFO] [PostDischargeAssistant] Initializing Multi-Agent Workflow...
+[2025-10-23 16:34:33] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 16:34:33] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 16:34:33] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 16:34:33] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 16:34:37] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 16:34:37] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 16:34:40] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 16:34:40] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 16:34:40] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-23 16:34:40] [INFO] [PostDischargeAssistant] ✓ Receptionist Agent initialized
+[2025-10-23 16:34:40] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 16:34:40] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 16:34:40] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 16:34:40] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 16:34:43] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 16:34:43] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 16:34:44] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 16:34:44] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 16:34:44] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-23 16:34:44] [INFO] [PostDischargeAssistant] ✓ Clinical Agent initialized
+[2025-10-23 16:34:44] [INFO] [PostDischargeAssistant] ✓ Multi-Agent Workflow ready
+[2025-10-23 16:34:44] [INFO] [PostDischargeAssistant] [APP] New session: 20d0675c-39af-48fa-8e8e-80d8e0749204
+[2025-10-23 16:35:11] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: My name is John Brown
+...
+[2025-10-23 16:35:11] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 16:35:11] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: My name is John Brown
+...
+[2025-10-23 16:35:12] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data called with params: {'patient_name': 'John Brown'}
+[2025-10-23 16:35:12] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data result: Retrieving patient data
+[2025-10-23 16:35:12] [INFO] [PostDischargeAssistant] [DATABASE] SELECT: Looking up patient: John Brown
+[2025-10-23 16:35:12] [WARNING] [PostDischargeAssistant] Patient not found: John Brown
+[2025-10-23 16:35:12] [WARNING] [PostDischargeAssistant] Patient not found: John Brown
+[2025-10-23 16:35:14] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: False)
+[2025-10-23 16:35:14] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-10-23 16:35:14] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (210 chars)
+[2025-10-23 16:35:56] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: Sarah Thompson
+
+...
+[2025-10-23 16:35:56] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 16:35:56] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: Sarah Thompson
+
+...
+[2025-10-23 16:35:58] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data called with params: {'patient_name': 'Sarah Thompson'}
+[2025-10-23 16:35:58] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data result: Retrieving patient data
+[2025-10-23 16:35:58] [INFO] [PostDischargeAssistant] [DATABASE] SELECT: Looking up patient: Sarah Thompson
+[2025-10-23 16:35:58] [INFO] [PostDischargeAssistant] ✓ Found patient: Sarah Thompson
+[2025-10-23 16:35:58] [INFO] [PostDischargeAssistant] ✓ Retrieved patient data for: Sarah Thompson
+[2025-10-23 16:36:01] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: False)
+[2025-10-23 16:36:01] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-10-23 16:36:01] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (189 chars)
+[2025-10-23 16:36:17] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: ya i am fine
+...
+[2025-10-23 16:36:17] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 16:36:17] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: ya i am fine
+...
+[2025-10-23 16:36:19] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: False)
+[2025-10-23 16:36:19] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-10-23 16:36:19] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (226 chars)
+[2025-10-23 16:36:39] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: lists medications from discharge report...
+[2025-10-23 16:36:39] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 16:36:39] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: lists medications from discharge report...
+[2025-10-23 16:36:40] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data called with params: {'patient_name': 'Sarah Thompson'}
+[2025-10-23 16:36:40] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data result: Retrieving patient data
+[2025-10-23 16:36:40] [INFO] [PostDischargeAssistant] [DATABASE] SELECT: Looking up patient: Sarah Thompson
+[2025-10-23 16:36:40] [INFO] [PostDischargeAssistant] ✓ Found patient: Sarah Thompson
+[2025-10-23 16:36:40] [INFO] [PostDischargeAssistant] ✓ Retrieved patient data for: Sarah Thompson
+[2025-10-23 16:36:42] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: False)
+[2025-10-23 16:36:42] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-10-23 16:36:42] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (355 chars)
+[2025-10-23 16:36:55] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: I'm having swelling in my legs. Should I be worrie...
+[2025-10-23 16:36:55] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 16:36:55] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: I'm having swelling in my legs. Should I be worrie...
+[2025-10-23 16:36:57] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: True)
+[2025-10-23 16:36:57] [INFO] [PostDischargeAssistant] [WORKFLOW] Routing to clinical agent
+[2025-10-23 16:36:57] [INFO] [PostDischargeAssistant] [WORKFLOW] Clinical node
+[2025-10-23 16:36:57] [INFO] [PostDischargeAssistant] [CLINICAL] Processing: **Receptionist Agent:** **Receptionist Agent:** Th...
+[2025-10-23 16:37:06] [INFO] [PostDischargeAssistant] [RAG] Query: leg swelling and hypertensive nephropathy
+[2025-10-23 16:37:06] [INFO] [PostDischargeAssistant] [RAG] Retrieved 5 chunks from sources: ['Nephrology Textbook']
+[2025-10-23 16:37:06] [INFO] [PostDischargeAssistant] Searching Pinecone for: 'leg swelling and hypertensive nephropathy'
+[2025-10-23 16:37:06] [INFO] [PostDischargeAssistant]   Top K: 5
+[2025-10-23 16:37:08] [INFO] [PostDischargeAssistant] ✓ Found 5 results
+[2025-10-23 16:37:08] [INFO] [PostDischargeAssistant] ✓ Found 5 relevant chunks for: leg swelling and hypertensive nephropathy
+[2025-10-23 16:37:22] [INFO] [PostDischargeAssistant] [CLINICAL] Response generated with 0 sources
+[2025-10-23 16:37:22] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 16:37:22] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: **Clinical Agent:** I understand that swelling in ...
+[2025-10-23 16:37:26] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: True)
+[2025-10-23 16:37:26] [INFO] [PostDischargeAssistant] [WORKFLOW] Routing to clinical agent
+[2025-10-23 16:37:26] [INFO] [PostDischargeAssistant] [WORKFLOW] Clinical node
+[2025-10-23 16:37:26] [INFO] [PostDischargeAssistant] [CLINICAL] Processing: **Receptionist Agent:** **Receptionist Agent:** Th...
+[2025-10-23 16:37:39] [INFO] [PostDischargeAssistant] [CLINICAL] Response generated with 0 sources
+[2025-10-23 16:37:39] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 16:37:39] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: **Clinical Agent:** I'm sorry, I'm not sure what y...
+[2025-10-23 16:37:43] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: True)
+[2025-10-23 16:37:43] [INFO] [PostDischargeAssistant] [WORKFLOW] Routing to clinical agent
+[2025-10-23 16:37:43] [INFO] [PostDischargeAssistant] [WORKFLOW] Clinical node
+[2025-10-23 16:37:43] [INFO] [PostDischargeAssistant] [CLINICAL] Processing: **Receptionist Agent:** **Receptionist Agent:** It...
+[2025-10-23 16:38:01] [INFO] [PostDischargeAssistant] [CLINICAL] Response generated with 0 sources
+[2025-10-23 16:38:01] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 16:38:01] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: **Clinical Agent:** Yes, thank you for that inform...
+[2025-10-23 16:38:06] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: False)
+[2025-10-23 16:38:06] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-10-23 16:38:06] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (1640 chars)
+[2025-10-23 16:46:49] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 16:46:49] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 16:46:49] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 16:46:59] [INFO] [PostDischargeAssistant] Initializing Multi-Agent Workflow...
+[2025-10-23 16:46:59] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 16:46:59] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 16:46:59] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 16:46:59] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 16:47:02] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 16:47:02] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 16:47:05] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 16:47:05] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 16:47:05] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-23 16:47:05] [INFO] [PostDischargeAssistant] ✓ Receptionist Agent initialized
+[2025-10-23 16:47:05] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 16:47:05] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 16:47:05] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 16:47:05] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 16:47:08] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 16:47:08] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 16:47:09] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 16:47:09] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 16:47:09] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-23 16:47:09] [INFO] [PostDischargeAssistant] ✓ Clinical Agent initialized
+[2025-10-23 16:47:09] [INFO] [PostDischargeAssistant] ✓ Multi-Agent Workflow ready
+[2025-10-23 16:47:09] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: My name is John Brown...
+[2025-10-23 16:47:09] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 16:47:09] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: My name is John Brown...
+[2025-10-23 16:47:11] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data called with params: {'patient_name': 'John Brown'}
+[2025-10-23 16:47:11] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data result: Retrieving patient data
+[2025-10-23 16:47:11] [INFO] [PostDischargeAssistant] [DATABASE] SELECT: Looking up patient: John Brown
+[2025-10-23 16:47:11] [WARNING] [PostDischargeAssistant] Patient not found: John Brown
+[2025-10-23 16:47:11] [WARNING] [PostDischargeAssistant] Patient not found: John Brown
+[2025-10-23 16:47:13] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: False)
+[2025-10-23 16:47:13] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-10-23 16:47:13] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (147 chars)
+[2025-10-23 16:47:13] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: I have swelling in my legs...
+[2025-10-23 16:47:13] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 16:47:13] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: I have swelling in my legs...
+[2025-10-23 16:47:16] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: True)
+[2025-10-23 16:47:16] [INFO] [PostDischargeAssistant] [WORKFLOW] Routing to clinical agent
+[2025-10-23 16:47:16] [INFO] [PostDischargeAssistant] [WORKFLOW] Clinical node
+[2025-10-23 16:47:16] [INFO] [PostDischargeAssistant] [CLINICAL] Processing: **Receptionist Agent:** This sounds like a medical...
+[2025-10-23 16:47:39] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 16:47:39] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 16:47:39] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 16:47:48] [INFO] [PostDischargeAssistant] Initializing Multi-Agent Workflow...
+[2025-10-23 16:47:48] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 16:47:48] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 16:47:48] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 16:47:48] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 16:47:54] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 16:47:54] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 16:47:57] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 16:47:57] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 16:47:57] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-23 16:47:57] [INFO] [PostDischargeAssistant] ✓ Receptionist Agent initialized
+[2025-10-23 16:47:57] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 16:47:57] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 16:47:57] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 16:47:57] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 16:48:00] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 16:48:00] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 16:48:01] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 16:48:01] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 16:48:01] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-23 16:48:01] [INFO] [PostDischargeAssistant] ✓ Clinical Agent initialized
+[2025-10-23 16:48:01] [INFO] [PostDischargeAssistant] ✓ Multi-Agent Workflow ready
+[2025-10-23 16:48:01] [INFO] [PostDischargeAssistant] [APP] New session: a26ccb14-98a3-4752-94c9-4431a4445c45
+[2025-10-23 16:48:56] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: Barbara Smith
+...
+[2025-10-23 16:48:56] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 16:48:56] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: Barbara Smith
+...
+[2025-10-23 16:48:59] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data called with params: {'patient_name': 'Barbara Smith'}
+[2025-10-23 16:48:59] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data result: Retrieving patient data
+[2025-10-23 16:48:59] [INFO] [PostDischargeAssistant] [DATABASE] SELECT: Looking up patient: Barbara Smith
+[2025-10-23 16:48:59] [INFO] [PostDischargeAssistant] ✓ Found patient: Barbara Smith
+[2025-10-23 16:48:59] [INFO] [PostDischargeAssistant] ✓ Retrieved patient data for: Barbara Smith
+[2025-10-23 16:49:00] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: False)
+[2025-10-23 16:49:00] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-10-23 16:49:00] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (210 chars)
+[2025-10-23 16:49:37] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: I'm having swelling in my legs...
+[2025-10-23 16:49:37] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 16:49:37] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: I'm having swelling in my legs...
+[2025-10-23 16:49:38] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: True)
+[2025-10-23 16:49:38] [INFO] [PostDischargeAssistant] [WORKFLOW] Routing to clinical agent
+[2025-10-23 16:49:38] [INFO] [PostDischargeAssistant] [WORKFLOW] Clinical node
+[2025-10-23 16:49:38] [INFO] [PostDischargeAssistant] [CLINICAL] Processing: **Receptionist Agent:** This sounds like a medical...
+[2025-10-23 16:49:47] [INFO] [PostDischargeAssistant] [RAG] Query: causes and management of leg swelling in hemodialysis patients
+[2025-10-23 16:49:47] [INFO] [PostDischargeAssistant] [RAG] Retrieved 5 chunks from sources: ['Nephrology Textbook']
+[2025-10-23 16:49:47] [INFO] [PostDischargeAssistant] Searching Pinecone for: 'causes and management of leg swelling in hemodialysis patients'
+[2025-10-23 16:49:47] [INFO] [PostDischargeAssistant]   Top K: 5
+[2025-10-23 16:49:49] [INFO] [PostDischargeAssistant] ✓ Found 5 results
+[2025-10-23 16:49:49] [INFO] [PostDischargeAssistant] ✓ Found 5 relevant chunks for: causes and management of leg swelling in hemodialysis patients
+[2025-10-23 16:50:06] [ERROR] [PostDischargeAssistant] [ERROR] ClinicalAgent.process: 503 The model is overloaded. Please try again later.
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\grpc_helpers.py", line 115, in __next__
+    return next(self._wrapped)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\grpc\_channel.py", line 538, in __next__
+    return self._next()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\grpc\_channel.py", line 962, in _next
+    raise self
+grpc._channel._MultiThreadedRendezvous: <_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "The model is overloaded. Please try again later."
+	debug_error_string = "UNKNOWN:Error received from peer ipv4:142.250.183.234:443 {grpc_status:14, grpc_message:"The model is overloaded. Please try again later."}"
+>
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\agents\clinical_agent.py", line 101, in process
+    response = self.executor.invoke({
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\chains\base.py", line 170, in invoke
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\chains\base.py", line 160, in invoke
+    self._call(inputs, run_manager=run_manager)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1624, in _call
+    next_step_output = self._take_next_step(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1330, in _take_next_step
+    [
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1330, in <listcomp>
+    [
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1358, in _iter_next_step
+    output = self._action_agent.plan(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 581, in plan
+    for chunk in self.runnable.stream(inputs, config={"callbacks": callbacks}):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3405, in stream
+    yield from self.transform(iter([input]), config, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3392, in transform
+    yield from self._transform_stream_with_config(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 2195, in _transform_stream_with_config
+    chunk: Output = context.run(next, iterator)  # type: ignore
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3355, in _transform
+    yield from final_pipeline
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 1411, in transform
+    for ichunk in input:
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 5559, in transform
+    yield from self.bound.transform(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 1429, in transform
+    yield from self.stream(final, config, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 420, in stream
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 400, in stream
+    for chunk in self._stream(messages, stop=stop, **kwargs):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 1040, in _stream
+    for chunk in response:
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\grpc_helpers.py", line 118, in __next__
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.ServiceUnavailable: 503 The model is overloaded. Please try again later.
+[2025-10-23 16:50:06] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (156 chars)
+[2025-10-23 16:50:51] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: I'm having swelling in my legs...
+[2025-10-23 16:50:51] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 16:50:51] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: I'm having swelling in my legs...
+[2025-10-23 16:50:53] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: True)
+[2025-10-23 16:50:53] [INFO] [PostDischargeAssistant] [WORKFLOW] Routing to clinical agent
+[2025-10-23 16:50:53] [INFO] [PostDischargeAssistant] [WORKFLOW] Clinical node
+[2025-10-23 16:50:53] [INFO] [PostDischargeAssistant] [CLINICAL] Processing: **Receptionist Agent:** **Receptionist Agent:** Th...
+[2025-10-23 16:51:02] [INFO] [PostDischargeAssistant] [RAG] Query: leg swelling in end-stage renal disease hemodialysis
+[2025-10-23 16:51:02] [INFO] [PostDischargeAssistant] [RAG] Retrieved 5 chunks from sources: ['Nephrology Textbook']
+[2025-10-23 16:51:02] [INFO] [PostDischargeAssistant] Searching Pinecone for: 'leg swelling in end-stage renal disease hemodialysis'
+[2025-10-23 16:51:02] [INFO] [PostDischargeAssistant]   Top K: 5
+[2025-10-23 16:51:03] [INFO] [PostDischargeAssistant] ✓ Found 5 results
+[2025-10-23 16:51:03] [INFO] [PostDischargeAssistant] ✓ Found 5 relevant chunks for: leg swelling in end-stage renal disease hemodialysis
+[2025-10-23 16:51:20] [INFO] [PostDischargeAssistant] [CLINICAL] Response generated with 0 sources
+[2025-10-23 16:51:20] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (2874 chars)
+[2025-10-23 16:58:22] [INFO] [PostDischargeAssistant] Initializing Multi-Agent Workflow...
+[2025-10-23 16:58:22] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 16:58:22] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 16:58:22] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 16:58:22] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 16:58:25] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 16:58:25] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 16:58:27] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 16:58:27] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 16:58:27] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-23 16:58:27] [INFO] [PostDischargeAssistant] ✓ Receptionist Agent initialized
+[2025-10-23 16:58:27] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 16:58:27] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 16:58:27] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 16:58:27] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 16:58:32] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 16:58:32] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 16:58:33] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 16:58:33] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 16:58:33] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-23 16:58:33] [INFO] [PostDischargeAssistant] ✓ Clinical Agent initialized
+[2025-10-23 16:58:33] [INFO] [PostDischargeAssistant] ✓ Multi-Agent Workflow ready
+[2025-10-23 16:58:52] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: recent news on kidney disese...
+[2025-10-23 16:58:52] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 16:58:52] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: recent news on kidney disese...
+[2025-10-23 16:58:54] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: False)
+[2025-10-23 16:58:54] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-10-23 16:58:54] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (323 chars)
+[2025-10-23 17:10:41] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 17:10:41] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 17:10:41] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 17:12:46] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 17:12:46] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 17:12:46] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 17:16:27] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 17:16:27] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-23 17:16:27] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-23 17:16:34] [INFO] [PostDischargeAssistant] Initializing Multi-Agent Workflow...
+[2025-10-23 17:16:34] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 17:16:34] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 17:16:34] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 17:16:34] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 17:16:38] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 17:16:38] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 17:16:41] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 17:16:41] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 17:16:41] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-23 17:16:41] [INFO] [PostDischargeAssistant] ✓ Receptionist Agent initialized
+[2025-10-23 17:16:41] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-23 17:16:41] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-23 17:16:41] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-23 17:16:41] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-23 17:16:45] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-23 17:16:45] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-23 17:16:46] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-23 17:16:46] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-23 17:16:46] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-23 17:16:46] [INFO] [PostDischargeAssistant] ✓ Clinical Agent initialized
+[2025-10-23 17:16:46] [INFO] [PostDischargeAssistant] ✓ Multi-Agent Workflow ready
+[2025-10-23 17:16:46] [INFO] [PostDischargeAssistant] [APP] New session: c6d07a1a-321c-4018-981b-f0e252a80391
+[2025-10-23 17:17:24] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: Charles Rodriguez
+...
+[2025-10-23 17:17:24] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 17:17:24] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: Charles Rodriguez
+...
+[2025-10-23 17:17:25] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data called with params: {'patient_name': 'Charles Rodriguez'}
+[2025-10-23 17:17:25] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data result: Retrieving patient data
+[2025-10-23 17:17:25] [INFO] [PostDischargeAssistant] [DATABASE] SELECT: Looking up patient: Charles Rodriguez
+[2025-10-23 17:17:25] [INFO] [PostDischargeAssistant] ✓ Found patient: Charles Rodriguez
+[2025-10-23 17:17:25] [INFO] [PostDischargeAssistant] ✓ Retrieved patient data for: Charles Rodriguez
+[2025-10-23 17:17:26] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: False)
+[2025-10-23 17:17:26] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-10-23 17:17:26] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (210 chars)
+[2025-10-23 17:17:49] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: i am having headache...
+[2025-10-23 17:17:49] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 17:17:49] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: i am having headache...
+[2025-10-23 17:17:50] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: True)
+[2025-10-23 17:17:50] [INFO] [PostDischargeAssistant] [WORKFLOW] Routing to clinical agent
+[2025-10-23 17:17:50] [INFO] [PostDischargeAssistant] [WORKFLOW] Clinical node
+[2025-10-23 17:17:50] [INFO] [PostDischargeAssistant] [CLINICAL] Processing: **Receptionist Agent:** This sounds like a medical...
+[2025-10-23 17:17:50] [INFO] [PostDischargeAssistant] [CLINICAL] Attempt 1/2
+[2025-10-23 17:17:59] [INFO] [PostDischargeAssistant] [CLINICAL] RAG Search: management of pruritus in end-stage renal disease...
+[2025-10-23 17:17:59] [INFO] [PostDischargeAssistant] [RAG] Query: management of pruritus in end-stage renal disease
+[2025-10-23 17:17:59] [INFO] [PostDischargeAssistant] [RAG] Retrieved 3 chunks from sources: ['Nephrology Textbook']
+[2025-10-23 17:17:59] [INFO] [PostDischargeAssistant] Searching Pinecone for: 'management of pruritus in end-stage renal disease'
+[2025-10-23 17:17:59] [INFO] [PostDischargeAssistant]   Top K: 3
+[2025-10-23 17:18:01] [INFO] [PostDischargeAssistant] ✓ Found 3 results
+[2025-10-23 17:18:01] [INFO] [PostDischargeAssistant] ✓ Found 3 relevant chunks for: management of pruritus in end-stage renal disease
+[2025-10-23 17:18:01] [INFO] [PostDischargeAssistant] [CLINICAL] RAG found 3 results
+[2025-10-23 17:18:05] [WARNING] [PostDischargeAssistant] [CLINICAL] Attempt 1 failed: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
+[2025-10-23 17:18:06] [INFO] [PostDischargeAssistant] [CLINICAL] Attempt 2/2
+[2025-10-23 17:18:10] [WARNING] [PostDischargeAssistant] [CLINICAL] Attempt 2 failed: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
+[2025-10-23 17:18:10] [ERROR] [PostDischargeAssistant] [ERROR] ClinicalAgent.process: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit.
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 2
+Please retry in 49.99061419s. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 2
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 49
+}
+]
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\agents\clinical_agent.py", line 157, in process
+    response = self.agent_executor.invoke({
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\chains\base.py", line 170, in invoke
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\chains\base.py", line 160, in invoke
+    self._call(inputs, run_manager=run_manager)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1624, in _call
+    next_step_output = self._take_next_step(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1330, in _take_next_step
+    [
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1330, in <listcomp>
+    [
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1358, in _iter_next_step
+    output = self._action_agent.plan(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 581, in plan
+    for chunk in self.runnable.stream(inputs, config={"callbacks": callbacks}):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3405, in stream
+    yield from self.transform(iter([input]), config, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3392, in transform
+    yield from self._transform_stream_with_config(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 2195, in _transform_stream_with_config
+    chunk: Output = context.run(next, iterator)  # type: ignore
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3355, in _transform
+    yield from final_pipeline
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 1411, in transform
+    for ichunk in input:
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 5559, in transform
+    yield from self.bound.transform(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 1429, in transform
+    yield from self.stream(final, config, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 420, in stream
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 400, in stream
+    for chunk in self._stream(messages, stop=stop, **kwargs):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 1032, in _stream
+    response: GenerateContentResponse = _chat_with_retry(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 196, in _chat_with_retry
+    return _chat_with_retry(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 338, in wrapped_f
+    return copy(f, *args, **kw)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 378, in iter
+    result = action(retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 420, in exc_check
+    raise retry_exc.reraise()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 187, in reraise
+    raise self.last_attempt.result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 439, in result
+    return self.__get_result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 391, in __get_result
+    raise self._exception
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 194, in _chat_with_retry
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 178, in _chat_with_retry
+    return generation_method(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\client.py", line 1143, in stream_generate_content
+    response = rpc(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\gapic_v1\method.py", line 131, in __call__
+    return wrapped_func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 294, in retry_wrapped_func
+    return retry_target(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 156, in retry_target
+    next_sleep = _retry_error_helper(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_base.py", line 214, in _retry_error_helper
+    raise final_exc from source_exc
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 147, in retry_target
+    result = target()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\timeout.py", line 130, in func_with_timeout
+    return func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\grpc_helpers.py", line 173, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit.
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 2
+Please retry in 49.99061419s. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 2
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 49
+}
+]
+[2025-10-23 17:18:10] [ERROR] [PostDischargeAssistant] [CLINICAL] All retry attempts exhausted
+[2025-10-23 17:18:10] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (938 chars)
+[2025-10-23 17:18:53] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: i am having headache
+...
+[2025-10-23 17:18:53] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-23 17:18:53] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: i am having headache
+...
+[2025-10-23 17:18:57] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: True)
+[2025-10-23 17:18:57] [INFO] [PostDischargeAssistant] [WORKFLOW] Routing to clinical agent
+[2025-10-23 17:18:57] [INFO] [PostDischargeAssistant] [WORKFLOW] Clinical node
+[2025-10-23 17:18:57] [INFO] [PostDischargeAssistant] [CLINICAL] Processing: **Receptionist Agent:** **Receptionist Agent:** I ...
+[2025-10-23 17:18:57] [INFO] [PostDischargeAssistant] [CLINICAL] Attempt 1/2
+[2025-10-23 17:19:05] [WARNING] [PostDischargeAssistant] [CLINICAL] Attempt 1 failed: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
+[2025-10-23 17:19:06] [INFO] [PostDischargeAssistant] [CLINICAL] Attempt 2/2
+[2025-10-23 17:19:19] [WARNING] [PostDischargeAssistant] [CLINICAL] Attempt 2 failed: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
+[2025-10-23 17:19:19] [ERROR] [PostDischargeAssistant] [ERROR] ClinicalAgent.process: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit.
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 2
+Please retry in 40.184402616s. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 2
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 40
+}
+]
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\agents\clinical_agent.py", line 157, in process
+    response = self.agent_executor.invoke({
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\chains\base.py", line 170, in invoke
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\chains\base.py", line 160, in invoke
+    self._call(inputs, run_manager=run_manager)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1624, in _call
+    next_step_output = self._take_next_step(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1330, in _take_next_step
+    [
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1330, in <listcomp>
+    [
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1358, in _iter_next_step
+    output = self._action_agent.plan(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 581, in plan
+    for chunk in self.runnable.stream(inputs, config={"callbacks": callbacks}):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3405, in stream
+    yield from self.transform(iter([input]), config, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3392, in transform
+    yield from self._transform_stream_with_config(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 2195, in _transform_stream_with_config
+    chunk: Output = context.run(next, iterator)  # type: ignore
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3355, in _transform
+    yield from final_pipeline
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 1411, in transform
+    for ichunk in input:
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 5559, in transform
+    yield from self.bound.transform(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 1429, in transform
+    yield from self.stream(final, config, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 420, in stream
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 400, in stream
+    for chunk in self._stream(messages, stop=stop, **kwargs):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 1032, in _stream
+    response: GenerateContentResponse = _chat_with_retry(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 196, in _chat_with_retry
+    return _chat_with_retry(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 338, in wrapped_f
+    return copy(f, *args, **kw)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 378, in iter
+    result = action(retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 420, in exc_check
+    raise retry_exc.reraise()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 187, in reraise
+    raise self.last_attempt.result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 439, in result
+    return self.__get_result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 391, in __get_result
+    raise self._exception
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 194, in _chat_with_retry
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 178, in _chat_with_retry
+    return generation_method(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\client.py", line 1143, in stream_generate_content
+    response = rpc(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\gapic_v1\method.py", line 131, in __call__
+    return wrapped_func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 294, in retry_wrapped_func
+    return retry_target(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 156, in retry_target
+    next_sleep = _retry_error_helper(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_base.py", line 214, in _retry_error_helper
+    raise final_exc from source_exc
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 147, in retry_target
+    result = target()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\timeout.py", line 130, in func_with_timeout
+    return func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\grpc_helpers.py", line 173, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit.
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 2
+Please retry in 40.184402616s. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 2
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 40
+}
+]
+[2025-10-23 17:19:19] [ERROR] [PostDischargeAssistant] [CLINICAL] All retry attempts exhausted
+[2025-10-23 17:19:19] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (938 chars)
+[2025-10-24 16:11:20] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-24 16:11:20] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-24 16:11:20] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-24 16:11:57] [INFO] [PostDischargeAssistant] Initializing Multi-Agent Workflow...
+[2025-10-24 16:11:57] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-24 16:11:57] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-24 16:11:57] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-24 16:11:57] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-24 16:12:00] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-24 16:12:00] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-24 16:12:03] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-24 16:12:03] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-24 16:12:03] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-24 16:12:03] [INFO] [PostDischargeAssistant] ✓ Receptionist Agent initialized
+[2025-10-24 16:12:03] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-24 16:12:03] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-24 16:12:03] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-24 16:12:03] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-24 16:12:07] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-24 16:12:07] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-24 16:12:08] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-24 16:12:08] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-24 16:12:08] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-24 16:12:08] [INFO] [PostDischargeAssistant] ✓ Clinical Agent initialized
+[2025-10-24 16:12:08] [INFO] [PostDischargeAssistant] ✓ Multi-Agent Workflow ready
+[2025-10-24 16:12:08] [INFO] [PostDischargeAssistant] [APP] New session: b6d3759d-b813-4f74-8170-f265e7c5ace4
+[2025-10-24 16:15:40] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-24 16:15:40] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-24 16:15:40] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-24 16:16:42] [INFO] [PostDischargeAssistant] Generating 30 dummy patient records...
+[2025-10-24 16:16:42] [INFO] [PostDischargeAssistant] ✓ Successfully generated 30 patient records
+[2025-10-24 16:16:42] [INFO] [PostDischargeAssistant] ✓ Saved patient reports to: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patient_reports.json
+[2025-10-24 16:16:42] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-24 16:16:42] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-24 16:16:42] [INFO] [PostDischargeAssistant] Bulk adding 30 patients...
+[2025-10-24 16:16:42] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Ashley King
+[2025-10-24 16:16:42] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Margaret Brown
+[2025-10-24 16:16:43] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Margaret Anderson
+[2025-10-24 16:16:43] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: John Williams
+[2025-10-24 16:16:43] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Daniel Taylor
+[2025-10-24 16:16:43] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: David Thomas
+[2025-10-24 16:16:43] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Lisa Davis
+[2025-10-24 16:16:43] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Nancy Allen
+[2025-10-24 16:16:43] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Margaret Davis
+[2025-10-24 16:16:43] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Susan Moore
+[2025-10-24 16:16:43] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Karen Clark
+[2025-10-24 16:16:43] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Betty Wilson
+[2025-10-24 16:16:43] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Michael Jackson
+[2025-10-24 16:16:43] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Patricia King
+[2025-10-24 16:16:43] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: James Thomas
+[2025-10-24 16:16:43] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Sandra Davis
+[2025-10-24 16:16:43] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Thomas Davis
+[2025-10-24 16:16:43] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Elizabeth Moore
+[2025-10-24 16:16:43] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Susan Clark
+[2025-10-24 16:16:43] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Mary Clark
+[2025-10-24 16:16:43] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Michael Brown
+[2025-10-24 16:16:43] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Jessica Young
+[2025-10-24 16:16:43] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Matthew King
+[2025-10-24 16:16:43] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Thomas Garcia
+[2025-10-24 16:16:43] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Thomas Moore
+[2025-10-24 16:16:43] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Elizabeth Jackson
+[2025-10-24 16:16:43] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: William Moore
+[2025-10-24 16:16:43] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: James Lee
+[2025-10-24 16:16:43] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: Sandra Allen
+[2025-10-24 16:16:43] [INFO] [PostDischargeAssistant] [DATABASE] INSERT: Added patient: John Thompson
+[2025-10-24 16:16:43] [INFO] [PostDischargeAssistant] ✓ Successfully added 30/30 patients
+[2025-10-24 16:16:43] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-24 16:16:43] [INFO] [PostDischargeAssistant] Starting Enhanced PDF Processing Pipeline
+[2025-10-24 16:16:43] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-24 16:16:43] [INFO] [PostDischargeAssistant] Opening PDF: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\nephrology_book.pdf
+[2025-10-24 16:16:43] [INFO] [PostDischargeAssistant] PDF has 1547 pages
+[2025-10-24 16:16:44] [INFO] [PostDischargeAssistant] Processed 100/1547 pages...
+[2025-10-24 16:16:45] [INFO] [PostDischargeAssistant] Processed 200/1547 pages...
+[2025-10-24 16:16:46] [INFO] [PostDischargeAssistant] Processed 300/1547 pages...
+[2025-10-24 16:16:46] [INFO] [PostDischargeAssistant] Processed 400/1547 pages...
+[2025-10-24 16:16:47] [INFO] [PostDischargeAssistant] Processed 500/1547 pages...
+[2025-10-24 16:16:48] [INFO] [PostDischargeAssistant] Processed 600/1547 pages...
+[2025-10-24 16:16:49] [INFO] [PostDischargeAssistant] Processed 700/1547 pages...
+[2025-10-24 16:16:50] [INFO] [PostDischargeAssistant] Processed 800/1547 pages...
+[2025-10-24 16:16:51] [INFO] [PostDischargeAssistant] Processed 900/1547 pages...
+[2025-10-24 16:16:52] [INFO] [PostDischargeAssistant] Processed 1000/1547 pages...
+[2025-10-24 16:16:53] [INFO] [PostDischargeAssistant] Processed 1100/1547 pages...
+[2025-10-24 16:16:54] [INFO] [PostDischargeAssistant] Processed 1200/1547 pages...
+[2025-10-24 16:16:54] [INFO] [PostDischargeAssistant] Processed 1300/1547 pages...
+[2025-10-24 16:16:55] [INFO] [PostDischargeAssistant] Processed 1400/1547 pages...
+[2025-10-24 16:16:56] [INFO] [PostDischargeAssistant] Processed 1500/1547 pages...
+[2025-10-24 16:16:58] [INFO] [PostDischargeAssistant] ✓ Successfully extracted text from 1547 pages
+[2025-10-24 16:16:58] [INFO] [PostDischargeAssistant] Starting intelligent chunking (target=1000, overlap=200)...
+[2025-10-24 16:16:59] [INFO] [PostDischargeAssistant] ✓ Created 12562 intelligent chunks from 1547 pages
+[2025-10-24 16:16:59] [INFO] [PostDischargeAssistant] Chunk statistics:
+[2025-10-24 16:16:59] [INFO] [PostDischargeAssistant]   Average size: 705 characters
+[2025-10-24 16:16:59] [INFO] [PostDischargeAssistant]   Min size: 3 characters
+[2025-10-24 16:16:59] [INFO] [PostDischargeAssistant]   Max size: 6692 characters
+[2025-10-24 16:16:59] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-24 16:16:59] [INFO] [PostDischargeAssistant] PDF Processing Complete
+[2025-10-24 16:16:59] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-24 16:16:59] [INFO] [PostDischargeAssistant] Total Pages: 1547
+[2025-10-24 16:16:59] [INFO] [PostDischargeAssistant] Total Chunks: 12562
+[2025-10-24 16:16:59] [INFO] [PostDischargeAssistant] Average Chunk Size: 705 characters
+[2025-10-24 16:16:59] [INFO] [PostDischargeAssistant] Total Characters: 8,857,652
+[2025-10-24 16:16:59] [INFO] [PostDischargeAssistant] ✓ Saved chunks preview to: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\chunks_preview.txt
+[2025-10-24 16:16:59] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-24 16:16:59] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-24 16:17:03] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-24 16:17:03] [INFO] [PostDischargeAssistant] Creating Pinecone index: nephrology-knowledge
+[2025-10-24 16:17:04] [WARNING] [PostDischargeAssistant] Index 'nephrology-knowledge' already exists
+[2025-10-24 16:17:50] [WARNING] [PostDischargeAssistant] Deleting index: nephrology-knowledge
+[2025-10-24 16:18:00] [INFO] [PostDischargeAssistant] ✓ Index 'nephrology-knowledge' deleted
+[2025-10-24 16:18:00] [INFO] [PostDischargeAssistant] Creating serverless index...
+[2025-10-24 16:18:00] [INFO] [PostDischargeAssistant]   Dimension: 384
+[2025-10-24 16:18:00] [INFO] [PostDischargeAssistant]   Metric: cosine
+[2025-10-24 16:18:00] [INFO] [PostDischargeAssistant]   Cloud: aws
+[2025-10-24 16:18:00] [INFO] [PostDischargeAssistant]   Region: us-east-1
+[2025-10-24 16:18:10] [INFO] [PostDischargeAssistant] Waiting for index to be ready...
+[2025-10-24 16:18:11] [INFO] [PostDischargeAssistant] ✓ Index 'nephrology-knowledge' created successfully
+[2025-10-24 16:18:11] [INFO] [PostDischargeAssistant] Upserting 12562 documents to Pinecone...
+[2025-10-24 16:18:11] [INFO] [PostDischargeAssistant] Batch size: 100
+[2025-10-24 16:27:22] [INFO] [PostDischargeAssistant] ✓ Successfully upserted documents
+[2025-10-24 16:27:22] [INFO] [PostDischargeAssistant]   Total vectors in index: 12562
+[2025-10-24 16:27:23] [INFO] [PostDischargeAssistant] Searching Pinecone for: 'chronic kidney disease treatment'
+[2025-10-24 16:27:23] [INFO] [PostDischargeAssistant]   Top K: 3
+[2025-10-24 16:27:23] [INFO] [PostDischargeAssistant] ✓ Found 3 results
+[2025-10-24 16:27:23] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-24 16:27:23] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-24 16:27:23] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-24 16:27:23] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-24 16:27:27] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-24 16:27:27] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-24 16:27:28] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-24 16:27:28] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-24 16:31:20] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-24 16:31:20] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-24 16:31:20] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-24 16:31:43] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-24 16:31:43] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-24 16:31:43] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-24 16:31:43] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-24 16:31:47] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-24 16:31:47] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-24 16:31:50] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-24 16:31:50] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-24 16:31:50] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-24 16:31:50] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-24 16:31:50] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-24 16:31:50] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-24 16:31:53] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-24 16:31:53] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-24 16:31:55] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-24 16:31:55] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-24 16:31:55] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-24 16:31:56] [INFO] [PostDischargeAssistant] ✓ Receptionist Agent initialized
+[2025-10-24 16:31:56] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-24 16:31:56] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-24 16:31:56] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-24 16:31:56] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-24 16:31:59] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-24 16:31:59] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-24 16:32:00] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-24 16:32:00] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-24 16:32:00] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-24 16:32:00] [INFO] [PostDischargeAssistant] ✓ Clinical Agent initialized
+[2025-10-24 16:32:01] [INFO] [PostDischargeAssistant] Initializing Multi-Agent Workflow...
+[2025-10-24 16:32:01] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-24 16:32:01] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-24 16:32:01] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-24 16:32:01] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-24 16:32:05] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-24 16:32:05] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-24 16:32:06] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-24 16:32:06] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-24 16:32:06] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-24 16:32:06] [INFO] [PostDischargeAssistant] ✓ Receptionist Agent initialized
+[2025-10-24 16:32:06] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-24 16:32:06] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-24 16:32:06] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-24 16:32:06] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-24 16:32:09] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-24 16:32:09] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-24 16:32:10] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-24 16:32:10] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-24 16:32:10] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-24 16:32:10] [INFO] [PostDischargeAssistant] ✓ Clinical Agent initialized
+[2025-10-24 16:32:10] [INFO] [PostDischargeAssistant] ✓ Multi-Agent Workflow ready
+[2025-10-24 16:36:15] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-24 16:36:15] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-24 16:36:15] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-24 16:36:27] [INFO] [PostDischargeAssistant] Initializing Multi-Agent Workflow...
+[2025-10-24 16:36:27] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-24 16:36:27] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-24 16:36:27] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-24 16:36:27] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-24 16:36:33] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-24 16:36:33] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-24 16:36:35] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-24 16:36:35] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-24 16:36:35] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-24 16:36:35] [INFO] [PostDischargeAssistant] ✓ Receptionist Agent initialized
+[2025-10-24 16:36:35] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-24 16:36:35] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-24 16:36:35] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-24 16:36:35] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-24 16:36:40] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-24 16:36:40] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-24 16:36:41] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-24 16:36:41] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-24 16:36:41] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-24 16:36:41] [INFO] [PostDischargeAssistant] ✓ Clinical Agent initialized
+[2025-10-24 16:36:41] [INFO] [PostDischargeAssistant] ✓ Multi-Agent Workflow ready
+[2025-10-24 16:36:42] [INFO] [PostDischargeAssistant] [APP] New session: a73a86e1-4482-4dcc-a429-aa698ac35965
+[2025-10-24 16:37:03] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: Margaret Brown...
+[2025-10-24 16:37:03] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-24 16:37:03] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: Margaret Brown...
+[2025-10-24 16:37:06] [ERROR] [PostDischargeAssistant] [ERROR] ReceptionistAgent.process: 404 models/gemini-1.5-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\agents\receptionist_agent.py", line 79, in process
+    response = self.executor.invoke({
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\chains\base.py", line 170, in invoke
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\chains\base.py", line 160, in invoke
+    self._call(inputs, run_manager=run_manager)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1624, in _call
+    next_step_output = self._take_next_step(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1330, in _take_next_step
+    [
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1330, in <listcomp>
+    [
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 1358, in _iter_next_step
+    output = self._action_agent.plan(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain\agents\agent.py", line 581, in plan
+    for chunk in self.runnable.stream(inputs, config={"callbacks": callbacks}):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3405, in stream
+    yield from self.transform(iter([input]), config, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3392, in transform
+    yield from self._transform_stream_with_config(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 2195, in _transform_stream_with_config
+    chunk: Output = context.run(next, iterator)  # type: ignore
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3355, in _transform
+    yield from final_pipeline
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 1411, in transform
+    for ichunk in input:
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 5559, in transform
+    yield from self.bound.transform(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 1429, in transform
+    yield from self.stream(final, config, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 420, in stream
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 400, in stream
+    for chunk in self._stream(messages, stop=stop, **kwargs):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 1032, in _stream
+    response: GenerateContentResponse = _chat_with_retry(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 196, in _chat_with_retry
+    return _chat_with_retry(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 338, in wrapped_f
+    return copy(f, *args, **kw)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 378, in iter
+    result = action(retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 420, in exc_check
+    raise retry_exc.reraise()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 187, in reraise
+    raise self.last_attempt.result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 439, in result
+    return self.__get_result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 391, in __get_result
+    raise self._exception
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 194, in _chat_with_retry
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 178, in _chat_with_retry
+    return generation_method(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\client.py", line 1143, in stream_generate_content
+    response = rpc(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\gapic_v1\method.py", line 131, in __call__
+    return wrapped_func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 294, in retry_wrapped_func
+    return retry_target(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 156, in retry_target
+    next_sleep = _retry_error_helper(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_base.py", line 214, in _retry_error_helper
+    raise final_exc from source_exc
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 147, in retry_target
+    result = target()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\timeout.py", line 130, in func_with_timeout
+    return func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\grpc_helpers.py", line 173, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.NotFound: 404 models/gemini-1.5-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-10-24 16:37:06] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-10-24 16:37:06] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (116 chars)
+[2025-10-24 16:55:04] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-24 16:55:04] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-24 16:55:04] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-24 16:55:17] [INFO] [PostDischargeAssistant] Initializing Multi-Agent Workflow...
+[2025-10-24 16:55:17] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-24 16:55:17] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-24 16:55:17] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-24 16:55:17] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-24 16:55:21] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-24 16:55:21] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-24 16:55:23] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-24 16:55:23] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-24 16:55:23] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-24 16:55:23] [INFO] [PostDischargeAssistant] ✓ Receptionist Agent initialized
+[2025-10-24 16:55:23] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-24 16:55:23] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-24 16:55:23] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-24 16:55:23] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-24 16:55:26] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-24 16:55:26] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-24 16:55:28] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-24 16:55:28] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-24 16:55:28] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-24 16:55:28] [INFO] [PostDischargeAssistant] ✓ Clinical Agent initialized
+[2025-10-24 16:55:28] [INFO] [PostDischargeAssistant] ✓ Multi-Agent Workflow ready
+[2025-10-24 16:55:28] [INFO] [PostDischargeAssistant] [APP] New session: 30eef0e0-d6b8-4092-bb68-a2c9a4fb5998
+[2025-10-24 16:55:52] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: my name is Ashley King...
+[2025-10-24 16:55:52] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-24 16:55:52] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: my name is Ashley King...
+[2025-10-24 16:55:53] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data called with params: {'patient_name': 'Ashley King'}
+[2025-10-24 16:55:53] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data result: Retrieving patient data
+[2025-10-24 16:55:53] [INFO] [PostDischargeAssistant] [DATABASE] SELECT: Looking up patient: Ashley King
+[2025-10-24 16:55:53] [INFO] [PostDischargeAssistant] ✓ Found patient: Ashley King
+[2025-10-24 16:55:53] [INFO] [PostDischargeAssistant] ✓ Retrieved patient data for: Ashley King
+[2025-10-24 16:55:55] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: False)
+[2025-10-24 16:55:55] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-10-24 16:55:55] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (193 chars)
+[2025-10-24 16:56:16] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: what is my medication ?...
+[2025-10-24 16:56:16] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-24 16:56:16] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: what is my medication ?...
+[2025-10-24 16:56:17] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data called with params: {'patient_name': 'Ashley King'}
+[2025-10-24 16:56:17] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data result: Retrieving patient data
+[2025-10-24 16:56:17] [INFO] [PostDischargeAssistant] [DATABASE] SELECT: Looking up patient: Ashley King
+[2025-10-24 16:56:17] [INFO] [PostDischargeAssistant] ✓ Found patient: Ashley King
+[2025-10-24 16:56:17] [INFO] [PostDischargeAssistant] ✓ Retrieved patient data for: Ashley King
+[2025-10-24 16:56:19] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: False)
+[2025-10-24 16:56:19] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-10-24 16:56:19] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (158 chars)
+[2025-10-24 16:57:04] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: I'm having swelling in my legs. Should I be worrie...
+[2025-10-24 16:57:04] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-24 16:57:04] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: I'm having swelling in my legs. Should I be worrie...
+[2025-10-24 16:57:06] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: True)
+[2025-10-24 16:57:06] [INFO] [PostDischargeAssistant] [WORKFLOW] Routing to clinical agent
+[2025-10-24 16:57:06] [INFO] [PostDischargeAssistant] [WORKFLOW] Clinical node
+[2025-10-24 16:57:06] [INFO] [PostDischargeAssistant] [CLINICAL] Processing: **Receptionist Agent:** This sounds like a medical...
+[2025-10-24 16:57:06] [INFO] [PostDischargeAssistant] [CLINICAL] Attempt 1/2
+[2025-10-24 16:57:08] [INFO] [PostDischargeAssistant] [CLINICAL] Success! Response: 204 chars
+[2025-10-24 16:57:08] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (224 chars)
+[2025-10-24 16:58:10] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: i also have little fever from 2 week . is anything...
+[2025-10-24 16:58:10] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-24 16:58:10] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: i also have little fever from 2 week . is anything...
+[2025-10-24 16:58:13] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: True)
+[2025-10-24 16:58:13] [INFO] [PostDischargeAssistant] [WORKFLOW] Routing to clinical agent
+[2025-10-24 16:58:13] [INFO] [PostDischargeAssistant] [WORKFLOW] Clinical node
+[2025-10-24 16:58:13] [INFO] [PostDischargeAssistant] [CLINICAL] Processing: **Receptionist Agent:** **Clinical Agent:** I unde...
+[2025-10-24 16:58:13] [INFO] [PostDischargeAssistant] [CLINICAL] Attempt 1/2
+[2025-10-24 16:58:15] [INFO] [PostDischargeAssistant] [CLINICAL] RAG Search: leg swelling fever post kidney stone complications...
+[2025-10-24 16:58:15] [INFO] [PostDischargeAssistant] [RAG] Query: leg swelling fever post kidney stone complications
+[2025-10-24 16:58:15] [INFO] [PostDischargeAssistant] [RAG] Retrieved 3 chunks from sources: ['Nephrology Textbook']
+[2025-10-24 16:58:15] [INFO] [PostDischargeAssistant] Searching Pinecone for: 'leg swelling fever post kidney stone complications'
+[2025-10-24 16:58:15] [INFO] [PostDischargeAssistant]   Top K: 3
+[2025-10-24 16:58:16] [INFO] [PostDischargeAssistant] ✓ Found 3 results
+[2025-10-24 16:58:16] [INFO] [PostDischargeAssistant] ✓ Found 3 relevant chunks for: leg swelling fever post kidney stone complications
+[2025-10-24 16:58:16] [INFO] [PostDischargeAssistant] [CLINICAL] RAG found 3 results
+[2025-10-24 16:58:22] [INFO] [PostDischargeAssistant] [CLINICAL] Success! Response: 2572 chars
+[2025-10-24 16:58:22] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (2592 chars)
+[2025-10-24 16:58:53] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: What's the latest research on SGLT2 inhibitors for...
+[2025-10-24 16:58:53] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-24 16:58:53] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: What's the latest research on SGLT2 inhibitors for...
+[2025-10-24 16:58:55] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: True)
+[2025-10-24 16:58:55] [INFO] [PostDischargeAssistant] [WORKFLOW] Routing to clinical agent
+[2025-10-24 16:58:55] [INFO] [PostDischargeAssistant] [WORKFLOW] Clinical node
+[2025-10-24 16:58:55] [INFO] [PostDischargeAssistant] [CLINICAL] Processing: **Receptionist Agent:** This sounds like a medical...
+[2025-10-24 16:58:55] [INFO] [PostDischargeAssistant] [CLINICAL] Attempt 1/2
+[2025-10-24 16:59:07] [INFO] [PostDischargeAssistant] [CLINICAL] Success! Response: 2564 chars
+[2025-10-24 16:59:07] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (2584 chars)
+[2025-10-24 16:59:49] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: any recent news about heart transplant ?...
+[2025-10-24 16:59:49] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-24 16:59:49] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: any recent news about heart transplant ?...
+[2025-10-24 16:59:51] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: True)
+[2025-10-24 16:59:51] [INFO] [PostDischargeAssistant] [WORKFLOW] Routing to clinical agent
+[2025-10-24 16:59:51] [INFO] [PostDischargeAssistant] [WORKFLOW] Clinical node
+[2025-10-24 16:59:51] [INFO] [PostDischargeAssistant] [CLINICAL] Processing: **Receptionist Agent:** This sounds like a medical...
+[2025-10-24 16:59:51] [INFO] [PostDischargeAssistant] [CLINICAL] Attempt 1/2
+[2025-10-24 16:59:57] [INFO] [PostDischargeAssistant] [CLINICAL] Success! Response: 2559 chars
+[2025-10-24 16:59:57] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (2579 chars)
+[2025-10-24 17:18:45] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-24 17:18:45] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-24 17:18:45] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-24 17:18:56] [INFO] [PostDischargeAssistant] Initializing Multi-Agent Workflow...
+[2025-10-24 17:18:56] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-24 17:18:56] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-24 17:18:56] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-24 17:18:56] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-24 17:18:59] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-24 17:18:59] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-24 17:19:02] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-24 17:19:02] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-24 17:19:02] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-24 17:19:02] [INFO] [PostDischargeAssistant] ✓ Receptionist Agent initialized
+[2025-10-24 17:19:02] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-24 17:19:02] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-24 17:19:02] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-24 17:19:02] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-24 17:19:05] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-24 17:19:05] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-24 17:19:07] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-24 17:19:07] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-24 17:19:07] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-24 17:19:07] [INFO] [PostDischargeAssistant] ✓ Clinical Agent initialized
+[2025-10-24 17:19:07] [INFO] [PostDischargeAssistant] ✓ Multi-Agent Workflow ready
+[2025-10-24 17:19:07] [INFO] [PostDischargeAssistant] [APP] New session: 66b5a96e-2cce-432c-9ce6-ff511015ed7c
+[2025-10-24 17:20:19] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: my name is Ashley King...
+[2025-10-24 17:20:19] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-24 17:20:19] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: my name is Ashley King...
+[2025-10-24 17:20:21] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data called with params: {'patient_name': 'Ashley King'}
+[2025-10-24 17:20:21] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data result: Retrieving patient data
+[2025-10-24 17:20:21] [INFO] [PostDischargeAssistant] [DATABASE] SELECT: Looking up patient: Ashley King
+[2025-10-24 17:20:21] [INFO] [PostDischargeAssistant] ✓ Found patient: Ashley King
+[2025-10-24 17:20:21] [INFO] [PostDischargeAssistant] ✓ Retrieved patient data for: Ashley King
+[2025-10-24 17:20:23] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: False)
+[2025-10-24 17:20:23] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-10-24 17:20:23] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (188 chars)
+[2025-10-24 17:20:39] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: what is my medication ?
+...
+[2025-10-24 17:20:39] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-24 17:20:39] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: what is my medication ?
+...
+[2025-10-24 17:20:41] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data called with params: {'patient_name': 'Ashley King'}
+[2025-10-24 17:20:41] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data result: Retrieving patient data
+[2025-10-24 17:20:41] [INFO] [PostDischargeAssistant] [DATABASE] SELECT: Looking up patient: Ashley King
+[2025-10-24 17:20:41] [INFO] [PostDischargeAssistant] ✓ Found patient: Ashley King
+[2025-10-24 17:20:41] [INFO] [PostDischargeAssistant] ✓ Retrieved patient data for: Ashley King
+[2025-10-24 17:20:43] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: False)
+[2025-10-24 17:20:43] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-10-24 17:20:43] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (287 chars)
+[2025-10-24 17:20:50] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: I'm having swelling in my legs. Should I be worrie...
+[2025-10-24 17:20:50] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-24 17:20:50] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: I'm having swelling in my legs. Should I be worrie...
+[2025-10-24 17:20:52] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: True)
+[2025-10-24 17:20:52] [INFO] [PostDischargeAssistant] [WORKFLOW] Routing to clinical agent
+[2025-10-24 17:20:52] [INFO] [PostDischargeAssistant] [WORKFLOW] Clinical node
+[2025-10-24 17:20:52] [INFO] [PostDischargeAssistant] [CLINICAL] Processing: **Receptionist Agent:** This sounds like a medical...
+[2025-10-24 17:20:52] [INFO] [PostDischargeAssistant] [CLINICAL] Invoking agent executor...
+[2025-10-24 17:20:54] [INFO] [PostDischargeAssistant] [CLINICAL] Success! Response: 193 chars
+[2025-10-24 17:20:54] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (213 chars)
+[2025-10-24 17:21:23] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: i had headache , little fever from 2 weeks ...
+[2025-10-24 17:21:23] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-24 17:21:23] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: i had headache , little fever from 2 weeks ...
+[2025-10-24 17:21:24] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: True)
+[2025-10-24 17:21:24] [INFO] [PostDischargeAssistant] [WORKFLOW] Routing to clinical agent
+[2025-10-24 17:21:24] [INFO] [PostDischargeAssistant] [WORKFLOW] Clinical node
+[2025-10-24 17:21:24] [INFO] [PostDischargeAssistant] [CLINICAL] Processing: **Receptionist Agent:** This sounds like a medical...
+[2025-10-24 17:21:24] [INFO] [PostDischargeAssistant] [CLINICAL] Invoking agent executor...
+[2025-10-24 17:21:26] [INFO] [PostDischargeAssistant] [CLINICAL] Success! Response: 193 chars
+[2025-10-24 17:21:26] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (213 chars)
+[2025-10-24 17:22:44] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: i also have little fever from 2 week . is anything...
+[2025-10-24 17:22:44] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-24 17:22:44] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: i also have little fever from 2 week . is anything...
+[2025-10-24 17:22:46] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: True)
+[2025-10-24 17:22:46] [INFO] [PostDischargeAssistant] [WORKFLOW] Routing to clinical agent
+[2025-10-24 17:22:46] [INFO] [PostDischargeAssistant] [WORKFLOW] Clinical node
+[2025-10-24 17:22:46] [INFO] [PostDischargeAssistant] [CLINICAL] Processing: **Receptionist Agent:** **Receptionist Agent:** Th...
+[2025-10-24 17:22:46] [INFO] [PostDischargeAssistant] [CLINICAL] Invoking agent executor...
+[2025-10-24 17:22:49] [INFO] [PostDischargeAssistant] [CLINICAL] Success! Response: 193 chars
+[2025-10-24 17:22:49] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (213 chars)
+[2025-10-24 17:23:22] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: "What's the latest research on SGLT2 inhibitors fo...
+[2025-10-24 17:23:22] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-24 17:23:22] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: "What's the latest research on SGLT2 inhibitors fo...
+[2025-10-24 17:23:24] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: True)
+[2025-10-24 17:23:24] [INFO] [PostDischargeAssistant] [WORKFLOW] Routing to clinical agent
+[2025-10-24 17:23:24] [INFO] [PostDischargeAssistant] [WORKFLOW] Clinical node
+[2025-10-24 17:23:24] [INFO] [PostDischargeAssistant] [CLINICAL] Processing: **Receptionist Agent:** **Receptionist Agent:** Th...
+[2025-10-24 17:23:24] [INFO] [PostDischargeAssistant] [CLINICAL] Invoking agent executor...
+[2025-10-24 17:23:25] [INFO] [PostDischargeAssistant] [CLINICAL] Success! Response: 193 chars
+[2025-10-24 17:23:25] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (213 chars)
+[2025-10-24 17:38:37] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-24 17:38:37] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-24 17:38:37] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-24 17:38:50] [INFO] [PostDischargeAssistant] Initializing Multi-Agent Workflow...
+[2025-10-24 17:38:50] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-24 17:38:50] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-24 17:38:50] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-24 17:38:50] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-24 17:38:53] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-24 17:38:53] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-24 17:38:56] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-24 17:38:56] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-24 17:38:56] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-24 17:38:56] [INFO] [PostDischargeAssistant] ✓ Receptionist Agent initialized
+[2025-10-24 17:38:56] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-24 17:38:56] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-24 17:38:56] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-24 17:38:56] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-24 17:38:59] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-24 17:38:59] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-24 17:39:00] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-24 17:39:00] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-24 17:39:00] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-24 17:39:00] [INFO] [PostDischargeAssistant] ✓ Clinical Agent initialized
+[2025-10-24 17:39:00] [INFO] [PostDischargeAssistant] ✓ Multi-Agent Workflow ready
+[2025-10-24 17:39:00] [INFO] [PostDischargeAssistant] [APP] New session: 59a68abb-1a90-4485-a9a3-d405041479e3
+[2025-10-24 17:39:07] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: my name is Ashley King...
+[2025-10-24 17:39:07] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-24 17:39:07] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing user message: my name is Ashley King...
+[2025-10-24 17:39:07] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: my name is Ashley King...
+[2025-10-24 17:39:09] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data called with params: {'patient_name': 'Ashley King'}
+[2025-10-24 17:39:09] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data result: Retrieving patient data
+[2025-10-24 17:39:09] [INFO] [PostDischargeAssistant] [DATABASE] SELECT: Looking up patient: Ashley King
+[2025-10-24 17:39:09] [INFO] [PostDischargeAssistant] ✓ Found patient: Ashley King
+[2025-10-24 17:39:09] [INFO] [PostDischargeAssistant] ✓ Retrieved patient data for: Ashley King
+[2025-10-24 17:39:10] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: False)
+[2025-10-24 17:39:10] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-10-24 17:39:10] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (199 chars)
+[2025-10-24 17:39:26] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: what is my medication ?...
+[2025-10-24 17:39:26] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-24 17:39:26] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing user message: what is my medication ?...
+[2025-10-24 17:39:26] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: what is my medication ?...
+[2025-10-24 17:39:29] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: False)
+[2025-10-24 17:39:29] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-10-24 17:39:29] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (281 chars)
+[2025-10-24 17:39:59] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: I'm having swelling in my legs. i had headache , l...
+[2025-10-24 17:39:59] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-24 17:39:59] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing user message: I'm having swelling in my legs. i had headache , l...
+[2025-10-24 17:39:59] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: I'm having swelling in my legs. i had headache , l...
+[2025-10-24 17:40:01] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: True)
+[2025-10-24 17:40:01] [INFO] [PostDischargeAssistant] [WORKFLOW] Routing to clinical agent
+[2025-10-24 17:40:01] [INFO] [PostDischargeAssistant] [WORKFLOW] Clinical node
+[2025-10-24 17:40:01] [INFO] [PostDischargeAssistant] [WORKFLOW] Passing to clinical: I'm having swelling in my legs. i had headache , l...
+[2025-10-24 17:40:01] [INFO] [PostDischargeAssistant] [CLINICAL] Extracted query: I'm having swelling in my legs. i had headache , little fever from 2 weeks.Should I be worried?...
+[2025-10-24 17:40:01] [INFO] [PostDischargeAssistant] [CLINICAL] Processing: I'm having swelling in my legs. i had headache , l...
+[2025-10-24 17:40:01] [INFO] [PostDischargeAssistant] [CLINICAL] Attempt 1/2
+[2025-10-24 17:40:01] [INFO] [PostDischargeAssistant] [CLINICAL] Invoking agent executor...
+[2025-10-24 17:40:04] [INFO] [PostDischargeAssistant] [CLINICAL] RAG Search: leg swelling headache fever kidney disease...
+[2025-10-24 17:40:04] [INFO] [PostDischargeAssistant] [RAG] Query: leg swelling headache fever kidney disease
+[2025-10-24 17:40:04] [INFO] [PostDischargeAssistant] [RAG] Retrieved 3 chunks from sources: ['Nephrology Textbook']
+[2025-10-24 17:40:04] [INFO] [PostDischargeAssistant] Searching Pinecone for: 'leg swelling headache fever kidney disease'
+[2025-10-24 17:40:04] [INFO] [PostDischargeAssistant]   Top K: 3
+[2025-10-24 17:40:05] [INFO] [PostDischargeAssistant] ✓ Found 3 results
+[2025-10-24 17:40:05] [INFO] [PostDischargeAssistant] ✓ Found 3 relevant chunks for: leg swelling headache fever kidney disease
+[2025-10-24 17:40:05] [INFO] [PostDischargeAssistant] [CLINICAL] RAG found 3 results
+[2025-10-24 17:40:09] [INFO] [PostDischargeAssistant] [CLINICAL] Success! Response: 1945 chars
+[2025-10-24 17:40:09] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (1965 chars)
+[2025-10-24 17:41:20] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: any recent news about heart transplant ?...
+[2025-10-24 17:41:20] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-24 17:41:20] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing user message: any recent news about heart transplant ?...
+[2025-10-24 17:41:20] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: any recent news about heart transplant ?...
+[2025-10-24 17:41:22] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: True)
+[2025-10-24 17:41:22] [INFO] [PostDischargeAssistant] [WORKFLOW] Routing to clinical agent
+[2025-10-24 17:41:22] [INFO] [PostDischargeAssistant] [WORKFLOW] Clinical node
+[2025-10-24 17:41:22] [INFO] [PostDischargeAssistant] [WORKFLOW] Passing to clinical: any recent news about heart transplant ?...
+[2025-10-24 17:41:22] [INFO] [PostDischargeAssistant] [CLINICAL] Extracted query: any recent news about heart transplant ?...
+[2025-10-24 17:41:22] [INFO] [PostDischargeAssistant] [CLINICAL] Processing: any recent news about heart transplant ?...
+[2025-10-24 17:41:22] [INFO] [PostDischargeAssistant] [CLINICAL] Attempt 1/2
+[2025-10-24 17:41:22] [INFO] [PostDischargeAssistant] [CLINICAL] Invoking agent executor...
+[2025-10-24 17:41:23] [INFO] [PostDischargeAssistant] [CLINICAL] Web Search: recent news about heart transplant...
+[2025-10-24 17:41:23] [INFO] [PostDischargeAssistant] [WEB_SEARCH] Query: recent news about heart transplant
+[2025-10-24 17:41:23] [INFO] [PostDischargeAssistant] [WEB_SEARCH] Found 3 results
+[2025-10-24 17:41:27] [ERROR] [PostDischargeAssistant] [ERROR] web_search: https://html.duckduckgo.com/html 202 Ratelimit
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\mcp\tools.py", line 143, in web_search
+    results = list(ddgs.text(query, max_results=max_results))
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\duckduckgo_search\duckduckgo_search.py", line 258, in text
+    raise DuckDuckGoSearchException(err)
+duckduckgo_search.exceptions.DuckDuckGoSearchException: https://html.duckduckgo.com/html 202 Ratelimit
+[2025-10-24 17:41:27] [WARNING] [PostDischargeAssistant] [CLINICAL] Web search failed: https://html.duckduckgo.com/html 202 Ratelimit
+[2025-10-24 17:41:28] [INFO] [PostDischargeAssistant] [CLINICAL] Success! Response: 239 chars
+[2025-10-24 17:41:28] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (259 chars)
+[2025-10-24 18:05:31] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-24 18:05:31] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-24 18:05:31] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-24 18:05:44] [INFO] [PostDischargeAssistant] Initializing Multi-Agent Workflow...
+[2025-10-24 18:05:44] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-24 18:05:44] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-24 18:05:44] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-24 18:05:44] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-24 18:05:51] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-24 18:05:51] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-24 18:05:54] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-24 18:05:54] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-24 18:05:54] [INFO] [PostDischargeAssistant] ✓ Tavily client initialized
+[2025-10-24 18:05:54] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-24 18:05:54] [INFO] [PostDischargeAssistant] ✓ Receptionist Agent initialized
+[2025-10-24 18:05:54] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-24 18:05:54] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-24 18:05:54] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-24 18:05:54] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-24 18:06:00] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-24 18:06:00] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-24 18:06:02] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-24 18:06:02] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-24 18:06:02] [INFO] [PostDischargeAssistant] ✓ Tavily client initialized
+[2025-10-24 18:06:02] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-24 18:06:02] [INFO] [PostDischargeAssistant] ✓ Clinical Agent initialized
+[2025-10-24 18:06:02] [INFO] [PostDischargeAssistant] ✓ Multi-Agent Workflow ready
+[2025-10-24 18:06:02] [INFO] [PostDischargeAssistant] [APP] New session: 17d79b6e-2f44-4f5b-b70a-ef5d9e421560
+[2025-10-24 18:06:30] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: my name is Ashley King...
+[2025-10-24 18:06:30] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-24 18:06:30] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing user message: my name is Ashley King...
+[2025-10-24 18:06:30] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: my name is Ashley King...
+[2025-10-24 18:06:32] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data called with params: {'patient_name': 'Ashley King'}
+[2025-10-24 18:06:32] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data result: Retrieving patient data
+[2025-10-24 18:06:32] [INFO] [PostDischargeAssistant] [DATABASE] SELECT: Looking up patient: Ashley King
+[2025-10-24 18:06:32] [INFO] [PostDischargeAssistant] ✓ Found patient: Ashley King
+[2025-10-24 18:06:32] [INFO] [PostDischargeAssistant] ✓ Retrieved patient data for: Ashley King
+[2025-10-24 18:06:33] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: False)
+[2025-10-24 18:06:33] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-10-24 18:06:33] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (199 chars)
+[2025-10-24 18:06:42] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: what is my medication ?...
+[2025-10-24 18:06:42] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-24 18:06:42] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing user message: what is my medication ?...
+[2025-10-24 18:06:42] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: what is my medication ?...
+[2025-10-24 18:06:44] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data called with params: {'patient_name': 'Ashley King'}
+[2025-10-24 18:06:44] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data result: Retrieving patient data
+[2025-10-24 18:06:44] [INFO] [PostDischargeAssistant] [DATABASE] SELECT: Looking up patient: Ashley King
+[2025-10-24 18:06:44] [INFO] [PostDischargeAssistant] ✓ Found patient: Ashley King
+[2025-10-24 18:06:44] [INFO] [PostDischargeAssistant] ✓ Retrieved patient data for: Ashley King
+[2025-10-24 18:06:45] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: False)
+[2025-10-24 18:06:45] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-10-24 18:06:45] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (168 chars)
+[2025-10-24 18:06:59] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: what is date of discharge?...
+[2025-10-24 18:06:59] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-24 18:06:59] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing user message: what is date of discharge?...
+[2025-10-24 18:06:59] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: what is date of discharge?...
+[2025-10-24 18:07:01] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: False)
+[2025-10-24 18:07:01] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-10-24 18:07:01] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (88 chars)
+[2025-10-24 18:07:10] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: I'm having swelling in my legs. i had headache , l...
+[2025-10-24 18:07:10] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-24 18:07:10] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing user message: I'm having swelling in my legs. i had headache , l...
+[2025-10-24 18:07:10] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: I'm having swelling in my legs. i had headache , l...
+[2025-10-24 18:07:11] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: True)
+[2025-10-24 18:07:11] [INFO] [PostDischargeAssistant] [WORKFLOW] Routing to clinical agent
+[2025-10-24 18:07:11] [INFO] [PostDischargeAssistant] [WORKFLOW] Clinical node
+[2025-10-24 18:07:11] [INFO] [PostDischargeAssistant] [WORKFLOW] Passing to clinical: I'm having swelling in my legs. i had headache , l...
+[2025-10-24 18:07:11] [INFO] [PostDischargeAssistant] [CLINICAL] Extracted query: I'm having swelling in my legs. i had headache , little fever from 2 weeks.Should I be worried?...
+[2025-10-24 18:07:11] [INFO] [PostDischargeAssistant] [CLINICAL] Processing: I'm having swelling in my legs. i had headache , l...
+[2025-10-24 18:07:11] [INFO] [PostDischargeAssistant] [CLINICAL] Attempt 1/2
+[2025-10-24 18:07:11] [INFO] [PostDischargeAssistant] [CLINICAL] Invoking agent executor...
+[2025-10-24 18:07:15] [INFO] [PostDischargeAssistant] [CLINICAL] RAG Search: leg swelling headache fever kidney disease...
+[2025-10-24 18:07:15] [INFO] [PostDischargeAssistant] [RAG] Query: leg swelling headache fever kidney disease
+[2025-10-24 18:07:15] [INFO] [PostDischargeAssistant] [RAG] Retrieved 3 chunks from sources: ['Nephrology Textbook']
+[2025-10-24 18:07:15] [INFO] [PostDischargeAssistant] Searching Pinecone for: 'leg swelling headache fever kidney disease'
+[2025-10-24 18:07:15] [INFO] [PostDischargeAssistant]   Top K: 3
+[2025-10-24 18:07:17] [INFO] [PostDischargeAssistant] ✓ Found 3 results
+[2025-10-24 18:07:17] [INFO] [PostDischargeAssistant] ✓ Found 3 relevant chunks for: leg swelling headache fever kidney disease
+[2025-10-24 18:07:17] [INFO] [PostDischargeAssistant] [CLINICAL] RAG found 3 results
+[2025-10-24 18:07:20] [INFO] [PostDischargeAssistant] [CLINICAL] Success! Response: 1487 chars
+[2025-10-24 18:07:20] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (1507 chars)
+[2025-10-24 18:07:38] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: any recent news about kidney transplant ?...
+[2025-10-24 18:07:38] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-24 18:07:38] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing user message: any recent news about kidney transplant ?...
+[2025-10-24 18:07:38] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: any recent news about kidney transplant ?...
+[2025-10-24 18:07:39] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: True)
+[2025-10-24 18:07:39] [INFO] [PostDischargeAssistant] [WORKFLOW] Routing to clinical agent
+[2025-10-24 18:07:39] [INFO] [PostDischargeAssistant] [WORKFLOW] Clinical node
+[2025-10-24 18:07:39] [INFO] [PostDischargeAssistant] [WORKFLOW] Passing to clinical: any recent news about kidney transplant ?...
+[2025-10-24 18:07:39] [INFO] [PostDischargeAssistant] [CLINICAL] Extracted query: any recent news about kidney transplant ?...
+[2025-10-24 18:07:39] [INFO] [PostDischargeAssistant] [CLINICAL] Processing: any recent news about kidney transplant ?...
+[2025-10-24 18:07:39] [INFO] [PostDischargeAssistant] [CLINICAL] Attempt 1/2
+[2025-10-24 18:07:39] [INFO] [PostDischargeAssistant] [CLINICAL] Invoking agent executor...
+[2025-10-24 18:07:41] [INFO] [PostDischargeAssistant] [CLINICAL] Web Search: recent news about kidney transplant...
+[2025-10-24 18:07:41] [INFO] [PostDischargeAssistant] [WEB_SEARCH] Query: recent news about kidney transplant
+[2025-10-24 18:07:41] [INFO] [PostDischargeAssistant] [WEB_SEARCH] Found 3 results
+[2025-10-24 18:07:46] [INFO] [PostDischargeAssistant] ✓ Found 3 web results for: recent news about kidney transplant
+[2025-10-24 18:07:46] [INFO] [PostDischargeAssistant] [CLINICAL] Web search found 3 results
+[2025-10-24 18:07:52] [INFO] [PostDischargeAssistant] [CLINICAL] Success! Response: 2312 chars
+[2025-10-24 18:07:52] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (2332 chars)
+[2025-10-24 18:08:56] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: "What's the latest research on SGLT2 inhibitors fo...
+[2025-10-24 18:08:56] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-24 18:08:56] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing user message: "What's the latest research on SGLT2 inhibitors fo...
+[2025-10-24 18:08:56] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: "What's the latest research on SGLT2 inhibitors fo...
+[2025-10-24 18:08:58] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: True)
+[2025-10-24 18:08:58] [INFO] [PostDischargeAssistant] [WORKFLOW] Routing to clinical agent
+[2025-10-24 18:08:58] [INFO] [PostDischargeAssistant] [WORKFLOW] Clinical node
+[2025-10-24 18:08:58] [INFO] [PostDischargeAssistant] [WORKFLOW] Passing to clinical: "What's the latest research on SGLT2 inhibitors fo...
+[2025-10-24 18:08:58] [INFO] [PostDischargeAssistant] [CLINICAL] Extracted query: "What's the latest research on SGLT2 inhibitors for kidney disease?...
+[2025-10-24 18:08:58] [INFO] [PostDischargeAssistant] [CLINICAL] Processing: "What's the latest research on SGLT2 inhibitors fo...
+[2025-10-24 18:08:58] [INFO] [PostDischargeAssistant] [CLINICAL] Attempt 1/2
+[2025-10-24 18:08:58] [INFO] [PostDischargeAssistant] [CLINICAL] Invoking agent executor...
+[2025-10-24 18:09:00] [INFO] [PostDischargeAssistant] [CLINICAL] Web Search: latest research on SGLT2 inhibitors for kidney dis...
+[2025-10-24 18:09:00] [INFO] [PostDischargeAssistant] [WEB_SEARCH] Query: latest research on SGLT2 inhibitors for kidney disease
+[2025-10-24 18:09:00] [INFO] [PostDischargeAssistant] [WEB_SEARCH] Found 3 results
+[2025-10-24 18:09:04] [INFO] [PostDischargeAssistant] ✓ Found 3 web results for: latest research on SGLT2 inhibitors for kidney disease
+[2025-10-24 18:09:04] [INFO] [PostDischargeAssistant] [CLINICAL] Web search found 3 results
+[2025-10-24 18:09:08] [INFO] [PostDischargeAssistant] [CLINICAL] Success! Response: 2119 chars
+[2025-10-24 18:09:08] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (2139 chars)
+[2025-10-24 18:09:38] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: what diet i should prefer for my health?...
+[2025-10-24 18:09:38] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-24 18:09:38] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing user message: what diet i should prefer for my health?...
+[2025-10-24 18:09:38] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: what diet i should prefer for my health?...
+[2025-10-24 18:09:45] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: False)
+[2025-10-24 18:09:45] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-10-24 18:09:45] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (1317 chars)
+[2025-10-31 05:40:07] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-31 05:40:07] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-31 05:40:07] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-31 05:41:18] [INFO] [PostDischargeAssistant] Initializing Multi-Agent Workflow...
+[2025-10-31 05:41:18] [INFO] [PostDischargeAssistant] Initializing database at: /app/data/patients.db
+[2025-10-31 05:41:18] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-31 05:41:18] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-31 05:41:18] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-31 05:41:31] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-31 05:41:31] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-31 05:41:32] [ERROR] [PostDischargeAssistant] Failed to connect to index: (401)
+Reason: Unauthorized
+HTTP response headers: HTTPHeaderDict({'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '162ce33d339cc42b84af92094798b956', 'date': 'Fri, 31 Oct 2025 05:41:31 GMT', 'content-type': 'text/html', 'server': 'Google Frontend', 'Content-Length': '15', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: Invalid API Key
+
+[2025-10-31 05:41:32] [INFO] [PostDischargeAssistant] ✓ Tavily client initialized
+[2025-10-31 05:41:32] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-31 05:41:32] [INFO] [PostDischargeAssistant] ✓ Receptionist Agent initialized
+[2025-10-31 05:41:32] [INFO] [PostDischargeAssistant] Initializing database at: /app/data/patients.db
+[2025-10-31 05:41:32] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-31 05:41:32] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-31 05:41:32] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-31 05:41:35] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-31 05:41:35] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-31 05:41:35] [ERROR] [PostDischargeAssistant] Failed to connect to index: (401)
+Reason: Unauthorized
+HTTP response headers: HTTPHeaderDict({'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': 'f9c684fb771250e5418ad6ddc3d915ed', 'date': 'Fri, 31 Oct 2025 05:41:34 GMT', 'content-type': 'text/html', 'server': 'Google Frontend', 'Content-Length': '15', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: Invalid API Key
+
+[2025-10-31 05:41:35] [INFO] [PostDischargeAssistant] ✓ Tavily client initialized
+[2025-10-31 05:41:35] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-31 05:41:35] [INFO] [PostDischargeAssistant] ✓ Clinical Agent initialized
+[2025-10-31 05:41:35] [INFO] [PostDischargeAssistant] ✓ Multi-Agent Workflow ready
+[2025-10-31 05:41:35] [INFO] [PostDischargeAssistant] [APP] New session: 88e90fbd-9095-476e-9c87-5404fcd2efd5
+[2025-10-31 05:41:46] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: HI...
+[2025-10-31 05:41:46] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-31 05:41:46] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing user message: HI...
+[2025-10-31 05:41:46] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: HI...
+[2025-10-31 05:41:46] [ERROR] [PostDischargeAssistant] [ERROR] ReceptionistAgent.process: Invalid argument provided to Gemini: 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/langchain_google_genai/chat_models.py", line 178, in _chat_with_retry
+    return generation_method(**kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta/services/generative_service/client.py", line 1143, in stream_generate_content
+    response = rpc(
+               ^^^^
+  File "/usr/local/lib/python3.11/site-packages/google/api_core/gapic_v1/method.py", line 131, in __call__
+    return wrapped_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/google/api_core/retry/retry_unary.py", line 294, in retry_wrapped_func
+    return retry_target(
+           ^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/google/api_core/retry/retry_unary.py", line 156, in retry_target
+    next_sleep = _retry_error_helper(
+                 ^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/google/api_core/retry/retry_base.py", line 214, in _retry_error_helper
+    raise final_exc from source_exc
+  File "/usr/local/lib/python3.11/site-packages/google/api_core/retry/retry_unary.py", line 147, in retry_target
+    result = target()
+             ^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/google/api_core/timeout.py", line 130, in func_with_timeout
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/google/api_core/grpc_helpers.py", line 173, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.InvalidArgument: 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/app/src/agents/receptionist_agent.py", line 79, in process
+    response = self.executor.invoke({
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/langchain/chains/base.py", line 167, in invoke
+    raise e
+  File "/usr/local/lib/python3.11/site-packages/langchain/chains/base.py", line 157, in invoke
+    self._call(inputs, run_manager=run_manager)
+  File "/usr/local/lib/python3.11/site-packages/langchain/agents/agent.py", line 1620, in _call
+    next_step_output = self._take_next_step(
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/langchain/agents/agent.py", line 1326, in _take_next_step
+    [
+  File "/usr/local/lib/python3.11/site-packages/langchain/agents/agent.py", line 1326, in <listcomp>
+    [
+  File "/usr/local/lib/python3.11/site-packages/langchain/agents/agent.py", line 1354, in _iter_next_step
+    output = self._action_agent.plan(
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/langchain/agents/agent.py", line 577, in plan
+    for chunk in self.runnable.stream(inputs, config={"callbacks": callbacks}):
+  File "/usr/local/lib/python3.11/site-packages/langchain_core/runnables/base.py", line 3438, in stream
+    yield from self.transform(iter([input]), config, **kwargs)
+  File "/usr/local/lib/python3.11/site-packages/langchain_core/runnables/base.py", line 3424, in transform
+    yield from self._transform_stream_with_config(
+  File "/usr/local/lib/python3.11/site-packages/langchain_core/runnables/base.py", line 2215, in _transform_stream_with_config
+    chunk: Output = context.run(next, iterator)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/langchain_core/runnables/base.py", line 3386, in _transform
+    yield from final_pipeline
+  File "/usr/local/lib/python3.11/site-packages/langchain_core/runnables/base.py", line 1429, in transform
+    for ichunk in input:
+  File "/usr/local/lib/python3.11/site-packages/langchain_core/runnables/base.py", line 5647, in transform
+    yield from self.bound.transform(
+  File "/usr/local/lib/python3.11/site-packages/langchain_core/runnables/base.py", line 1447, in transform
+    yield from self.stream(final, config, **kwargs)
+  File "/usr/local/lib/python3.11/site-packages/langchain_core/language_models/chat_models.py", line 505, in stream
+    for chunk in self._stream(input_messages, stop=stop, **kwargs):
+  File "/usr/local/lib/python3.11/site-packages/langchain_google_genai/chat_models.py", line 1032, in _stream
+    response: GenerateContentResponse = _chat_with_retry(
+                                        ^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/langchain_google_genai/chat_models.py", line 196, in _chat_with_retry
+    return _chat_with_retry(**kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/tenacity/__init__.py", line 338, in wrapped_f
+    return copy(f, *args, **kw)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/tenacity/__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/tenacity/__init__.py", line 378, in iter
+    result = action(retry_state)
+             ^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/tenacity/__init__.py", line 400, in <lambda>
+    self._add_action_func(lambda rs: rs.outcome.result())
+                                     ^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/concurrent/futures/_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/usr/local/lib/python3.11/site-packages/tenacity/__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/langchain_google_genai/chat_models.py", line 190, in _chat_with_retry
+    raise ChatGoogleGenerativeAIError(
+langchain_google_genai.chat_models.ChatGoogleGenerativeAIError: Invalid argument provided to Gemini: 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+[2025-10-31 05:41:46] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-10-31 05:41:46] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (116 chars)
+[2025-10-31 05:51:51] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-31 05:51:51] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-31 05:51:51] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-31 05:52:10] [INFO] [PostDischargeAssistant] Initializing Multi-Agent Workflow...
+[2025-10-31 05:52:10] [INFO] [PostDischargeAssistant] Initializing database at: /app/data/patients.db
+[2025-10-31 05:52:10] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-31 05:52:10] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-31 05:52:10] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-31 05:52:24] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-31 05:52:24] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-31 05:52:26] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-31 05:52:26] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-31 05:52:26] [INFO] [PostDischargeAssistant] ✓ Tavily client initialized
+[2025-10-31 05:52:26] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-31 05:52:27] [INFO] [PostDischargeAssistant] ✓ Receptionist Agent initialized
+[2025-10-31 05:52:27] [INFO] [PostDischargeAssistant] Initializing database at: /app/data/patients.db
+[2025-10-31 05:52:27] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-31 05:52:27] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-31 05:52:27] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-31 05:52:30] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-31 05:52:30] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-31 05:52:31] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-31 05:52:31] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-31 05:52:31] [INFO] [PostDischargeAssistant] ✓ Tavily client initialized
+[2025-10-31 05:52:31] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-31 05:52:31] [INFO] [PostDischargeAssistant] ✓ Clinical Agent initialized
+[2025-10-31 05:52:31] [INFO] [PostDischargeAssistant] ✓ Multi-Agent Workflow ready
+[2025-10-31 05:52:31] [INFO] [PostDischargeAssistant] [APP] New session: 600cbdcf-a78e-42ec-aed8-d8cc8868b719
+[2025-10-31 05:52:37] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: hi...
+[2025-10-31 05:52:37] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-31 05:52:37] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing user message: hi...
+[2025-10-31 05:52:37] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: hi...
+[2025-10-31 05:52:39] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: False)
+[2025-10-31 05:52:39] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-10-31 05:52:39] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (88 chars)
+[2025-10-31 05:53:04] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: Lisa Davis...
+[2025-10-31 05:53:04] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-31 05:53:04] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing user message: Lisa Davis...
+[2025-10-31 05:53:04] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: Lisa Davis...
+[2025-10-31 05:53:05] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data called with params: {'patient_name': 'Lisa Davis'}
+[2025-10-31 05:53:05] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data result: Retrieving patient data
+[2025-10-31 05:53:05] [INFO] [PostDischargeAssistant] [DATABASE] SELECT: Looking up patient: Lisa Davis
+[2025-10-31 05:53:05] [INFO] [PostDischargeAssistant] ✓ Found patient: Lisa Davis
+[2025-10-31 05:53:05] [INFO] [PostDischargeAssistant] ✓ Retrieved patient data for: Lisa Davis
+[2025-10-31 05:53:06] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: False)
+[2025-10-31 05:53:06] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-10-31 05:53:06] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (215 chars)
+[2025-10-31 20:43:10] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-31 20:43:10] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-31 20:43:10] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-31 20:44:37] [INFO] [PostDischargeAssistant] Initializing Multi-Agent Workflow...
+[2025-10-31 20:44:37] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-31 20:44:37] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-31 20:44:37] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-31 20:44:37] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-31 20:44:43] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-31 20:44:43] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-31 20:44:45] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-31 20:44:45] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-31 20:44:45] [INFO] [PostDischargeAssistant] ✓ Tavily client initialized
+[2025-10-31 20:44:45] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-31 20:44:45] [INFO] [PostDischargeAssistant] ✓ Receptionist Agent initialized
+[2025-10-31 20:44:45] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-10-31 20:44:45] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-10-31 20:44:45] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-10-31 20:44:45] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-10-31 20:44:49] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-10-31 20:44:49] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-10-31 20:44:50] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-10-31 20:44:50] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-10-31 20:44:50] [INFO] [PostDischargeAssistant] ✓ Tavily client initialized
+[2025-10-31 20:44:50] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-10-31 20:44:50] [INFO] [PostDischargeAssistant] ✓ Clinical Agent initialized
+[2025-10-31 20:44:50] [INFO] [PostDischargeAssistant] ✓ Multi-Agent Workflow ready
+[2025-10-31 20:44:50] [INFO] [PostDischargeAssistant] [APP] New session: 7867c372-f417-4b22-926d-29152368dc25
+[2025-10-31 20:46:23] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: Betty Wilson
+...
+[2025-10-31 20:46:23] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-31 20:46:23] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing user message: Betty Wilson
+...
+[2025-10-31 20:46:23] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: Betty Wilson
+...
+[2025-10-31 20:46:24] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data called with params: {'patient_name': 'Betty Wilson'}
+[2025-10-31 20:46:24] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data result: Retrieving patient data
+[2025-10-31 20:46:24] [INFO] [PostDischargeAssistant] [DATABASE] SELECT: Looking up patient: Betty Wilson
+[2025-10-31 20:46:24] [INFO] [PostDischargeAssistant] ✓ Found patient: Betty Wilson
+[2025-10-31 20:46:24] [INFO] [PostDischargeAssistant] ✓ Retrieved patient data for: Betty Wilson
+[2025-10-31 20:46:27] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: False)
+[2025-10-31 20:46:27] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-10-31 20:46:27] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (174 chars)
+[2025-10-31 20:48:02] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: I am feeling pain in stomach and little headache i...
+[2025-10-31 20:48:02] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-10-31 20:48:02] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing user message: I am feeling pain in stomach and little headache i...
+[2025-10-31 20:48:02] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: I am feeling pain in stomach and little headache i...
+[2025-10-31 20:48:05] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: True)
+[2025-10-31 20:48:05] [INFO] [PostDischargeAssistant] [WORKFLOW] Routing to clinical agent
+[2025-10-31 20:48:05] [INFO] [PostDischargeAssistant] [WORKFLOW] Clinical node
+[2025-10-31 20:48:05] [INFO] [PostDischargeAssistant] [WORKFLOW] Passing to clinical: I am feeling pain in stomach and little headache i...
+[2025-10-31 20:48:05] [INFO] [PostDischargeAssistant] [CLINICAL] Extracted query: I am feeling pain in stomach and little headache is there anything serious ?...
+[2025-10-31 20:48:05] [INFO] [PostDischargeAssistant] [CLINICAL] Processing: I am feeling pain in stomach and little headache i...
+[2025-10-31 20:48:05] [INFO] [PostDischargeAssistant] [CLINICAL] Attempt 1/2
+[2025-10-31 20:48:05] [INFO] [PostDischargeAssistant] [CLINICAL] Invoking agent executor...
+[2025-10-31 20:48:09] [INFO] [PostDischargeAssistant] [CLINICAL] RAG Search: stomach pain headache kidney disease...
+[2025-10-31 20:48:09] [INFO] [PostDischargeAssistant] [RAG] Query: stomach pain headache kidney disease
+[2025-10-31 20:48:09] [INFO] [PostDischargeAssistant] [RAG] Retrieved 3 chunks from sources: ['Nephrology Textbook']
+[2025-10-31 20:48:09] [INFO] [PostDischargeAssistant] Searching Pinecone for: 'stomach pain headache kidney disease'
+[2025-10-31 20:48:09] [INFO] [PostDischargeAssistant]   Top K: 3
+[2025-10-31 20:48:11] [INFO] [PostDischargeAssistant] ✓ Found 3 results
+[2025-10-31 20:48:11] [INFO] [PostDischargeAssistant] ✓ Found 3 relevant chunks for: stomach pain headache kidney disease
+[2025-10-31 20:48:11] [INFO] [PostDischargeAssistant] [CLINICAL] RAG found 3 results
+[2025-10-31 20:48:15] [INFO] [PostDischargeAssistant] [CLINICAL] Success! Response: 1381 chars
+[2025-10-31 20:48:15] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (1401 chars)
+[2025-10-31 21:02:09] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-31 21:02:09] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-10-31 21:02:09] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-10-31 21:02:09] [INFO] [PostDischargeAssistant] [MCP] Starting web search server...
+[2025-10-31 21:02:09] [ERROR] [PostDischargeAssistant] [MCP] Failed to connect to web search server: '_io.TextIOWrapper' object has no attribute 'command'
+[2025-10-31 21:02:09] [INFO] [PostDischargeAssistant] [MCP] Disconnected from web search server
+[2025-11-04 23:42:29] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-11-04 23:42:29] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-11-04 23:42:29] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-11-04 23:43:29] [INFO] [PostDischargeAssistant] Initializing Multi-Agent Workflow...
+[2025-11-04 23:43:29] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-11-04 23:43:29] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-11-04 23:43:29] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-11-04 23:43:30] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-11-04 23:43:33] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-11-04 23:43:33] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-11-04 23:43:35] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-11-04 23:43:35] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-11-04 23:43:35] [INFO] [PostDischargeAssistant] ✓ Tavily client initialized
+[2025-11-04 23:43:35] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-11-04 23:43:35] [INFO] [PostDischargeAssistant] ✓ Receptionist Agent initialized
+[2025-11-04 23:43:35] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-11-04 23:43:35] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-11-04 23:43:35] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-11-04 23:43:35] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-11-04 23:43:38] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-11-04 23:43:38] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-11-04 23:43:39] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-11-04 23:43:39] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-11-04 23:43:39] [INFO] [PostDischargeAssistant] ✓ Tavily client initialized
+[2025-11-04 23:43:39] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-11-04 23:43:39] [INFO] [PostDischargeAssistant] ✓ Clinical Agent initialized
+[2025-11-04 23:43:39] [INFO] [PostDischargeAssistant] ✓ Multi-Agent Workflow ready
+[2025-11-04 23:43:39] [INFO] [PostDischargeAssistant] [APP] New session: 3e38607d-4d87-4bff-bebf-f72777591372
+[2025-11-04 23:44:16] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: Betty Wilson...
+[2025-11-04 23:44:16] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-11-04 23:44:16] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing user message: Betty Wilson...
+[2025-11-04 23:44:16] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: Betty Wilson...
+[2025-11-04 23:44:18] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data called with params: {'patient_name': 'Betty Wilson'}
+[2025-11-04 23:44:18] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data result: Retrieving patient data
+[2025-11-04 23:44:18] [INFO] [PostDischargeAssistant] [DATABASE] SELECT: Looking up patient: Betty Wilson
+[2025-11-04 23:44:18] [INFO] [PostDischargeAssistant] ✓ Found patient: Betty Wilson
+[2025-11-04 23:44:18] [INFO] [PostDischargeAssistant] ✓ Retrieved patient data for: Betty Wilson
+[2025-11-04 23:44:19] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: False)
+[2025-11-04 23:44:19] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-11-04 23:44:19] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (174 chars)
+[2025-11-04 23:44:45] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message:  I am feeling sick....
+[2025-11-04 23:44:45] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-11-04 23:44:45] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing user message:  I am feeling sick....
+[2025-11-04 23:44:45] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing:  I am feeling sick....
+[2025-11-04 23:44:47] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: True)
+[2025-11-04 23:44:47] [INFO] [PostDischargeAssistant] [WORKFLOW] Routing to clinical agent
+[2025-11-04 23:44:47] [INFO] [PostDischargeAssistant] [WORKFLOW] Clinical node
+[2025-11-04 23:44:47] [INFO] [PostDischargeAssistant] [WORKFLOW] Passing to clinical:  I am feeling sick....
+[2025-11-04 23:44:47] [INFO] [PostDischargeAssistant] [CLINICAL] Extracted query: I am feeling sick....
+[2025-11-04 23:44:47] [INFO] [PostDischargeAssistant] [CLINICAL] Processing: I am feeling sick....
+[2025-11-04 23:44:47] [INFO] [PostDischargeAssistant] [CLINICAL] Attempt 1/2
+[2025-11-04 23:44:47] [INFO] [PostDischargeAssistant] [CLINICAL] Invoking agent executor...
+[2025-11-04 23:44:51] [INFO] [PostDischargeAssistant] [CLINICAL] Success! Response: 635 chars
+[2025-11-04 23:44:51] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (655 chars)
+[2025-11-04 18:33:05] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-11-04 18:33:05] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-11-04 18:33:05] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-11-04 18:33:22] [INFO] [PostDischargeAssistant] Initializing Multi-Agent Workflow...
+[2025-11-04 18:33:22] [INFO] [PostDischargeAssistant] Initializing database at: /app/data/patients.db
+[2025-11-04 18:33:22] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-11-04 18:33:22] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-11-04 18:33:22] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-11-04 18:33:25] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-11-04 18:33:25] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-11-04 18:33:27] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-11-04 18:33:27] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-11-04 18:33:27] [INFO] [PostDischargeAssistant] ✓ Tavily client initialized
+[2025-11-04 18:33:27] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-11-04 18:33:27] [INFO] [PostDischargeAssistant] ✓ Receptionist Agent initialized
+[2025-11-04 18:33:27] [INFO] [PostDischargeAssistant] Initializing database at: /app/data/patients.db
+[2025-11-04 18:33:27] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-11-04 18:33:27] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-11-04 18:33:27] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-11-04 18:33:30] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-11-04 18:33:30] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-11-04 18:33:31] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-11-04 18:33:31] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-11-04 18:33:31] [INFO] [PostDischargeAssistant] ✓ Tavily client initialized
+[2025-11-04 18:33:31] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-11-04 18:33:31] [INFO] [PostDischargeAssistant] ✓ Clinical Agent initialized
+[2025-11-04 18:33:31] [INFO] [PostDischargeAssistant] ✓ Multi-Agent Workflow ready
+[2025-11-04 18:33:31] [INFO] [PostDischargeAssistant] [APP] New session: 359142ec-9923-41e8-a72e-baf54ab682ab
+[2025-11-04 18:33:55] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: Betty Wilson...
+[2025-11-04 18:33:55] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-11-04 18:33:55] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing user message: Betty Wilson...
+[2025-11-04 18:33:55] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: Betty Wilson...
+[2025-11-04 18:33:57] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data called with params: {'patient_name': 'Betty Wilson'}
+[2025-11-04 18:33:57] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data result: Retrieving patient data
+[2025-11-04 18:33:57] [INFO] [PostDischargeAssistant] [DATABASE] SELECT: Looking up patient: Betty Wilson
+[2025-11-04 18:33:57] [INFO] [PostDischargeAssistant] ✓ Found patient: Betty Wilson
+[2025-11-04 18:33:57] [INFO] [PostDischargeAssistant] ✓ Retrieved patient data for: Betty Wilson
+[2025-11-04 18:34:00] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: False)
+[2025-11-04 18:34:00] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-11-04 18:34:00] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (174 chars)
+[2025-11-05 00:22:53] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-11-05 00:22:53] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-11-05 00:22:53] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-11-05 00:23:58] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-11-05 00:23:58] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-11-05 00:23:58] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-11-05 00:23:58] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-11-05 00:24:02] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-11-05 00:24:02] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-11-05 00:24:04] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-11-05 00:24:04] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-11-05 00:24:04] [INFO] [PostDischargeAssistant] Starting Post-Discharge Assistant MCP Server...
+[2025-11-05 00:24:04] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-11-05 00:24:05] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-11-05 00:24:05] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-11-05 00:24:05] [INFO] [PostDischargeAssistant] ✓ MCP Server initialized successfully
+[2025-11-05 00:25:45] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-11-05 00:25:45] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-11-05 00:25:45] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-11-05 00:25:58] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-11-05 00:25:58] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-11-05 00:25:58] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-11-05 00:26:09] [INFO] [PostDischargeAssistant] ✓ Tavily client available
+[2025-11-05 00:26:11] [INFO] [PostDischargeAssistant] ✓ MCP client integration available
+[2025-11-05 00:26:11] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-11-05 00:26:11] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-11-05 00:26:11] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-11-05 00:26:11] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-11-05 00:26:14] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-11-05 00:26:14] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-11-05 00:26:16] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-11-05 00:26:16] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-11-05 00:26:16] [INFO] [PostDischargeAssistant] ✓ Tavily client initialized
+[2025-11-05 00:26:16] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized with direct access mode
+[2025-11-05 00:26:16] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data called with params: {'patient_name': 'Ashley King', 'method': 'Direct'}
+[2025-11-05 00:26:16] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data result: Retrieving patient data
+[2025-11-05 00:26:16] [INFO] [PostDischargeAssistant] [DATABASE] SELECT: Looking up patient: Ashley King
+[2025-11-05 00:26:16] [INFO] [PostDischargeAssistant] ✓ Found patient: Ashley King
+[2025-11-05 00:26:16] [INFO] [PostDischargeAssistant] ✓ Retrieved patient data directly for: Ashley King
+[2025-11-05 00:26:16] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-11-05 00:26:16] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-11-05 00:26:16] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-11-05 00:26:16] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-11-05 00:26:19] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-11-05 00:26:19] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-11-05 00:26:20] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-11-05 00:26:20] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-11-05 00:26:20] [INFO] [PostDischargeAssistant] ✓ Tavily client initialized
+[2025-11-05 00:26:20] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized with MCP server integration
+[2025-11-05 00:28:14] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-11-05 00:28:14] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-11-05 00:28:14] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-11-05 00:28:27] [INFO] [PostDischargeAssistant] ✓ Tavily client available
+[2025-11-05 00:28:28] [INFO] [PostDischargeAssistant] ✓ MCP client integration available
+[2025-11-05 00:28:28] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-11-05 00:28:28] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-11-05 00:28:28] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-11-05 00:28:28] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-11-05 00:28:31] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-11-05 00:28:31] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-11-05 00:28:33] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-11-05 00:28:33] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-11-05 00:28:33] [INFO] [PostDischargeAssistant] ✓ Tavily client initialized
+[2025-11-05 00:28:33] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized with direct access mode
+[2025-11-05 00:28:33] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data called with params: {'patient_name': 'Ashley King', 'method': 'Direct'}
+[2025-11-05 00:28:33] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data result: Retrieving patient data
+[2025-11-05 00:28:33] [INFO] [PostDischargeAssistant] [DATABASE] SELECT: Looking up patient: Ashley King
+[2025-11-05 00:28:33] [INFO] [PostDischargeAssistant] ✓ Found patient: Ashley King
+[2025-11-05 00:28:33] [INFO] [PostDischargeAssistant] ✓ Retrieved patient data directly for: Ashley King
+[2025-11-05 00:28:33] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-11-05 00:28:33] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-11-05 00:28:33] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-11-05 00:28:33] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-11-05 00:28:36] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-11-05 00:28:36] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-11-05 00:28:37] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-11-05 00:28:37] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-11-05 00:28:37] [INFO] [PostDischargeAssistant] ✓ Tavily client initialized
+[2025-11-05 00:28:37] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized with MCP server integration
+[2025-11-05 00:28:37] [INFO] [PostDischargeAssistant] [RAG] Query: kidney disease symptoms
+[2025-11-05 00:28:37] [INFO] [PostDischargeAssistant] [RAG] Retrieved 2 chunks from sources: ['Nephrology Textbook', 'Direct']
+[2025-11-05 00:28:37] [INFO] [PostDischargeAssistant] Searching Pinecone for: 'kidney disease symptoms'
+[2025-11-05 00:28:37] [INFO] [PostDischargeAssistant]   Top K: 2
+[2025-11-05 00:28:37] [INFO] [PostDischargeAssistant] ✓ Found 2 results
+[2025-11-05 00:28:37] [INFO] [PostDischargeAssistant] ✓ Found 2 relevant chunks for: kidney disease symptoms
+[2025-11-05 00:28:37] [INFO] [PostDischargeAssistant] [WEB_SEARCH] Query: kidney disease treatment
+[2025-11-05 00:28:37] [INFO] [PostDischargeAssistant] [WEB_SEARCH] Found 1 results
+[2025-11-05 00:28:40] [INFO] [PostDischargeAssistant] ✓ Found 1 web results for: kidney disease treatment
+[2025-11-04 18:59:32] [INFO] [PostDischargeAssistant] Initializing Multi-Agent Workflow...
+[2025-11-04 18:59:32] [INFO] [PostDischargeAssistant] Initializing database at: /app/data/patients.db
+[2025-11-04 18:59:32] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-11-04 18:59:32] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-11-04 18:59:33] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-11-04 18:59:37] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-11-04 18:59:37] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-11-04 18:59:38] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-11-04 18:59:38] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-11-04 18:59:38] [INFO] [PostDischargeAssistant] ✓ Tavily client initialized
+[2025-11-04 18:59:38] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-11-04 18:59:38] [INFO] [PostDischargeAssistant] ✓ Receptionist Agent initialized
+[2025-11-04 18:59:38] [INFO] [PostDischargeAssistant] Initializing database at: /app/data/patients.db
+[2025-11-04 18:59:38] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-11-04 18:59:38] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-11-04 18:59:38] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-11-04 18:59:41] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-11-04 18:59:41] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-11-04 18:59:42] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-11-04 18:59:42] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-11-04 18:59:42] [INFO] [PostDischargeAssistant] ✓ Tavily client initialized
+[2025-11-04 18:59:42] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-11-04 18:59:42] [INFO] [PostDischargeAssistant] ✓ Clinical Agent initialized
+[2025-11-04 18:59:42] [INFO] [PostDischargeAssistant] ✓ Multi-Agent Workflow ready
+[2025-11-04 18:59:42] [INFO] [PostDischargeAssistant] [APP] New session: 82a03e80-ff51-4347-a85e-72fa60bac525
+[2025-11-04 19:00:04] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: Michael Jackson...
+[2025-11-04 19:00:04] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-11-04 19:00:04] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing user message: Michael Jackson...
+[2025-11-04 19:00:04] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: Michael Jackson...
+[2025-11-04 19:00:06] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data called with params: {'patient_name': 'Michael Jackson'}
+[2025-11-04 19:00:06] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data result: Retrieving patient data
+[2025-11-04 19:00:06] [INFO] [PostDischargeAssistant] [DATABASE] SELECT: Looking up patient: Michael Jackson
+[2025-11-04 19:00:06] [INFO] [PostDischargeAssistant] ✓ Found patient: Michael Jackson
+[2025-11-04 19:00:06] [INFO] [PostDischargeAssistant] ✓ Retrieved patient data for: Michael Jackson
+[2025-11-04 19:00:07] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: False)
+[2025-11-04 19:00:07] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-11-04 19:00:07] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (178 chars)
+[2025-11-04 19:09:41] [INFO] [PostDischargeAssistant] Initializing Multi-Agent Workflow...
+[2025-11-04 19:09:41] [INFO] [PostDischargeAssistant] Initializing database at: /app/data/patients.db
+[2025-11-04 19:09:41] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-11-04 19:09:41] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-11-04 19:09:41] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-11-04 19:09:44] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-11-04 19:09:44] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-11-04 19:09:45] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-11-04 19:09:45] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-11-04 19:09:45] [INFO] [PostDischargeAssistant] ✓ Tavily client initialized
+[2025-11-04 19:09:45] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-11-04 19:09:46] [INFO] [PostDischargeAssistant] ✓ Receptionist Agent initialized
+[2025-11-04 19:09:46] [INFO] [PostDischargeAssistant] Initializing database at: /app/data/patients.db
+[2025-11-04 19:09:46] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-11-04 19:09:46] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-11-04 19:09:46] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-11-04 19:09:48] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-11-04 19:09:48] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-11-04 19:09:49] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-11-04 19:09:49] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-11-04 19:09:49] [INFO] [PostDischargeAssistant] ✓ Tavily client initialized
+[2025-11-04 19:09:49] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized
+[2025-11-04 19:09:49] [INFO] [PostDischargeAssistant] ✓ Clinical Agent initialized
+[2025-11-04 19:09:49] [INFO] [PostDischargeAssistant] ✓ Multi-Agent Workflow ready
+[2025-11-04 19:09:49] [INFO] [PostDischargeAssistant] [APP] New session: c83478b1-0467-4414-806e-6f16a31d5793
+[2025-11-05 00:41:30] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-11-05 00:41:30] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-11-05 00:41:30] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-11-05 00:41:43] [INFO] [PostDischargeAssistant] ✓ Tavily client available
+[2025-11-05 00:41:43] [WARNING] [PostDischargeAssistant] MCP client not available: No module named 'mcp.client.session'; 'mcp.client' is not a package
+[2025-11-05 00:41:43] [INFO] [PostDischargeAssistant] Initializing Multi-Agent Workflow...
+[2025-11-05 00:41:43] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-11-05 00:41:43] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-11-05 00:41:43] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-11-05 00:41:43] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-11-05 00:41:46] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-11-05 00:41:46] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-11-05 00:41:48] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-11-05 00:41:48] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-11-05 00:41:48] [INFO] [PostDischargeAssistant] ✓ Tavily client initialized
+[2025-11-05 00:41:48] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized with direct access mode
+[2025-11-05 00:41:48] [INFO] [PostDischargeAssistant] ✓ Receptionist Agent initialized
+[2025-11-05 00:41:48] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-11-05 00:41:48] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-11-05 00:41:48] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-11-05 00:41:48] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-11-05 00:41:51] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-11-05 00:41:51] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-11-05 00:41:52] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-11-05 00:41:52] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-11-05 00:41:52] [INFO] [PostDischargeAssistant] ✓ Tavily client initialized
+[2025-11-05 00:41:52] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized with direct access mode
+[2025-11-05 00:41:52] [INFO] [PostDischargeAssistant] ✓ Clinical Agent initialized
+[2025-11-05 00:41:52] [INFO] [PostDischargeAssistant] ✓ Multi-Agent Workflow ready
+[2025-11-05 00:41:52] [INFO] [PostDischargeAssistant] [APP] New session: 91076918-e3b8-41cb-9b2d-d436d71f5e47
+[2025-11-05 00:51:16] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: Patricia King...
+[2025-11-05 00:51:16] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-11-05 00:51:16] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing user message: Patricia King...
+[2025-11-05 00:51:16] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: Patricia King...
+[2025-11-05 00:51:18] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data called with params: {'patient_name': 'Patricia King', 'method': 'Direct'}
+[2025-11-05 00:51:18] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data result: Retrieving patient data
+[2025-11-05 00:51:18] [INFO] [PostDischargeAssistant] [DATABASE] SELECT: Looking up patient: Patricia King
+[2025-11-05 00:51:18] [INFO] [PostDischargeAssistant] ✓ Found patient: Patricia King
+[2025-11-05 00:51:18] [INFO] [PostDischargeAssistant] ✓ Retrieved patient data directly for: Patricia King
+[2025-11-05 00:51:19] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: False)
+[2025-11-05 00:51:19] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-11-05 00:51:19] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (189 chars)
+[2025-11-05 00:51:53] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: I am feeling pain near stomach ...
+[2025-11-05 00:51:53] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-11-05 00:51:53] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing user message: I am feeling pain near stomach ...
+[2025-11-05 00:51:53] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: I am feeling pain near stomach ...
+[2025-11-05 00:51:54] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: True)
+[2025-11-05 00:51:54] [INFO] [PostDischargeAssistant] [WORKFLOW] Routing to clinical agent
+[2025-11-05 00:51:54] [INFO] [PostDischargeAssistant] [WORKFLOW] Clinical node
+[2025-11-05 00:51:54] [INFO] [PostDischargeAssistant] [WORKFLOW] Passing to clinical: I am feeling pain near stomach ...
+[2025-11-05 00:51:54] [INFO] [PostDischargeAssistant] [CLINICAL] Extracted query: I am feeling pain near stomach...
+[2025-11-05 00:51:54] [INFO] [PostDischargeAssistant] [CLINICAL] Processing: I am feeling pain near stomach...
+[2025-11-05 00:51:54] [INFO] [PostDischargeAssistant] [CLINICAL] Attempt 1/2
+[2025-11-05 00:51:54] [INFO] [PostDischargeAssistant] [CLINICAL] Invoking agent executor...
+[2025-11-05 00:51:57] [INFO] [PostDischargeAssistant] [CLINICAL] Success! Response: 153 chars
+[2025-11-05 00:51:57] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (173 chars)
+[2025-11-23 01:43:23] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-11-23 01:43:23] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-11-23 01:43:23] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-11-23 01:44:02] [INFO] [PostDischargeAssistant] ✓ Tavily client available
+[2025-11-23 01:44:02] [WARNING] [PostDischargeAssistant] MCP client not available: No module named 'mcp.client.session'; 'mcp.client' is not a package
+[2025-11-23 01:44:02] [INFO] [PostDischargeAssistant] Initializing Multi-Agent Workflow...
+[2025-11-23 01:44:02] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-11-23 01:44:02] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-11-23 01:44:02] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-11-23 01:44:02] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-11-23 01:44:06] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-11-23 01:44:06] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-11-23 01:44:08] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-11-23 01:44:08] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-11-23 01:44:08] [INFO] [PostDischargeAssistant] ✓ Tavily client initialized
+[2025-11-23 01:44:08] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized with direct access mode
+[2025-11-23 01:44:09] [INFO] [PostDischargeAssistant] ✓ Receptionist Agent initialized
+[2025-11-23 01:44:09] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-11-23 01:44:09] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-11-23 01:44:09] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-11-23 01:44:09] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-11-23 01:44:12] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-11-23 01:44:12] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-11-23 01:44:13] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-11-23 01:44:13] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-11-23 01:44:13] [INFO] [PostDischargeAssistant] ✓ Tavily client initialized
+[2025-11-23 01:44:13] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized with direct access mode
+[2025-11-23 01:44:13] [INFO] [PostDischargeAssistant] ✓ Clinical Agent initialized
+[2025-11-23 01:44:13] [INFO] [PostDischargeAssistant] ✓ Multi-Agent Workflow ready
+[2025-11-23 01:44:13] [INFO] [PostDischargeAssistant] [APP] New session: 2d8939ff-ba6b-42e5-920e-4247f7ddcdd2
+[2025-12-04 21:34:42] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-12-04 21:34:42] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-12-04 21:34:42] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-12-04 21:35:29] [INFO] [PostDischargeAssistant] ✓ Tavily client available
+[2025-12-04 21:35:29] [WARNING] [PostDischargeAssistant] MCP client not available: No module named 'mcp.client.session'; 'mcp.client' is not a package
+[2025-12-04 21:35:29] [INFO] [PostDischargeAssistant] Initializing Multi-Agent Workflow...
+[2025-12-04 21:35:29] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-12-04 21:35:29] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-12-04 21:35:29] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-12-04 21:35:29] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-12-04 21:35:33] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-12-04 21:35:33] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-12-04 21:35:36] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-12-04 21:35:36] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-12-04 21:35:36] [INFO] [PostDischargeAssistant] ✓ Tavily client initialized
+[2025-12-04 21:35:36] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized with direct access mode
+[2025-12-04 21:35:36] [INFO] [PostDischargeAssistant] ✓ Receptionist Agent initialized
+[2025-12-04 21:35:36] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-12-04 21:35:36] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-12-04 21:35:36] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-12-04 21:35:36] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-12-04 21:35:39] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-12-04 21:35:39] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-12-04 21:35:40] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-12-04 21:35:40] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-12-04 21:35:40] [INFO] [PostDischargeAssistant] ✓ Tavily client initialized
+[2025-12-04 21:35:40] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized with direct access mode
+[2025-12-04 21:35:40] [INFO] [PostDischargeAssistant] ✓ Clinical Agent initialized
+[2025-12-04 21:35:40] [INFO] [PostDischargeAssistant] ✓ Multi-Agent Workflow ready
+[2025-12-04 21:35:40] [INFO] [PostDischargeAssistant] [APP] New session: cd1b16c4-7825-402b-9d27-c550985e09c5
+[2025-12-04 21:36:02] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: James Lee
+...
+[2025-12-04 21:36:02] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-12-04 21:36:02] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing user message: James Lee
+...
+[2025-12-04 21:36:02] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: James Lee
+...
+[2025-12-04 21:36:04] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data called with params: {'patient_name': 'James Lee', 'method': 'Direct'}
+[2025-12-04 21:36:04] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data result: Retrieving patient data
+[2025-12-04 21:36:04] [INFO] [PostDischargeAssistant] [DATABASE] SELECT: Looking up patient: James Lee
+[2025-12-04 21:36:04] [INFO] [PostDischargeAssistant] ✓ Found patient: James Lee
+[2025-12-04 21:36:04] [INFO] [PostDischargeAssistant] ✓ Retrieved patient data directly for: James Lee
+[2025-12-04 21:36:05] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: False)
+[2025-12-04 21:36:05] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-12-04 21:36:05] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (187 chars)
+[2025-12-04 21:36:18] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: Whats my next meet ?...
+[2025-12-04 21:36:18] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-12-04 21:36:18] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing user message: Whats my next meet ?...
+[2025-12-04 21:36:18] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: Whats my next meet ?...
+[2025-12-04 21:36:22] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data called with params: {'patient_name': 'James Lee', 'method': 'Direct'}
+[2025-12-04 21:36:22] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data result: Retrieving patient data
+[2025-12-04 21:36:22] [INFO] [PostDischargeAssistant] [DATABASE] SELECT: Looking up patient: James Lee
+[2025-12-04 21:36:22] [INFO] [PostDischargeAssistant] ✓ Found patient: James Lee
+[2025-12-04 21:36:22] [INFO] [PostDischargeAssistant] ✓ Retrieved patient data directly for: James Lee
+[2025-12-04 21:36:23] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: False)
+[2025-12-04 21:36:23] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-12-04 21:36:23] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (156 chars)
+[2025-12-04 21:37:03] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: I am having headache and pain in leg and liitle sw...
+[2025-12-04 21:37:03] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-12-04 21:37:03] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing user message: I am having headache and pain in leg and liitle sw...
+[2025-12-04 21:37:03] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: I am having headache and pain in leg and liitle sw...
+[2025-12-04 21:37:05] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: True)
+[2025-12-04 21:37:05] [INFO] [PostDischargeAssistant] [WORKFLOW] Routing to clinical agent
+[2025-12-04 21:37:05] [INFO] [PostDischargeAssistant] [WORKFLOW] Clinical node
+[2025-12-04 21:37:05] [INFO] [PostDischargeAssistant] [WORKFLOW] Passing to clinical: I am having headache and pain in leg and liitle sw...
+[2025-12-04 21:37:05] [INFO] [PostDischargeAssistant] [CLINICAL] Extracted query: I am having headache and pain in leg and liitle sweeling on hand...
+[2025-12-04 21:37:05] [INFO] [PostDischargeAssistant] [CLINICAL] Processing: I am having headache and pain in leg and liitle sw...
+[2025-12-04 21:37:05] [INFO] [PostDischargeAssistant] [CLINICAL] Attempt 1/2
+[2025-12-04 21:37:05] [INFO] [PostDischargeAssistant] [CLINICAL] Invoking agent executor...
+[2025-12-04 21:37:07] [INFO] [PostDischargeAssistant] [CLINICAL] RAG Search: headache leg pain hand swelling kidney disease...
+[2025-12-04 21:37:07] [INFO] [PostDischargeAssistant] [RAG] Query: headache leg pain hand swelling kidney disease
+[2025-12-04 21:37:07] [INFO] [PostDischargeAssistant] [RAG] Retrieved 3 chunks from sources: ['Nephrology Textbook', 'Direct']
+[2025-12-04 21:37:07] [INFO] [PostDischargeAssistant] Searching Pinecone for: 'headache leg pain hand swelling kidney disease'
+[2025-12-04 21:37:07] [INFO] [PostDischargeAssistant]   Top K: 3
+[2025-12-04 21:37:08] [INFO] [PostDischargeAssistant] ✓ Found 3 results
+[2025-12-04 21:37:08] [INFO] [PostDischargeAssistant] ✓ Found 3 relevant chunks for: headache leg pain hand swelling kidney disease
+[2025-12-04 21:37:08] [INFO] [PostDischargeAssistant] [CLINICAL] RAG found 3 results
+[2025-12-04 21:37:12] [INFO] [PostDischargeAssistant] [CLINICAL] Success! Response: 3009 chars
+[2025-12-04 21:37:12] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (3029 chars)
+[2025-12-04 21:37:45] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: Recent news about kidney disease ?...
+[2025-12-04 21:37:45] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-12-04 21:37:45] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing user message: Recent news about kidney disease ?...
+[2025-12-04 21:37:45] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: Recent news about kidney disease ?...
+[2025-12-04 21:37:47] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: True)
+[2025-12-04 21:37:47] [INFO] [PostDischargeAssistant] [WORKFLOW] Routing to clinical agent
+[2025-12-04 21:37:47] [INFO] [PostDischargeAssistant] [WORKFLOW] Clinical node
+[2025-12-04 21:37:47] [INFO] [PostDischargeAssistant] [WORKFLOW] Passing to clinical: Recent news about kidney disease ?...
+[2025-12-04 21:37:47] [INFO] [PostDischargeAssistant] [CLINICAL] Extracted query: Recent news about kidney disease ?...
+[2025-12-04 21:37:47] [INFO] [PostDischargeAssistant] [CLINICAL] Processing: Recent news about kidney disease ?...
+[2025-12-04 21:37:47] [INFO] [PostDischargeAssistant] [CLINICAL] Attempt 1/2
+[2025-12-04 21:37:47] [INFO] [PostDischargeAssistant] [CLINICAL] Invoking agent executor...
+[2025-12-04 21:37:49] [INFO] [PostDischargeAssistant] [CLINICAL] MCP Web Search: recent news about kidney disease...
+[2025-12-04 21:37:49] [ERROR] [PostDischargeAssistant] [ERROR] ClinicalAgent._web_search_wrapper: No module named 'src.mcp.web_search_client'
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\agents\clinical_agent.py", line 105, in _web_search_wrapper
+    from src.mcp.web_search_client import search_web
+ModuleNotFoundError: No module named 'src.mcp.web_search_client'
+[2025-12-04 21:37:49] [INFO] [PostDischargeAssistant] [WEB_SEARCH] Query: recent news about kidney disease
+[2025-12-04 21:37:49] [INFO] [PostDischargeAssistant] [WEB_SEARCH] Found 3 results
+[2025-12-04 21:37:53] [INFO] [PostDischargeAssistant] ✓ Found 3 web results for: recent news about kidney disease
+[2025-12-04 21:37:55] [INFO] [PostDischargeAssistant] [CLINICAL] Success! Response: 1535 chars
+[2025-12-04 21:37:55] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (1555 chars)
+[2025-12-05 16:41:05] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-12-05 16:41:05] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-12-05 16:41:05] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-12-05 16:42:15] [INFO] [PostDischargeAssistant] ✓ Tavily client available
+[2025-12-05 16:42:15] [WARNING] [PostDischargeAssistant] MCP client not available: No module named 'mcp.client.session'; 'mcp.client' is not a package
+[2025-12-05 16:42:15] [INFO] [PostDischargeAssistant] Initializing Multi-Agent Workflow...
+[2025-12-05 16:42:15] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-12-05 16:42:15] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-12-05 16:42:15] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-12-05 16:42:15] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-12-05 16:43:08] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-12-05 16:43:08] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-12-05 16:43:12] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-12-05 16:43:12] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-12-05 16:43:12] [INFO] [PostDischargeAssistant] ✓ Tavily client initialized
+[2025-12-05 16:43:12] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized with direct access mode
+[2025-12-05 16:43:12] [INFO] [PostDischargeAssistant] ✓ Receptionist Agent initialized
+[2025-12-05 16:43:12] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-12-05 16:43:12] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-12-05 16:43:12] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-12-05 16:43:12] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-12-05 16:43:17] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-12-05 16:43:17] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-12-05 16:43:19] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-12-05 16:43:19] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-12-05 16:43:19] [INFO] [PostDischargeAssistant] ✓ Tavily client initialized
+[2025-12-05 16:43:19] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized with direct access mode
+[2025-12-05 16:43:19] [INFO] [PostDischargeAssistant] ✓ Clinical Agent initialized
+[2025-12-05 16:43:19] [INFO] [PostDischargeAssistant] ✓ Multi-Agent Workflow ready
+[2025-12-05 16:43:19] [INFO] [PostDischargeAssistant] [APP] New session: fb96f80f-d39d-41ba-a1f6-c09909a297d8
+[2025-12-05 16:43:34] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: William Moore...
+[2025-12-05 16:43:34] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-12-05 16:43:34] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing user message: William Moore...
+[2025-12-05 16:43:34] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: William Moore...
+[2025-12-05 16:43:36] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data called with params: {'patient_name': 'William Moore', 'method': 'Direct'}
+[2025-12-05 16:43:36] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data result: Retrieving patient data
+[2025-12-05 16:43:36] [INFO] [PostDischargeAssistant] [DATABASE] SELECT: Looking up patient: William Moore
+[2025-12-05 16:43:36] [INFO] [PostDischargeAssistant] ✓ Found patient: William Moore
+[2025-12-05 16:43:36] [INFO] [PostDischargeAssistant] ✓ Retrieved patient data directly for: William Moore
+[2025-12-05 16:43:38] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: False)
+[2025-12-05 16:43:38] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-12-05 16:43:38] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (195 chars)
+[2025-12-05 16:43:52] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: yes i am fine ...
+[2025-12-05 16:43:52] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-12-05 16:43:52] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing user message: yes i am fine ...
+[2025-12-05 16:43:52] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: yes i am fine ...
+[2025-12-05 16:43:54] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: False)
+[2025-12-05 16:43:54] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2025-12-05 16:43:54] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (155 chars)
+[2025-12-05 16:45:06] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: i am suffering from Shortness of breath or difficu...
+[2025-12-05 16:45:06] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-12-05 16:45:06] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing user message: i am suffering from Shortness of breath or difficu...
+[2025-12-05 16:45:06] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: i am suffering from Shortness of breath or difficu...
+[2025-12-05 16:45:08] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: True)
+[2025-12-05 16:45:08] [INFO] [PostDischargeAssistant] [WORKFLOW] Routing to clinical agent
+[2025-12-05 16:45:08] [INFO] [PostDischargeAssistant] [WORKFLOW] Clinical node
+[2025-12-05 16:45:08] [INFO] [PostDischargeAssistant] [WORKFLOW] Passing to clinical: i am suffering from Shortness of breath or difficu...
+[2025-12-05 16:45:08] [INFO] [PostDischargeAssistant] [CLINICAL] Extracted query: i am suffering from Shortness of breath or difficulty breathing - Could indicate fluid overload Conf...
+[2025-12-05 16:45:08] [INFO] [PostDischargeAssistant] [CLINICAL] Processing: i am suffering from Shortness of breath or difficu...
+[2025-12-05 16:45:08] [INFO] [PostDischargeAssistant] [CLINICAL] Attempt 1/2
+[2025-12-05 16:45:08] [INFO] [PostDischargeAssistant] [CLINICAL] Invoking agent executor...
+[2025-12-05 16:45:11] [INFO] [PostDischargeAssistant] [CLINICAL] Success! Response: 192 chars
+[2025-12-05 16:45:11] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (212 chars)
+[2025-12-05 16:45:41] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: what are diet and exercise i can do now ?...
+[2025-12-05 16:45:41] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2025-12-05 16:45:41] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing user message: what are diet and exercise i can do now ?...
+[2025-12-05 16:45:41] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: what are diet and exercise i can do now ?...
+[2025-12-05 16:45:43] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: True)
+[2025-12-05 16:45:43] [INFO] [PostDischargeAssistant] [WORKFLOW] Routing to clinical agent
+[2025-12-05 16:45:43] [INFO] [PostDischargeAssistant] [WORKFLOW] Clinical node
+[2025-12-05 16:45:43] [INFO] [PostDischargeAssistant] [WORKFLOW] Passing to clinical: what are diet and exercise i can do now ?...
+[2025-12-05 16:45:43] [INFO] [PostDischargeAssistant] [CLINICAL] Extracted query: what are diet and exercise i can do now ?...
+[2025-12-05 16:45:43] [INFO] [PostDischargeAssistant] [CLINICAL] Processing: what are diet and exercise i can do now ?...
+[2025-12-05 16:45:43] [INFO] [PostDischargeAssistant] [CLINICAL] Attempt 1/2
+[2025-12-05 16:45:43] [INFO] [PostDischargeAssistant] [CLINICAL] Invoking agent executor...
+[2025-12-05 16:45:45] [INFO] [PostDischargeAssistant] [CLINICAL] Success! Response: 361 chars
+[2025-12-05 16:45:45] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (381 chars)
+[2025-12-31 11:37:10] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-12-31 11:37:10] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-12-31 11:37:10] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-12-31 11:37:12] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-12-31 11:37:12] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-12-31 11:37:16] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-12-31 11:42:19] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-12-31 11:42:19] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-12-31 11:42:19] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-12-31 11:42:58] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-12-31 11:42:58] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-12-31 11:42:58] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-12-31 11:42:58] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-12-31 11:43:02] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-12-31 11:43:02] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-12-31 11:43:05] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-12-31 11:43:05] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-12-31 11:43:06] [INFO] [PostDischargeAssistant] ✓ Tavily client available
+[2025-12-31 11:43:07] [INFO] [PostDischargeAssistant] ✓ MCP client integration available
+[2025-12-31 11:43:07] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-12-31 11:43:07] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-12-31 11:43:07] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-12-31 11:43:07] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-12-31 11:43:10] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-12-31 11:43:10] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-12-31 11:43:12] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-12-31 11:43:12] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-12-31 11:43:12] [INFO] [PostDischargeAssistant] ✓ Tavily client initialized
+[2025-12-31 11:43:12] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized with MCP server integration
+[2025-12-31 11:43:12] [INFO] [PostDischargeAssistant] ✓ Receptionist Agent initialized
+[2025-12-31 11:43:12] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-12-31 11:43:12] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-12-31 11:43:12] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-12-31 11:43:12] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-12-31 11:43:16] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-12-31 11:43:16] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-12-31 11:43:17] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-12-31 11:43:17] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-12-31 11:43:17] [INFO] [PostDischargeAssistant] ✓ Tavily client initialized
+[2025-12-31 11:43:17] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized with MCP server integration
+[2025-12-31 11:43:17] [INFO] [PostDischargeAssistant] ✓ Clinical Agent initialized
+[2025-12-31 11:43:17] [INFO] [PostDischargeAssistant] Initializing Multi-Agent Workflow...
+[2025-12-31 11:43:17] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-12-31 11:43:17] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-12-31 11:43:17] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-12-31 11:43:17] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-12-31 11:43:21] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-12-31 11:43:21] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-12-31 11:43:22] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-12-31 11:43:22] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-12-31 11:43:22] [INFO] [PostDischargeAssistant] ✓ Tavily client initialized
+[2025-12-31 11:43:22] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized with MCP server integration
+[2025-12-31 11:43:22] [INFO] [PostDischargeAssistant] ✓ Receptionist Agent initialized
+[2025-12-31 11:43:22] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2025-12-31 11:43:22] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2025-12-31 11:43:22] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-12-31 11:43:22] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-12-31 11:43:26] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-12-31 11:43:26] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-12-31 11:43:27] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-12-31 11:43:27] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-12-31 11:43:27] [INFO] [PostDischargeAssistant] ✓ Tavily client initialized
+[2025-12-31 11:43:27] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized with MCP server integration
+[2025-12-31 11:43:27] [INFO] [PostDischargeAssistant] ✓ Clinical Agent initialized
+[2025-12-31 11:43:27] [INFO] [PostDischargeAssistant] ✓ Multi-Agent Workflow ready
+[2025-12-31 11:43:45] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-12-31 11:43:45] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-12-31 11:43:45] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-12-31 11:43:46] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-12-31 11:43:46] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-12-31 11:43:49] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-12-31 11:43:49] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-12-31 11:43:52] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-12-31 11:43:52] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-12-31 11:44:19] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-12-31 11:44:19] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-12-31 11:44:19] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-12-31 11:44:28] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-12-31 11:44:28] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-12-31 11:44:32] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-12-31 11:49:26] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-12-31 11:49:26] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-12-31 11:49:26] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-12-31 11:49:28] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-12-31 11:49:28] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-12-31 11:49:32] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-12-31 11:49:32] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-12-31 11:49:35] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-12-31 11:49:35] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-12-31 11:49:55] [INFO] [PostDischargeAssistant] Searching Pinecone for: 'kidney disease treatment'
+[2025-12-31 11:49:56] [INFO] [PostDischargeAssistant]   Top K: 1000
+[2025-12-31 11:50:17] [INFO] [PostDischargeAssistant] ✓ Found 1000 results
+[2025-12-31 11:50:37] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-12-31 11:50:37] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-12-31 11:50:37] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-12-31 11:55:01] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-12-31 11:55:01] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-12-31 11:55:01] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-12-31 11:55:03] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-12-31 11:55:03] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-12-31 11:55:07] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-12-31 11:55:07] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-12-31 11:55:12] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-12-31 11:55:12] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-12-31 11:55:17] [INFO] [PostDischargeAssistant] Searching Pinecone for: 'kidney disease treatment'
+[2025-12-31 11:55:17] [INFO] [PostDischargeAssistant]   Top K: 1000
+[2025-12-31 11:55:19] [INFO] [PostDischargeAssistant] ✓ Found 1000 results
+[2025-12-31 11:55:19] [INFO] [PostDischargeAssistant] Searching Pinecone for: 'dialysis procedure'
+[2025-12-31 11:55:19] [INFO] [PostDischargeAssistant]   Top K: 1000
+[2025-12-31 11:55:20] [INFO] [PostDischargeAssistant] ✓ Found 1000 results
+[2025-12-31 11:55:20] [INFO] [PostDischargeAssistant] Searching Pinecone for: 'chronic renal failure'
+[2025-12-31 11:55:20] [INFO] [PostDischargeAssistant]   Top K: 1000
+[2025-12-31 11:55:21] [INFO] [PostDischargeAssistant] ✓ Found 1000 results
+[2025-12-31 11:55:21] [INFO] [PostDischargeAssistant] Searching Pinecone for: 'nephrology diagnosis'
+[2025-12-31 11:55:21] [INFO] [PostDischargeAssistant]   Top K: 1000
+[2025-12-31 11:55:22] [INFO] [PostDischargeAssistant] ✓ Found 1000 results
+[2025-12-31 11:55:22] [INFO] [PostDischargeAssistant] Searching Pinecone for: 'urinary system'
+[2025-12-31 11:55:22] [INFO] [PostDischargeAssistant]   Top K: 1000
+[2025-12-31 11:55:23] [INFO] [PostDischargeAssistant] ✓ Found 1000 results
+[2025-12-31 11:55:23] [INFO] [PostDischargeAssistant] Searching Pinecone for: 'blood pressure'
+[2025-12-31 11:55:23] [INFO] [PostDischargeAssistant]   Top K: 1000
+[2025-12-31 11:55:24] [INFO] [PostDischargeAssistant] ✓ Found 1000 results
+[2025-12-31 11:55:24] [INFO] [PostDischargeAssistant] Searching Pinecone for: 'protein in urine'
+[2025-12-31 11:55:24] [INFO] [PostDischargeAssistant]   Top K: 1000
+[2025-12-31 11:55:25] [INFO] [PostDischargeAssistant] ✓ Found 1000 results
+[2025-12-31 11:55:25] [INFO] [PostDischargeAssistant] Searching Pinecone for: 'kidney transplant'
+[2025-12-31 11:55:25] [INFO] [PostDischargeAssistant]   Top K: 1000
+[2025-12-31 11:55:26] [INFO] [PostDischargeAssistant] ✓ Found 1000 results
+[2025-12-31 12:00:55] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-12-31 12:00:55] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-12-31 12:00:55] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-12-31 12:00:56] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-12-31 12:00:56] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-12-31 12:01:02] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-12-31 12:01:02] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-12-31 12:02:26] [ERROR] [PostDischargeAssistant] Failed to connect to index: HTTPSConnectionPool(host='api.pinecone.io', port=443): Max retries exceeded with url: /indexes/nephrology-knowledge (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002C3A5C4A6E0>, 'Connection to api.pinecone.io timed out. (connect timeout=None)'))
+[2025-12-31 12:08:09] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-12-31 12:08:09] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-12-31 12:08:09] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-12-31 12:08:11] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-12-31 12:08:11] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-12-31 12:08:17] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-12-31 12:08:17] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-12-31 12:08:20] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-12-31 12:08:20] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-12-31 12:08:26] [INFO] [PostDischargeAssistant] Searching Pinecone for: 'kidney disease treatment'
+[2025-12-31 12:08:26] [INFO] [PostDischargeAssistant]   Top K: 1000
+[2025-12-31 12:08:30] [INFO] [PostDischargeAssistant] ✓ Found 1000 results
+[2025-12-31 12:08:30] [INFO] [PostDischargeAssistant] Searching Pinecone for: 'dialysis procedure'
+[2025-12-31 12:08:30] [INFO] [PostDischargeAssistant]   Top K: 1000
+[2025-12-31 12:08:32] [INFO] [PostDischargeAssistant] ✓ Found 1000 results
+[2025-12-31 12:08:32] [INFO] [PostDischargeAssistant] Searching Pinecone for: 'chronic renal failure'
+[2025-12-31 12:08:32] [INFO] [PostDischargeAssistant]   Top K: 1000
+[2025-12-31 12:08:34] [INFO] [PostDischargeAssistant] ✓ Found 1000 results
+[2025-12-31 12:08:34] [INFO] [PostDischargeAssistant] Searching Pinecone for: 'nephrology diagnosis'
+[2025-12-31 12:08:34] [INFO] [PostDischargeAssistant]   Top K: 1000
+[2025-12-31 12:08:37] [INFO] [PostDischargeAssistant] ✓ Found 1000 results
+[2025-12-31 12:08:37] [INFO] [PostDischargeAssistant] Searching Pinecone for: 'urinary system'
+[2025-12-31 12:08:37] [INFO] [PostDischargeAssistant]   Top K: 1000
+[2025-12-31 12:08:39] [INFO] [PostDischargeAssistant] ✓ Found 1000 results
+[2025-12-31 12:08:39] [INFO] [PostDischargeAssistant] Searching Pinecone for: 'blood pressure'
+[2025-12-31 12:08:39] [INFO] [PostDischargeAssistant]   Top K: 1000
+[2025-12-31 12:08:42] [INFO] [PostDischargeAssistant] ✓ Found 1000 results
+[2025-12-31 12:08:42] [INFO] [PostDischargeAssistant] Searching Pinecone for: 'protein in urine'
+[2025-12-31 12:08:42] [INFO] [PostDischargeAssistant]   Top K: 1000
+[2025-12-31 12:08:44] [INFO] [PostDischargeAssistant] ✓ Found 1000 results
+[2025-12-31 12:08:44] [INFO] [PostDischargeAssistant] Searching Pinecone for: 'kidney transplant'
+[2025-12-31 12:08:44] [INFO] [PostDischargeAssistant]   Top K: 1000
+[2025-12-31 12:08:48] [INFO] [PostDischargeAssistant] ✓ Found 1000 results
+[2025-12-31 12:11:15] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-12-31 12:11:15] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-12-31 12:11:15] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-12-31 12:11:17] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-12-31 12:11:17] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-12-31 12:11:21] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2025-12-31 12:11:21] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2025-12-31 12:11:24] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2025-12-31 12:11:24] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2025-12-31 12:11:29] [INFO] [PostDischargeAssistant] Searching Pinecone for: 'kidney disease treatment'
+[2025-12-31 12:11:29] [INFO] [PostDischargeAssistant]   Top K: 1000
+[2025-12-31 12:11:35] [INFO] [PostDischargeAssistant] ✓ Found 1000 results
+[2025-12-31 12:11:35] [INFO] [PostDischargeAssistant] Searching Pinecone for: 'dialysis procedure'
+[2025-12-31 12:11:35] [INFO] [PostDischargeAssistant]   Top K: 1000
+[2025-12-31 12:11:37] [INFO] [PostDischargeAssistant] ✓ Found 1000 results
+[2025-12-31 12:11:37] [INFO] [PostDischargeAssistant] Searching Pinecone for: 'chronic renal failure'
+[2025-12-31 12:11:37] [INFO] [PostDischargeAssistant]   Top K: 1000
+[2025-12-31 12:11:39] [INFO] [PostDischargeAssistant] ✓ Found 1000 results
+[2025-12-31 12:11:39] [INFO] [PostDischargeAssistant] Searching Pinecone for: 'nephrology diagnosis'
+[2025-12-31 12:11:39] [INFO] [PostDischargeAssistant]   Top K: 1000
+[2025-12-31 12:11:42] [INFO] [PostDischargeAssistant] ✓ Found 1000 results
+[2025-12-31 12:11:42] [INFO] [PostDischargeAssistant] Searching Pinecone for: 'urinary system'
+[2025-12-31 12:11:42] [INFO] [PostDischargeAssistant]   Top K: 1000
+[2025-12-31 12:11:44] [INFO] [PostDischargeAssistant] ✓ Found 1000 results
+[2025-12-31 12:11:44] [INFO] [PostDischargeAssistant] Searching Pinecone for: 'blood pressure'
+[2025-12-31 12:11:44] [INFO] [PostDischargeAssistant]   Top K: 1000
+[2025-12-31 12:11:47] [INFO] [PostDischargeAssistant] ✓ Found 1000 results
+[2025-12-31 12:11:47] [INFO] [PostDischargeAssistant] Searching Pinecone for: 'protein in urine'
+[2025-12-31 12:11:47] [INFO] [PostDischargeAssistant]   Top K: 1000
+[2025-12-31 12:11:51] [INFO] [PostDischargeAssistant] ✓ Found 1000 results
+[2025-12-31 12:11:51] [INFO] [PostDischargeAssistant] Searching Pinecone for: 'kidney transplant'
+[2025-12-31 12:11:51] [INFO] [PostDischargeAssistant]   Top K: 1000
+[2025-12-31 12:11:52] [INFO] [PostDischargeAssistant] ✓ Found 1000 results
+[2025-12-31 12:14:19] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-12-31 12:14:19] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2025-12-31 12:14:19] [INFO] [PostDischargeAssistant] ================================================================================
+[2025-12-31 12:14:21] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2025-12-31 12:14:21] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2025-12-31 12:14:25] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2026-01-08 11:53:22] [INFO] [PostDischargeAssistant] ================================================================================
+[2026-01-08 11:53:22] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2026-01-08 11:53:22] [INFO] [PostDischargeAssistant] ================================================================================
+[2026-01-08 11:53:49] [INFO] [PostDischargeAssistant] ================================================================================
+[2026-01-08 11:53:49] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2026-01-08 11:53:49] [INFO] [PostDischargeAssistant] ================================================================================
+[2026-01-08 11:54:12] [INFO] [PostDischargeAssistant] ✓ Tavily client available
+[2026-01-08 11:54:12] [WARNING] [PostDischargeAssistant] MCP client not available: No module named 'mcp.client.session'; 'mcp.client' is not a package
+[2026-01-08 11:54:12] [INFO] [PostDischargeAssistant] Initializing Multi-Agent Workflow...
+[2026-01-08 11:54:12] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2026-01-08 11:54:12] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2026-01-08 11:54:12] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2026-01-08 11:54:12] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2026-01-08 11:54:15] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2026-01-08 11:54:15] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2026-01-08 11:54:18] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2026-01-08 11:54:18] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2026-01-08 11:54:18] [INFO] [PostDischargeAssistant] ✓ Tavily client initialized
+[2026-01-08 11:54:18] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized with direct access mode
+[2026-01-08 11:54:18] [INFO] [PostDischargeAssistant] ✓ Receptionist Agent initialized
+[2026-01-08 11:54:18] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2026-01-08 11:54:18] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2026-01-08 11:54:18] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2026-01-08 11:54:18] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2026-01-08 11:54:22] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2026-01-08 11:54:22] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2026-01-08 11:54:23] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2026-01-08 11:54:23] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2026-01-08 11:54:23] [INFO] [PostDischargeAssistant] ✓ Tavily client initialized
+[2026-01-08 11:54:23] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized with direct access mode
+[2026-01-08 11:54:23] [INFO] [PostDischargeAssistant] ✓ Clinical Agent initialized
+[2026-01-08 11:54:23] [INFO] [PostDischargeAssistant] ✓ Multi-Agent Workflow ready
+[2026-01-08 11:54:23] [INFO] [PostDischargeAssistant] [APP] New session: a6b20127-a770-4bf3-a747-907d27fe4212
+[2026-01-08 11:55:36] [INFO] [PostDischargeAssistant] ================================================================================
+[2026-01-08 11:55:36] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2026-01-08 11:55:36] [INFO] [PostDischargeAssistant] ================================================================================
+[2026-01-08 11:55:53] [INFO] [PostDischargeAssistant] ✓ Tavily client available
+[2026-01-08 11:55:53] [WARNING] [PostDischargeAssistant] MCP client not available: No module named 'mcp.client.session'; 'mcp.client' is not a package
+[2026-01-08 11:55:53] [INFO] [PostDischargeAssistant] Initializing Multi-Agent Workflow...
+[2026-01-08 11:55:53] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2026-01-08 11:55:53] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2026-01-08 11:55:53] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2026-01-08 11:55:53] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2026-01-08 11:55:57] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2026-01-08 11:55:57] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2026-01-08 11:56:00] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2026-01-08 11:56:00] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2026-01-08 11:56:00] [INFO] [PostDischargeAssistant] ✓ Tavily client initialized
+[2026-01-08 11:56:00] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized with direct access mode
+[2026-01-08 11:56:00] [INFO] [PostDischargeAssistant] ✓ Receptionist Agent initialized
+[2026-01-08 11:56:00] [INFO] [PostDischargeAssistant] Initializing database at: C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\data\patients.db
+[2026-01-08 11:56:00] [INFO] [PostDischargeAssistant] ✓ Database initialized successfully
+[2026-01-08 11:56:00] [INFO] [PostDischargeAssistant] Initializing Pinecone client...
+[2026-01-08 11:56:00] [INFO] [PostDischargeAssistant] Loading embedding model: all-MiniLM-L6-v2
+[2026-01-08 11:56:05] [INFO] [PostDischargeAssistant] ✓ Embedding model loaded (dimension: 384)
+[2026-01-08 11:56:05] [INFO] [PostDischargeAssistant] Connecting to index: nephrology-knowledge
+[2026-01-08 11:56:06] [INFO] [PostDischargeAssistant] ✓ Connected to index 'nephrology-knowledge'
+[2026-01-08 11:56:06] [INFO] [PostDischargeAssistant]   Total vectors: 12562
+[2026-01-08 11:56:06] [INFO] [PostDischargeAssistant] ✓ Tavily client initialized
+[2026-01-08 11:56:06] [INFO] [PostDischargeAssistant] ✓ MCP Tools initialized with direct access mode
+[2026-01-08 11:56:06] [INFO] [PostDischargeAssistant] ✓ Clinical Agent initialized
+[2026-01-08 11:56:06] [INFO] [PostDischargeAssistant] ✓ Multi-Agent Workflow ready
+[2026-01-08 11:56:06] [INFO] [PostDischargeAssistant] [APP] New session: 0413f2fd-cf6c-4068-80e4-1e9642029100
+[2026-01-08 11:56:18] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: hi
+...
+[2026-01-08 11:56:18] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2026-01-08 11:56:18] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing user message: hi
+...
+[2026-01-08 11:56:18] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: hi
+...
+[2026-01-08 11:56:20] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: False)
+[2026-01-08 11:56:20] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2026-01-08 11:56:20] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (88 chars)
+[2026-01-08 11:56:51] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: William Moore...
+[2026-01-08 11:56:51] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2026-01-08 11:56:51] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing user message: William Moore...
+[2026-01-08 11:56:51] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: William Moore...
+[2026-01-08 11:56:53] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data called with params: {'patient_name': 'William Moore', 'method': 'Direct'}
+[2026-01-08 11:56:53] [INFO] [PostDischargeAssistant] [TOOL] get_patient_data result: Retrieving patient data
+[2026-01-08 11:56:53] [INFO] [PostDischargeAssistant] [DATABASE] SELECT: Looking up patient: William Moore
+[2026-01-08 11:56:53] [INFO] [PostDischargeAssistant] ✓ Found patient: William Moore
+[2026-01-08 11:56:53] [INFO] [PostDischargeAssistant] ✓ Retrieved patient data directly for: William Moore
+[2026-01-08 11:56:54] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: False)
+[2026-01-08 11:56:54] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2026-01-08 11:56:54] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (212 chars)
+[2026-01-08 11:57:05] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: yes
+
+...
+[2026-01-08 11:57:05] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2026-01-08 11:57:05] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing user message: yes
+
+...
+[2026-01-08 11:57:05] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: yes
+
+...
+[2026-01-08 11:57:06] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: False)
+[2026-01-08 11:57:06] [INFO] [PostDischargeAssistant] [WORKFLOW] Ending at receptionist
+[2026-01-08 11:57:06] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (174 chars)
+[2026-01-08 11:57:29] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: i am having feeling drizzy since  a week ?...
+[2026-01-08 11:57:29] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2026-01-08 11:57:29] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing user message: i am having feeling drizzy since  a week ?...
+[2026-01-08 11:57:29] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: i am having feeling drizzy since  a week ?...
+[2026-01-08 11:57:30] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: True)
+[2026-01-08 11:57:30] [INFO] [PostDischargeAssistant] [WORKFLOW] Routing to clinical agent
+[2026-01-08 11:57:30] [INFO] [PostDischargeAssistant] [WORKFLOW] Clinical node
+[2026-01-08 11:57:30] [INFO] [PostDischargeAssistant] [WORKFLOW] Passing to clinical: i am having feeling drizzy since  a week ?...
+[2026-01-08 11:57:30] [INFO] [PostDischargeAssistant] [CLINICAL] Extracted query: i am having feeling drizzy since a week ?...
+[2026-01-08 11:57:30] [INFO] [PostDischargeAssistant] [CLINICAL] Processing: i am having feeling drizzy since a week ?...
+[2026-01-08 11:57:30] [INFO] [PostDischargeAssistant] [CLINICAL] Attempt 1/2
+[2026-01-08 11:57:30] [INFO] [PostDischargeAssistant] [CLINICAL] Invoking agent executor...
+[2026-01-08 11:57:33] [INFO] [PostDischargeAssistant] [CLINICAL] RAG Search: dizziness causes kidney disease...
+[2026-01-08 11:57:33] [INFO] [PostDischargeAssistant] [RAG] Query: dizziness causes kidney disease
+[2026-01-08 11:57:33] [INFO] [PostDischargeAssistant] [RAG] Retrieved 3 chunks from sources: ['Nephrology Textbook', 'Direct']
+[2026-01-08 11:57:33] [INFO] [PostDischargeAssistant] Searching Pinecone for: 'dizziness causes kidney disease'
+[2026-01-08 11:57:33] [INFO] [PostDischargeAssistant]   Top K: 3
+[2026-01-08 11:57:34] [INFO] [PostDischargeAssistant] ✓ Found 3 results
+[2026-01-08 11:57:34] [INFO] [PostDischargeAssistant] ✓ Found 3 relevant chunks for: dizziness causes kidney disease
+[2026-01-08 11:57:34] [INFO] [PostDischargeAssistant] [CLINICAL] RAG found 3 results
+[2026-01-08 11:57:38] [INFO] [PostDischargeAssistant] [CLINICAL] Success! Response: 1764 chars
+[2026-01-08 11:57:38] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (1784 chars)
+[2026-01-08 11:58:13] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: Whats latest reserch on  Chronic Kidney Disease St...
+[2026-01-08 11:58:13] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2026-01-08 11:58:13] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing user message: Whats latest reserch on  Chronic Kidney Disease St...
+[2026-01-08 11:58:13] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: Whats latest reserch on  Chronic Kidney Disease St...
+[2026-01-08 11:58:14] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: True)
+[2026-01-08 11:58:14] [INFO] [PostDischargeAssistant] [WORKFLOW] Routing to clinical agent
+[2026-01-08 11:58:14] [INFO] [PostDischargeAssistant] [WORKFLOW] Clinical node
+[2026-01-08 11:58:14] [INFO] [PostDischargeAssistant] [WORKFLOW] Passing to clinical: Whats latest reserch on  Chronic Kidney Disease St...
+[2026-01-08 11:58:14] [INFO] [PostDischargeAssistant] [CLINICAL] Extracted query: Whats latest reserch on Chronic Kidney Disease Stage 4 ?...
+[2026-01-08 11:58:14] [INFO] [PostDischargeAssistant] [CLINICAL] Processing: Whats latest reserch on Chronic Kidney Disease Sta...
+[2026-01-08 11:58:14] [INFO] [PostDischargeAssistant] [CLINICAL] Attempt 1/2
+[2026-01-08 11:58:14] [INFO] [PostDischargeAssistant] [CLINICAL] Invoking agent executor...
+[2026-01-08 11:58:16] [INFO] [PostDischargeAssistant] [CLINICAL] MCP Web Search: latest research on Chronic Kidney Disease Stage 4...
+[2026-01-08 11:58:16] [ERROR] [PostDischargeAssistant] [ERROR] ClinicalAgent._web_search_wrapper: No module named 'src.mcp.web_search_client'
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\agents\clinical_agent.py", line 105, in _web_search_wrapper
+    from src.mcp.web_search_client import search_web
+ModuleNotFoundError: No module named 'src.mcp.web_search_client'
+[2026-01-08 11:58:16] [INFO] [PostDischargeAssistant] [WEB_SEARCH] Query: latest research on Chronic Kidney Disease Stage 4
+[2026-01-08 11:58:16] [INFO] [PostDischargeAssistant] [WEB_SEARCH] Found 3 results
+[2026-01-08 11:58:20] [INFO] [PostDischargeAssistant] ✓ Found 3 web results for: latest research on Chronic Kidney Disease Stage 4
+[2026-01-08 11:58:23] [INFO] [PostDischargeAssistant] [CLINICAL] Success! Response: 1411 chars
+[2026-01-08 11:58:23] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (1431 chars)
+[2026-01-08 11:59:08] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing message: i am having headache little bit ?
+...
+[2026-01-08 11:59:08] [INFO] [PostDischargeAssistant] [WORKFLOW] Receptionist node
+[2026-01-08 11:59:08] [INFO] [PostDischargeAssistant] [WORKFLOW] Processing user message: i am having headache little bit ?
+...
+[2026-01-08 11:59:08] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Processing: i am having headache little bit ?
+...
+[2026-01-08 11:59:10] [INFO] [PostDischargeAssistant] [RECEPTIONIST] Response generated (routing: True)
+[2026-01-08 11:59:10] [INFO] [PostDischargeAssistant] [WORKFLOW] Routing to clinical agent
+[2026-01-08 11:59:10] [INFO] [PostDischargeAssistant] [WORKFLOW] Clinical node
+[2026-01-08 11:59:10] [INFO] [PostDischargeAssistant] [WORKFLOW] Passing to clinical: i am having headache little bit ?
+...
+[2026-01-08 11:59:10] [INFO] [PostDischargeAssistant] [CLINICAL] Extracted query: i am having headache little bit ?...
+[2026-01-08 11:59:10] [INFO] [PostDischargeAssistant] [CLINICAL] Processing: i am having headache little bit ?...
+[2026-01-08 11:59:10] [INFO] [PostDischargeAssistant] [CLINICAL] Attempt 1/2
+[2026-01-08 11:59:10] [INFO] [PostDischargeAssistant] [CLINICAL] Invoking agent executor...
+[2026-01-08 11:59:12] [INFO] [PostDischargeAssistant] [CLINICAL] RAG Search: headache kidney disease...
+[2026-01-08 11:59:12] [INFO] [PostDischargeAssistant] [RAG] Query: headache kidney disease
+[2026-01-08 11:59:12] [INFO] [PostDischargeAssistant] [RAG] Retrieved 3 chunks from sources: ['Nephrology Textbook', 'Direct']
+[2026-01-08 11:59:12] [INFO] [PostDischargeAssistant] Searching Pinecone for: 'headache kidney disease'
+[2026-01-08 11:59:12] [INFO] [PostDischargeAssistant]   Top K: 3
+[2026-01-08 11:59:14] [INFO] [PostDischargeAssistant] ✓ Found 3 results
+[2026-01-08 11:59:14] [INFO] [PostDischargeAssistant] ✓ Found 3 relevant chunks for: headache kidney disease
+[2026-01-08 11:59:14] [INFO] [PostDischargeAssistant] [CLINICAL] RAG found 3 results
+[2026-01-08 11:59:17] [INFO] [PostDischargeAssistant] [CLINICAL] Success! Response: 1653 chars
+[2026-01-08 11:59:17] [INFO] [PostDischargeAssistant] [WORKFLOW] Response generated (1673 chars)
+[2026-01-08 12:09:00] [INFO] [PostDischargeAssistant] ================================================================================
+[2026-01-08 12:09:00] [INFO] [PostDischargeAssistant] System Logger Initialized
+[2026-01-08 12:09:00] [INFO] [PostDischargeAssistant] ================================================================================
+[2026-01-08 12:09:00] [INFO] [PostDischargeAssistant] ✓ Query Transformer initialized
+[2026-01-08 12:09:00] [INFO] [PostDischargeAssistant] [QUERY_TRANSFORM] Transforming query (mode: auto)
+[2026-01-08 12:09:00] [INFO] [PostDischargeAssistant] [QUERY_TRANSFORM] Rewriting: What are my medications?...
+[2026-01-08 12:09:03] [ERROR] [PostDischargeAssistant] [ERROR] QueryTransformer.rewrite_query: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+Please retry in 16.536626642s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 16
+}
+]
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\query_transformer.py", line 211, in rewrite_query
+    response = chain.invoke({"query": query})
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3047, in invoke
+    input_ = context.run(step.invoke, input_, config)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 378, in invoke
+    self.generate_prompt(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 963, in generate_prompt
+    return self.generate(prompt_messages, stop=stop, callbacks=callbacks, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 782, in generate
+    self._generate_with_cache(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 1028, in _generate_with_cache
+    result = self._generate(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 949, in _generate
+    response: GenerateContentResponse = _chat_with_retry(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 196, in _chat_with_retry
+    return _chat_with_retry(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 338, in wrapped_f
+    return copy(f, *args, **kw)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 378, in iter
+    result = action(retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 420, in exc_check
+    raise retry_exc.reraise()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 187, in reraise
+    raise self.last_attempt.result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 439, in result
+    return self.__get_result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 391, in __get_result
+    raise self._exception
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 194, in _chat_with_retry
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 178, in _chat_with_retry
+    return generation_method(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\client.py", line 835, in generate_content
+    response = rpc(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\gapic_v1\method.py", line 131, in __call__
+    return wrapped_func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 294, in retry_wrapped_func
+    return retry_target(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 156, in retry_target
+    next_sleep = _retry_error_helper(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_base.py", line 214, in _retry_error_helper
+    raise final_exc from source_exc
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 147, in retry_target
+    result = target()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\timeout.py", line 130, in func_with_timeout
+    return func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\grpc_helpers.py", line 77, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+Please retry in 16.536626642s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 16
+}
+]
+[2026-01-08 12:09:03] [INFO] [PostDischargeAssistant] [QUERY_TRANSFORM] Transforming query (mode: auto)
+[2026-01-08 12:09:03] [INFO] [PostDischargeAssistant] [QUERY_TRANSFORM] Decomposing: What medications should I take, what are the side ...
+[2026-01-08 12:09:05] [ERROR] [PostDischargeAssistant] [ERROR] QueryTransformer.decompose_query: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash-exp
+Please retry in 14.07513528s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 14
+}
+]
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\query_transformer.py", line 116, in decompose_query
+    response = chain.invoke({"query": query})
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3047, in invoke
+    input_ = context.run(step.invoke, input_, config)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 378, in invoke
+    self.generate_prompt(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 963, in generate_prompt
+    return self.generate(prompt_messages, stop=stop, callbacks=callbacks, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 782, in generate
+    self._generate_with_cache(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 1028, in _generate_with_cache
+    result = self._generate(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 949, in _generate
+    response: GenerateContentResponse = _chat_with_retry(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 196, in _chat_with_retry
+    return _chat_with_retry(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 338, in wrapped_f
+    return copy(f, *args, **kw)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 378, in iter
+    result = action(retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 420, in exc_check
+    raise retry_exc.reraise()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 187, in reraise
+    raise self.last_attempt.result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 439, in result
+    return self.__get_result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 391, in __get_result
+    raise self._exception
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 194, in _chat_with_retry
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 178, in _chat_with_retry
+    return generation_method(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\client.py", line 835, in generate_content
+    response = rpc(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\gapic_v1\method.py", line 131, in __call__
+    return wrapped_func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 294, in retry_wrapped_func
+    return retry_target(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 156, in retry_target
+    next_sleep = _retry_error_helper(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_base.py", line 214, in _retry_error_helper
+    raise final_exc from source_exc
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 147, in retry_target
+    result = target()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\timeout.py", line 130, in func_with_timeout
+    return func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\grpc_helpers.py", line 77, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash-exp
+Please retry in 14.07513528s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 14
+}
+]
+[2026-01-08 12:09:05] [INFO] [PostDischargeAssistant] [QUERY_TRANSFORM] Transforming query (mode: auto)
+[2026-01-08 12:09:05] [INFO] [PostDischargeAssistant] [QUERY_TRANSFORM] Rewriting: When do I need to go to ER?...
+[2026-01-08 12:09:08] [ERROR] [PostDischargeAssistant] [ERROR] QueryTransformer.rewrite_query: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash-exp
+Please retry in 11.600722728s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 11
+}
+]
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\query_transformer.py", line 211, in rewrite_query
+    response = chain.invoke({"query": query})
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3047, in invoke
+    input_ = context.run(step.invoke, input_, config)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 378, in invoke
+    self.generate_prompt(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 963, in generate_prompt
+    return self.generate(prompt_messages, stop=stop, callbacks=callbacks, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 782, in generate
+    self._generate_with_cache(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 1028, in _generate_with_cache
+    result = self._generate(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 949, in _generate
+    response: GenerateContentResponse = _chat_with_retry(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 196, in _chat_with_retry
+    return _chat_with_retry(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 338, in wrapped_f
+    return copy(f, *args, **kw)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 378, in iter
+    result = action(retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 420, in exc_check
+    raise retry_exc.reraise()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 187, in reraise
+    raise self.last_attempt.result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 439, in result
+    return self.__get_result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 391, in __get_result
+    raise self._exception
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 194, in _chat_with_retry
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 178, in _chat_with_retry
+    return generation_method(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\client.py", line 835, in generate_content
+    response = rpc(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\gapic_v1\method.py", line 131, in __call__
+    return wrapped_func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 294, in retry_wrapped_func
+    return retry_target(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 156, in retry_target
+    next_sleep = _retry_error_helper(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_base.py", line 214, in _retry_error_helper
+    raise final_exc from source_exc
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 147, in retry_target
+    result = target()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\timeout.py", line 130, in func_with_timeout
+    return func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\grpc_helpers.py", line 77, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash-exp
+Please retry in 11.600722728s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 11
+}
+]
+[2026-01-08 12:09:08] [INFO] [PostDischargeAssistant] [QUERY_TRANSFORM] Transforming query (mode: auto)
+[2026-01-08 12:09:08] [INFO] [PostDischargeAssistant] [QUERY_TRANSFORM] Decomposing: What should I eat and what should I avoid in my di...
+[2026-01-08 12:09:10] [ERROR] [PostDischargeAssistant] [ERROR] QueryTransformer.decompose_query: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+Please retry in 9.102271661s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 9
+}
+]
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\query_transformer.py", line 116, in decompose_query
+    response = chain.invoke({"query": query})
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3047, in invoke
+    input_ = context.run(step.invoke, input_, config)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 378, in invoke
+    self.generate_prompt(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 963, in generate_prompt
+    return self.generate(prompt_messages, stop=stop, callbacks=callbacks, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 782, in generate
+    self._generate_with_cache(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 1028, in _generate_with_cache
+    result = self._generate(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 949, in _generate
+    response: GenerateContentResponse = _chat_with_retry(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 196, in _chat_with_retry
+    return _chat_with_retry(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 338, in wrapped_f
+    return copy(f, *args, **kw)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 378, in iter
+    result = action(retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 420, in exc_check
+    raise retry_exc.reraise()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 187, in reraise
+    raise self.last_attempt.result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 439, in result
+    return self.__get_result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 391, in __get_result
+    raise self._exception
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 194, in _chat_with_retry
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 178, in _chat_with_retry
+    return generation_method(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\client.py", line 835, in generate_content
+    response = rpc(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\gapic_v1\method.py", line 131, in __call__
+    return wrapped_func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 294, in retry_wrapped_func
+    return retry_target(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 156, in retry_target
+    next_sleep = _retry_error_helper(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_base.py", line 214, in _retry_error_helper
+    raise final_exc from source_exc
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 147, in retry_target
+    result = target()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\timeout.py", line 130, in func_with_timeout
+    return func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\grpc_helpers.py", line 77, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+Please retry in 9.102271661s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 9
+}
+]
+[2026-01-08 12:09:10] [INFO] [PostDischargeAssistant] ✓ Query Transformer initialized
+[2026-01-08 12:09:10] [INFO] [PostDischargeAssistant] [QUERY_TRANSFORM] Decomposing: What are the side effects of my medication and whe...
+[2026-01-08 12:09:13] [ERROR] [PostDischargeAssistant] [ERROR] QueryTransformer.decompose_query: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash-exp
+Please retry in 6.315664562s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 6
+}
+]
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\query_transformer.py", line 116, in decompose_query
+    response = chain.invoke({"query": query})
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3047, in invoke
+    input_ = context.run(step.invoke, input_, config)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 378, in invoke
+    self.generate_prompt(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 963, in generate_prompt
+    return self.generate(prompt_messages, stop=stop, callbacks=callbacks, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 782, in generate
+    self._generate_with_cache(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 1028, in _generate_with_cache
+    result = self._generate(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 949, in _generate
+    response: GenerateContentResponse = _chat_with_retry(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 196, in _chat_with_retry
+    return _chat_with_retry(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 338, in wrapped_f
+    return copy(f, *args, **kw)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 378, in iter
+    result = action(retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 420, in exc_check
+    raise retry_exc.reraise()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 187, in reraise
+    raise self.last_attempt.result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 439, in result
+    return self.__get_result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 391, in __get_result
+    raise self._exception
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 194, in _chat_with_retry
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 178, in _chat_with_retry
+    return generation_method(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\client.py", line 835, in generate_content
+    response = rpc(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\gapic_v1\method.py", line 131, in __call__
+    return wrapped_func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 294, in retry_wrapped_func
+    return retry_target(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 156, in retry_target
+    next_sleep = _retry_error_helper(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_base.py", line 214, in _retry_error_helper
+    raise final_exc from source_exc
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 147, in retry_target
+    result = target()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\timeout.py", line 130, in func_with_timeout
+    return func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\grpc_helpers.py", line 77, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash-exp
+Please retry in 6.315664562s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 6
+}
+]
+[2026-01-08 12:09:13] [INFO] [PostDischargeAssistant] [QUERY_TRANSFORM] Generating variations: What are the side effects of my medication and whe...
+[2026-01-08 12:09:16] [ERROR] [PostDischargeAssistant] [ERROR] QueryTransformer.generate_multi_queries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+Please retry in 3.823877206s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 3
+}
+]
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\query_transformer.py", line 164, in generate_multi_queries
+    response = chain.invoke({"query": query})
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3047, in invoke
+    input_ = context.run(step.invoke, input_, config)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 378, in invoke
+    self.generate_prompt(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 963, in generate_prompt
+    return self.generate(prompt_messages, stop=stop, callbacks=callbacks, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 782, in generate
+    self._generate_with_cache(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 1028, in _generate_with_cache
+    result = self._generate(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 949, in _generate
+    response: GenerateContentResponse = _chat_with_retry(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 196, in _chat_with_retry
+    return _chat_with_retry(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 338, in wrapped_f
+    return copy(f, *args, **kw)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 378, in iter
+    result = action(retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 420, in exc_check
+    raise retry_exc.reraise()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 187, in reraise
+    raise self.last_attempt.result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 439, in result
+    return self.__get_result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 391, in __get_result
+    raise self._exception
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 194, in _chat_with_retry
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 178, in _chat_with_retry
+    return generation_method(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\client.py", line 835, in generate_content
+    response = rpc(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\gapic_v1\method.py", line 131, in __call__
+    return wrapped_func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 294, in retry_wrapped_func
+    return retry_target(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 156, in retry_target
+    next_sleep = _retry_error_helper(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_base.py", line 214, in _retry_error_helper
+    raise final_exc from source_exc
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 147, in retry_target
+    result = target()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\timeout.py", line 130, in func_with_timeout
+    return func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\grpc_helpers.py", line 77, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+Please retry in 3.823877206s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 3
+}
+]
+[2026-01-08 12:09:16] [INFO] [PostDischargeAssistant] [QUERY_TRANSFORM] Rewriting: What are the side effects of my medication and whe...
+[2026-01-08 12:09:18] [ERROR] [PostDischargeAssistant] [ERROR] QueryTransformer.rewrite_query: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash-exp
+Please retry in 1.298383655s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 1
+}
+]
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\query_transformer.py", line 211, in rewrite_query
+    response = chain.invoke({"query": query})
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3047, in invoke
+    input_ = context.run(step.invoke, input_, config)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 378, in invoke
+    self.generate_prompt(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 963, in generate_prompt
+    return self.generate(prompt_messages, stop=stop, callbacks=callbacks, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 782, in generate
+    self._generate_with_cache(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 1028, in _generate_with_cache
+    result = self._generate(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 949, in _generate
+    response: GenerateContentResponse = _chat_with_retry(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 196, in _chat_with_retry
+    return _chat_with_retry(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 338, in wrapped_f
+    return copy(f, *args, **kw)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 378, in iter
+    result = action(retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 420, in exc_check
+    raise retry_exc.reraise()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 187, in reraise
+    raise self.last_attempt.result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 439, in result
+    return self.__get_result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 391, in __get_result
+    raise self._exception
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 194, in _chat_with_retry
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 178, in _chat_with_retry
+    return generation_method(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\client.py", line 835, in generate_content
+    response = rpc(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\gapic_v1\method.py", line 131, in __call__
+    return wrapped_func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 294, in retry_wrapped_func
+    return retry_target(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 156, in retry_target
+    next_sleep = _retry_error_helper(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_base.py", line 214, in _retry_error_helper
+    raise final_exc from source_exc
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 147, in retry_target
+    result = target()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\timeout.py", line 130, in func_with_timeout
+    return func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\grpc_helpers.py", line 77, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash-exp
+Please retry in 1.298383655s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 1
+}
+]
+[2026-01-08 12:09:18] [INFO] [PostDischargeAssistant] [QUERY_TRANSFORM] Transforming query (mode: all)
+[2026-01-08 12:09:18] [INFO] [PostDischargeAssistant] [QUERY_TRANSFORM] Decomposing: What are the side effects of my medication and whe...
+[2026-01-08 12:09:21] [ERROR] [PostDischargeAssistant] [ERROR] QueryTransformer.decompose_query: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+Please retry in 58.823133924s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 58
+}
+]
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\query_transformer.py", line 116, in decompose_query
+    response = chain.invoke({"query": query})
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3047, in invoke
+    input_ = context.run(step.invoke, input_, config)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 378, in invoke
+    self.generate_prompt(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 963, in generate_prompt
+    return self.generate(prompt_messages, stop=stop, callbacks=callbacks, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 782, in generate
+    self._generate_with_cache(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 1028, in _generate_with_cache
+    result = self._generate(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 949, in _generate
+    response: GenerateContentResponse = _chat_with_retry(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 196, in _chat_with_retry
+    return _chat_with_retry(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 338, in wrapped_f
+    return copy(f, *args, **kw)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 378, in iter
+    result = action(retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 420, in exc_check
+    raise retry_exc.reraise()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 187, in reraise
+    raise self.last_attempt.result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 439, in result
+    return self.__get_result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 391, in __get_result
+    raise self._exception
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 194, in _chat_with_retry
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 178, in _chat_with_retry
+    return generation_method(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\client.py", line 835, in generate_content
+    response = rpc(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\gapic_v1\method.py", line 131, in __call__
+    return wrapped_func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 294, in retry_wrapped_func
+    return retry_target(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 156, in retry_target
+    next_sleep = _retry_error_helper(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_base.py", line 214, in _retry_error_helper
+    raise final_exc from source_exc
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 147, in retry_target
+    result = target()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\timeout.py", line 130, in func_with_timeout
+    return func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\grpc_helpers.py", line 77, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+Please retry in 58.823133924s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 58
+}
+]
+[2026-01-08 12:09:21] [INFO] [PostDischargeAssistant] [QUERY_TRANSFORM] Generating variations: What are the side effects of my medication and whe...
+[2026-01-08 12:09:23] [ERROR] [PostDischargeAssistant] [ERROR] QueryTransformer.generate_multi_queries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+Please retry in 56.329544833s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 56
+}
+]
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\query_transformer.py", line 164, in generate_multi_queries
+    response = chain.invoke({"query": query})
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3047, in invoke
+    input_ = context.run(step.invoke, input_, config)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 378, in invoke
+    self.generate_prompt(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 963, in generate_prompt
+    return self.generate(prompt_messages, stop=stop, callbacks=callbacks, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 782, in generate
+    self._generate_with_cache(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 1028, in _generate_with_cache
+    result = self._generate(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 949, in _generate
+    response: GenerateContentResponse = _chat_with_retry(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 196, in _chat_with_retry
+    return _chat_with_retry(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 338, in wrapped_f
+    return copy(f, *args, **kw)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 378, in iter
+    result = action(retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 420, in exc_check
+    raise retry_exc.reraise()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 187, in reraise
+    raise self.last_attempt.result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 439, in result
+    return self.__get_result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 391, in __get_result
+    raise self._exception
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 194, in _chat_with_retry
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 178, in _chat_with_retry
+    return generation_method(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\client.py", line 835, in generate_content
+    response = rpc(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\gapic_v1\method.py", line 131, in __call__
+    return wrapped_func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 294, in retry_wrapped_func
+    return retry_target(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 156, in retry_target
+    next_sleep = _retry_error_helper(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_base.py", line 214, in _retry_error_helper
+    raise final_exc from source_exc
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 147, in retry_target
+    result = target()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\timeout.py", line 130, in func_with_timeout
+    return func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\grpc_helpers.py", line 77, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+Please retry in 56.329544833s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 56
+}
+]
+[2026-01-08 12:09:23] [INFO] [PostDischargeAssistant] [QUERY_TRANSFORM] Rewriting: What are the side effects of my medication and whe...
+[2026-01-08 12:09:26] [ERROR] [PostDischargeAssistant] [ERROR] QueryTransformer.rewrite_query: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+Please retry in 53.832826275s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 53
+}
+]
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\query_transformer.py", line 211, in rewrite_query
+    response = chain.invoke({"query": query})
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3047, in invoke
+    input_ = context.run(step.invoke, input_, config)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 378, in invoke
+    self.generate_prompt(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 963, in generate_prompt
+    return self.generate(prompt_messages, stop=stop, callbacks=callbacks, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 782, in generate
+    self._generate_with_cache(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 1028, in _generate_with_cache
+    result = self._generate(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 949, in _generate
+    response: GenerateContentResponse = _chat_with_retry(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 196, in _chat_with_retry
+    return _chat_with_retry(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 338, in wrapped_f
+    return copy(f, *args, **kw)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 378, in iter
+    result = action(retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 420, in exc_check
+    raise retry_exc.reraise()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 187, in reraise
+    raise self.last_attempt.result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 439, in result
+    return self.__get_result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 391, in __get_result
+    raise self._exception
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 194, in _chat_with_retry
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 178, in _chat_with_retry
+    return generation_method(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\client.py", line 835, in generate_content
+    response = rpc(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\gapic_v1\method.py", line 131, in __call__
+    return wrapped_func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 294, in retry_wrapped_func
+    return retry_target(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 156, in retry_target
+    next_sleep = _retry_error_helper(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_base.py", line 214, in _retry_error_helper
+    raise final_exc from source_exc
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 147, in retry_target
+    result = target()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\timeout.py", line 130, in func_with_timeout
+    return func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\grpc_helpers.py", line 77, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+Please retry in 53.832826275s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 53
+}
+]
+[2026-01-08 12:09:26] [INFO] [PostDischargeAssistant] ✓ Query Transformer initialized
+[2026-01-08 12:09:26] [INFO] [PostDischargeAssistant] [QUERY_TRANSFORM] Transforming query (mode: decompose)
+[2026-01-08 12:09:26] [INFO] [PostDischargeAssistant] [QUERY_TRANSFORM] Decomposing: Tell me about my kidney disease treatment and diet...
+[2026-01-08 12:09:28] [ERROR] [PostDischargeAssistant] [ERROR] QueryTransformer.decompose_query: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+Please retry in 51.033377855s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 51
+}
+]
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\query_transformer.py", line 116, in decompose_query
+    response = chain.invoke({"query": query})
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3047, in invoke
+    input_ = context.run(step.invoke, input_, config)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 378, in invoke
+    self.generate_prompt(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 963, in generate_prompt
+    return self.generate(prompt_messages, stop=stop, callbacks=callbacks, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 782, in generate
+    self._generate_with_cache(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 1028, in _generate_with_cache
+    result = self._generate(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 949, in _generate
+    response: GenerateContentResponse = _chat_with_retry(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 196, in _chat_with_retry
+    return _chat_with_retry(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 338, in wrapped_f
+    return copy(f, *args, **kw)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 378, in iter
+    result = action(retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 420, in exc_check
+    raise retry_exc.reraise()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 187, in reraise
+    raise self.last_attempt.result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 439, in result
+    return self.__get_result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 391, in __get_result
+    raise self._exception
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 194, in _chat_with_retry
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 178, in _chat_with_retry
+    return generation_method(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\client.py", line 835, in generate_content
+    response = rpc(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\gapic_v1\method.py", line 131, in __call__
+    return wrapped_func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 294, in retry_wrapped_func
+    return retry_target(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 156, in retry_target
+    next_sleep = _retry_error_helper(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_base.py", line 214, in _retry_error_helper
+    raise final_exc from source_exc
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 147, in retry_target
+    result = target()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\timeout.py", line 130, in func_with_timeout
+    return func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\grpc_helpers.py", line 77, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+Please retry in 51.033377855s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 51
+}
+]
+[2026-01-08 12:09:28] [INFO] [PostDischargeAssistant] [QUERY_TRANSFORM] Transforming query (mode: multi)
+[2026-01-08 12:09:28] [INFO] [PostDischargeAssistant] [QUERY_TRANSFORM] Generating variations: Tell me about my kidney disease treatment and diet...
+[2026-01-08 12:09:31] [ERROR] [PostDischargeAssistant] [ERROR] QueryTransformer.generate_multi_queries: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash-exp
+Please retry in 48.526920539s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 48
+}
+]
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\query_transformer.py", line 164, in generate_multi_queries
+    response = chain.invoke({"query": query})
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3047, in invoke
+    input_ = context.run(step.invoke, input_, config)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 378, in invoke
+    self.generate_prompt(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 963, in generate_prompt
+    return self.generate(prompt_messages, stop=stop, callbacks=callbacks, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 782, in generate
+    self._generate_with_cache(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 1028, in _generate_with_cache
+    result = self._generate(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 949, in _generate
+    response: GenerateContentResponse = _chat_with_retry(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 196, in _chat_with_retry
+    return _chat_with_retry(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 338, in wrapped_f
+    return copy(f, *args, **kw)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 378, in iter
+    result = action(retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 420, in exc_check
+    raise retry_exc.reraise()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 187, in reraise
+    raise self.last_attempt.result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 439, in result
+    return self.__get_result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 391, in __get_result
+    raise self._exception
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 194, in _chat_with_retry
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 178, in _chat_with_retry
+    return generation_method(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\client.py", line 835, in generate_content
+    response = rpc(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\gapic_v1\method.py", line 131, in __call__
+    return wrapped_func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 294, in retry_wrapped_func
+    return retry_target(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 156, in retry_target
+    next_sleep = _retry_error_helper(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_base.py", line 214, in _retry_error_helper
+    raise final_exc from source_exc
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 147, in retry_target
+    result = target()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\timeout.py", line 130, in func_with_timeout
+    return func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\grpc_helpers.py", line 77, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash-exp
+Please retry in 48.526920539s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 48
+}
+]
+[2026-01-08 12:09:31] [INFO] [PostDischargeAssistant] [QUERY_TRANSFORM] Transforming query (mode: rewrite)
+[2026-01-08 12:09:31] [INFO] [PostDischargeAssistant] [QUERY_TRANSFORM] Rewriting: Tell me about my kidney disease treatment and diet...
+[2026-01-08 12:09:33] [ERROR] [PostDischargeAssistant] [ERROR] QueryTransformer.rewrite_query: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash-exp
+Please retry in 46.012206155s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 46
+}
+]
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\query_transformer.py", line 211, in rewrite_query
+    response = chain.invoke({"query": query})
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3047, in invoke
+    input_ = context.run(step.invoke, input_, config)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 378, in invoke
+    self.generate_prompt(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 963, in generate_prompt
+    return self.generate(prompt_messages, stop=stop, callbacks=callbacks, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 782, in generate
+    self._generate_with_cache(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 1028, in _generate_with_cache
+    result = self._generate(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 949, in _generate
+    response: GenerateContentResponse = _chat_with_retry(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 196, in _chat_with_retry
+    return _chat_with_retry(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 338, in wrapped_f
+    return copy(f, *args, **kw)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 378, in iter
+    result = action(retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 420, in exc_check
+    raise retry_exc.reraise()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 187, in reraise
+    raise self.last_attempt.result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 439, in result
+    return self.__get_result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 391, in __get_result
+    raise self._exception
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 194, in _chat_with_retry
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 178, in _chat_with_retry
+    return generation_method(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\client.py", line 835, in generate_content
+    response = rpc(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\gapic_v1\method.py", line 131, in __call__
+    return wrapped_func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 294, in retry_wrapped_func
+    return retry_target(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 156, in retry_target
+    next_sleep = _retry_error_helper(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_base.py", line 214, in _retry_error_helper
+    raise final_exc from source_exc
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 147, in retry_target
+    result = target()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\timeout.py", line 130, in func_with_timeout
+    return func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\grpc_helpers.py", line 77, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash-exp
+Please retry in 46.012206155s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 46
+}
+]
+[2026-01-08 12:09:33] [INFO] [PostDischargeAssistant] ✓ Query Transformer initialized
+[2026-01-08 12:09:33] [INFO] [PostDischargeAssistant] [QUERY_TRANSFORM] Transforming query (mode: auto)
+[2026-01-08 12:09:33] [INFO] [PostDischargeAssistant] [QUERY_TRANSFORM] Rewriting: ...
+[2026-01-08 12:09:36] [ERROR] [PostDischargeAssistant] [ERROR] QueryTransformer.rewrite_query: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash-exp
+Please retry in 43.136574693s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 43
+}
+]
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\query_transformer.py", line 211, in rewrite_query
+    response = chain.invoke({"query": query})
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3047, in invoke
+    input_ = context.run(step.invoke, input_, config)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 378, in invoke
+    self.generate_prompt(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 963, in generate_prompt
+    return self.generate(prompt_messages, stop=stop, callbacks=callbacks, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 782, in generate
+    self._generate_with_cache(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 1028, in _generate_with_cache
+    result = self._generate(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 949, in _generate
+    response: GenerateContentResponse = _chat_with_retry(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 196, in _chat_with_retry
+    return _chat_with_retry(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 338, in wrapped_f
+    return copy(f, *args, **kw)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 378, in iter
+    result = action(retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 420, in exc_check
+    raise retry_exc.reraise()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 187, in reraise
+    raise self.last_attempt.result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 439, in result
+    return self.__get_result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 391, in __get_result
+    raise self._exception
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 194, in _chat_with_retry
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 178, in _chat_with_retry
+    return generation_method(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\client.py", line 835, in generate_content
+    response = rpc(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\gapic_v1\method.py", line 131, in __call__
+    return wrapped_func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 294, in retry_wrapped_func
+    return retry_target(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 156, in retry_target
+    next_sleep = _retry_error_helper(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_base.py", line 214, in _retry_error_helper
+    raise final_exc from source_exc
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 147, in retry_target
+    result = target()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\timeout.py", line 130, in func_with_timeout
+    return func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\grpc_helpers.py", line 77, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash-exp
+Please retry in 43.136574693s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 43
+}
+]
+[2026-01-08 12:09:36] [INFO] [PostDischargeAssistant] [QUERY_TRANSFORM] Transforming query (mode: auto)
+[2026-01-08 12:09:36] [INFO] [PostDischargeAssistant] [QUERY_TRANSFORM] Rewriting: Hi...
+[2026-01-08 12:09:39] [ERROR] [PostDischargeAssistant] [ERROR] QueryTransformer.rewrite_query: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+Please retry in 40.677417361s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 40
+}
+]
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\query_transformer.py", line 211, in rewrite_query
+    response = chain.invoke({"query": query})
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3047, in invoke
+    input_ = context.run(step.invoke, input_, config)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 378, in invoke
+    self.generate_prompt(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 963, in generate_prompt
+    return self.generate(prompt_messages, stop=stop, callbacks=callbacks, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 782, in generate
+    self._generate_with_cache(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 1028, in _generate_with_cache
+    result = self._generate(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 949, in _generate
+    response: GenerateContentResponse = _chat_with_retry(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 196, in _chat_with_retry
+    return _chat_with_retry(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 338, in wrapped_f
+    return copy(f, *args, **kw)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 378, in iter
+    result = action(retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 420, in exc_check
+    raise retry_exc.reraise()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 187, in reraise
+    raise self.last_attempt.result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 439, in result
+    return self.__get_result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 391, in __get_result
+    raise self._exception
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 194, in _chat_with_retry
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 178, in _chat_with_retry
+    return generation_method(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\client.py", line 835, in generate_content
+    response = rpc(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\gapic_v1\method.py", line 131, in __call__
+    return wrapped_func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 294, in retry_wrapped_func
+    return retry_target(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 156, in retry_target
+    next_sleep = _retry_error_helper(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_base.py", line 214, in _retry_error_helper
+    raise final_exc from source_exc
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 147, in retry_target
+    result = target()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\timeout.py", line 130, in func_with_timeout
+    return func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\grpc_helpers.py", line 77, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+Please retry in 40.677417361s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 40
+}
+]
+[2026-01-08 12:09:39] [INFO] [PostDischargeAssistant] [QUERY_TRANSFORM] Transforming query (mode: auto)
+[2026-01-08 12:09:39] [INFO] [PostDischargeAssistant] [QUERY_TRANSFORM] Decomposing: ?????...
+[2026-01-08 12:09:41] [ERROR] [PostDischargeAssistant] [ERROR] QueryTransformer.decompose_query: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash-exp
+Please retry in 38.202294313s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 38
+}
+]
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\query_transformer.py", line 116, in decompose_query
+    response = chain.invoke({"query": query})
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3047, in invoke
+    input_ = context.run(step.invoke, input_, config)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 378, in invoke
+    self.generate_prompt(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 963, in generate_prompt
+    return self.generate(prompt_messages, stop=stop, callbacks=callbacks, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 782, in generate
+    self._generate_with_cache(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 1028, in _generate_with_cache
+    result = self._generate(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 949, in _generate
+    response: GenerateContentResponse = _chat_with_retry(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 196, in _chat_with_retry
+    return _chat_with_retry(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 338, in wrapped_f
+    return copy(f, *args, **kw)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 378, in iter
+    result = action(retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 420, in exc_check
+    raise retry_exc.reraise()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 187, in reraise
+    raise self.last_attempt.result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 439, in result
+    return self.__get_result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 391, in __get_result
+    raise self._exception
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 194, in _chat_with_retry
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 178, in _chat_with_retry
+    return generation_method(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\client.py", line 835, in generate_content
+    response = rpc(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\gapic_v1\method.py", line 131, in __call__
+    return wrapped_func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 294, in retry_wrapped_func
+    return retry_target(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 156, in retry_target
+    next_sleep = _retry_error_helper(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_base.py", line 214, in _retry_error_helper
+    raise final_exc from source_exc
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 147, in retry_target
+    result = target()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\timeout.py", line 130, in func_with_timeout
+    return func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\grpc_helpers.py", line 77, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash-exp
+Please retry in 38.202294313s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 38
+}
+]
+[2026-01-08 12:09:41] [INFO] [PostDischargeAssistant] [QUERY_TRANSFORM] Transforming query (mode: auto)
+[2026-01-08 12:09:41] [INFO] [PostDischargeAssistant] [QUERY_TRANSFORM] Rewriting: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa...
+[2026-01-08 12:09:44] [ERROR] [PostDischargeAssistant] [ERROR] QueryTransformer.rewrite_query: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+Please retry in 35.747691427s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 35
+}
+]
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\query_transformer.py", line 211, in rewrite_query
+    response = chain.invoke({"query": query})
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3047, in invoke
+    input_ = context.run(step.invoke, input_, config)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 378, in invoke
+    self.generate_prompt(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 963, in generate_prompt
+    return self.generate(prompt_messages, stop=stop, callbacks=callbacks, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 782, in generate
+    self._generate_with_cache(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 1028, in _generate_with_cache
+    result = self._generate(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 949, in _generate
+    response: GenerateContentResponse = _chat_with_retry(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 196, in _chat_with_retry
+    return _chat_with_retry(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 338, in wrapped_f
+    return copy(f, *args, **kw)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 378, in iter
+    result = action(retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 420, in exc_check
+    raise retry_exc.reraise()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 187, in reraise
+    raise self.last_attempt.result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 439, in result
+    return self.__get_result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 391, in __get_result
+    raise self._exception
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 194, in _chat_with_retry
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 178, in _chat_with_retry
+    return generation_method(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\client.py", line 835, in generate_content
+    response = rpc(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\gapic_v1\method.py", line 131, in __call__
+    return wrapped_func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 294, in retry_wrapped_func
+    return retry_target(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 156, in retry_target
+    next_sleep = _retry_error_helper(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_base.py", line 214, in _retry_error_helper
+    raise final_exc from source_exc
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 147, in retry_target
+    result = target()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\timeout.py", line 130, in func_with_timeout
+    return func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\grpc_helpers.py", line 77, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+Please retry in 35.747691427s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 35
+}
+]
+[2026-01-08 12:09:44] [INFO] [PostDischargeAssistant] [QUERY_TRANSFORM] Transforming query (mode: auto)
+[2026-01-08 12:09:44] [INFO] [PostDischargeAssistant] [QUERY_TRANSFORM] Decomposing: What? How? Why?...
+[2026-01-08 12:09:46] [ERROR] [PostDischargeAssistant] [ERROR] QueryTransformer.decompose_query: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+Please retry in 33.312897448s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 33
+}
+]
+Traceback (most recent call last):
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\src\query_transformer.py", line 116, in decompose_query
+    response = chain.invoke({"query": query})
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\runnables\base.py", line 3047, in invoke
+    input_ = context.run(step.invoke, input_, config)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 378, in invoke
+    self.generate_prompt(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 963, in generate_prompt
+    return self.generate(prompt_messages, stop=stop, callbacks=callbacks, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 782, in generate
+    self._generate_with_cache(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_core\language_models\chat_models.py", line 1028, in _generate_with_cache
+    result = self._generate(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 949, in _generate
+    response: GenerateContentResponse = _chat_with_retry(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 196, in _chat_with_retry
+    return _chat_with_retry(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 338, in wrapped_f
+    return copy(f, *args, **kw)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 378, in iter
+    result = action(retry_state)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 420, in exc_check
+    raise retry_exc.reraise()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 187, in reraise
+    raise self.last_attempt.result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 439, in result
+    return self.__get_result()
+  File "C:\Users\pisep\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 391, in __get_result
+    raise self._exception
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\tenacity\__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 194, in _chat_with_retry
+    raise e
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\langchain_google_genai\chat_models.py", line 178, in _chat_with_retry
+    return generation_method(**kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\client.py", line 835, in generate_content
+    response = rpc(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\gapic_v1\method.py", line 131, in __call__
+    return wrapped_func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 294, in retry_wrapped_func
+    return retry_target(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 156, in retry_target
+    next_sleep = _retry_error_helper(
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_base.py", line 214, in _retry_error_helper
+    raise final_exc from source_exc
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\retry\retry_unary.py", line 147, in retry_target
+    result = target()
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\timeout.py", line 130, in func_with_timeout
+    return func(*args, **kwargs)
+  File "C:\Users\pisep\OneDrive\Desktop\6th sem main\Projects\post-discharge-assistant\venv\lib\site-packages\google\api_core\grpc_helpers.py", line 77, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash-exp
+Please retry in 33.312897448s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 33
+}
+]
